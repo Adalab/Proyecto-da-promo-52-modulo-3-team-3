@@ -1,0 +1,1615 @@
+,age,attrition,business_travel,distance_from_home,education,education_field,environment_satisfaction,gender,job_involvement,job_level,job_role,job_satisfaction,marital_status,monthly_income_$,num_companies_worked,over_time,percent_salary_hike,performance_rating,relationship_satisfaction,standard_hours,stock_option_level,total_working_years,worklife_balance,years_at_company,years_since_last_promotion,years_with_curr_manager,remote_work
+0,51,no,non-travel,6,3,,1,M,3,5, research director ,3,,19537.0,7,No,13,3.0,3,full-time,0,,3.0,20,15,15,yes
+1,52,no,non-travel,1,4,life sciences,3,M,2,5, manager ,3,,19999.0,0,,14,3.0,1,full-time,1,34.0,3.0,33,11,9,yes
+2,42,no,travel_rarely,4,2,technical degree,3,M,3,5, manager ,4,married,19232.0,1,No,11,3.0,4,full-time,0,22.0,,22,11,15,yes
+3,47,no,travel_rarely,2,4,medical,1,F,3,4, research director ,3,married,17169.0,3,,19,3.0,2,full-time,2,,,20,5,6,no
+4,46,no,non-travel,3,3,technical degree,1,F,4,4, sales executive ,1,divorced,,2,No,12,3.0,4,full-time,1,,3.0,19,2,8,no
+5,48,no,non-travel,22,3,medical,4,F,3,4, manager ,4,,17174.0,3,No,11,3.0,2,full-time,1,,3.0,22,4,7,yes
+6,59,no,non-travel,25,3,life sciences,1,F,3,3, sales executive ,1,,,7,,11,3.0,4,full-time,0,28.0,2.0,21,7,9,yes
+7,42,no,travel_rarely,1,1,,2,M,3,2, sales executive ,3,married,,1,No,25,4.0,3,full-time,0,20.0,3.0,20,11,6,no
+8,41,no,non-travel,2,5,,2,F,3,4, manager ,1,married,16595.0,7,No,16,3.0,2,full-time,1,22.0,3.0,18,11,8,yes
+9,41,no,travel_frequently,9,3,,1,M,3,5, research director ,3,,,2,No,17,3.0,2,full-time,1,21.0,4.0,18,0,11,no
+10,41,no,non-travel,7,1,,2,F,1,5, research director ,3,,19973.0,1,No,22,4.0,2,full-time,2,,3.0,21,5,10,no
+11,56,no,travel_rarely,23,3,life sciences,4,M,3,4, manufacturing director ,2,married,13402.0,4,Yes,12,,1,full-time,1,33.0,3.0,19,15,9,no
+12,38,no,non-travel,10,3,medical,2,F,1,3, research director ,3,married,13206.0,3,No,12,3.0,1,full-time,1,,3.0,18,1,11,yes
+13,41,yes,travel_rarely,12,3,,2,F,3,5, research director ,3,married,19545.0,1,No,12,3.0,4,full-time,0,,3.0,22,15,8,no
+14,55,no,non-travel,14,4,medical,3,M,4,5, research director ,2,single,,8,No,11,3.0,4,full-time,0,,3.0,24,2,15,yes
+15,40,no,travel_rarely,2,4,,3,F,3,5, manager ,3,,18041.0,0,No,14,3.0,4,full-time,0,,3.0,20,1,12,no
+16,58,yes,travel_rarely,2,4,,4,M,3,5, research director ,2,single,19246.0,7,Yes,12,3.0,4,full-time,0,40.0,3.0,31,13,8,no
+17,46,no,travel_rarely,2,3,,3,F,3,4, manager ,1,,,8,,23,4.0,1,full-time,0,28.0,3.0,26,15,9,no
+18,35,no,non-travel,13,5,life sciences,2,M,4,2, research scientist ,1,married,,1,,11,3.0,4,full-time,0,,3.0,16,1,10,no
+19,40,no,travel_rarely,15,3,life sciences,1,F,2,3, manufacturing director ,3,,,1,,13,3.0,4,full-time,2,18.0,,18,14,12,yes
+20,45,no,non-travel,1,1,,3,M,2,3, healthcare representative ,3,,10748.0,3,,23,4.0,4,full-time,1,25.0,2.0,23,14,4,no
+21,33,no,non-travel,1,2,life sciences,1,F,3,3, research director ,4,single,,1,Yes,12,3.0,3,full-time,0,15.0,3.0,15,8,12,yes
+22,36,no,non-travel,8,3,,3,F,3,3, healthcare representative ,3,divorced,,1,,13,,2,full-time,3,17.0,3.0,17,12,8,yes
+23,47,no,non-travel,2,2,other,3,F,3,4, manager ,4,married,16752.0,1,,11,3.0,3,part-time,1,,2.0,26,3,0,no
+24,36,no,travel_rarely,42,2,life sciences,42,M,3,2, sales executive ,4,,6201.0,1,,14,3.0,4,full-time,1,18.0,,18,4,11,yes
+25,35,no,non-travel,9,3,life sciences,4,F,2,3, manufacturing director ,3,married,,1,Yes,20,4.0,2,part-time,1,17.0,3.0,17,5,15,no
+26,52,yes,non-travel,2,1,,1,F,1,5, manager ,4,married,19845.0,1,No,15,3.0,4,full-time,1,33.0,3.0,32,6,9,yes
+27,36,no,non-travel,2,4,life sciences,3,F,3,2, manufacturing director ,2,single,,9,Yes,11,3.0,4,full-time,0,18.0,3.0,16,5,12,no
+28,33,no,travel_rarely,28,4,life sciences,2,M,3,2, laboratory technician ,3,married,,1,,12,3.0,2,full-time,1,15.0,3.0,15,5,7,yes
+29,34,no,non-travel,10,3,life sciences,4,M,3,2, sales executive ,3,,4001.0,1,Yes,14,3.0,3,full-time,1,15.0,3.0,15,0,7,yes
+30,41,no,non-travel,37,1,,37,F,3,3, sales executive ,3,divorced,10447.0,0,,13,3.0,4,full-time,1,,4.0,22,13,5,yes
+31,47,no,non-travel,25,3,medical,1,M,3,3, healthcare representative ,3,,,2,,23,4.0,2,full-time,0,25.0,3.0,17,12,11,yes
+32,53,no,travel_rarely,5,3,,3,F,3,5, manager ,3,,,4,,11,3.0,4,full-time,1,26.0,2.0,14,4,8,yes
+33,35,no,non-travel,1,4,marketing,3,M,2,2, sales executive ,1,single,,0,No,14,,2,part-time,0,16.0,3.0,15,2,8,no
+34,34,no,travel_rarely,6,4,other,1,F,3,2, research scientist ,3,single,,1,,14,3.0,3,full-time,0,16.0,3.0,16,2,10,yes
+35,46,no,travel_rarely,1,2,,2,F,3,3, sales executive ,1,divorced,,1,No,25,4.0,3,full-time,3,24.0,3.0,24,15,7,yes
+36,43,no,non-travel,16,3,,4,F,3,4, manager ,4,married,16064.0,5,,22,4.0,3,full-time,1,22.0,3.0,17,1,9,yes
+37,36,no,non-travel,6,3,life sciences,4,M,3,1, laboratory technician ,4,married,3210.0,0,,11,3.0,3,full-time,1,16.0,3.0,15,10,11,yes
+38,60,no,travel_frequently,28,3,,3,F,2,3, sales executive ,1,married,10266.0,4,No,19,3.0,4,full-time,0,22.0,4.0,18,13,11,yes
+39,40,no,travel_frequently,5,4,,4,M,2,3, sales executive ,1,married,10475.0,5,Yes,21,4.0,3,part-time,1,20.0,3.0,18,1,12,no
+40,32,no,travel_rarely,4,3,,3,F,2,2, manufacturing director ,3,married,6162.0,1,No,12,3.0,3,part-time,1,14.0,3.0,14,6,8,no
+41,41,no,travel_rarely,35,3,,35,M,3,1, laboratory technician ,1,single,4721.0,2,Yes,13,,3,full-time,0,20.0,3.0,18,2,17,yes
+42,53,no,non-travel,2,2,medical,3,M,3,4, manager ,3,divorced,,6,No,13,3.0,3,full-time,1,22.0,4.0,17,15,2,no
+43,36,yes,travel_rarely,16,4,,3,F,4,1, laboratory technician ,1,single,,1,,16,3.0,3,part-time,0,18.0,3.0,17,15,14,yes
+44,46,no,non-travel,8,4,life sciences,4,F,2,2, research scientist ,1,divorced,4615.0,8,Yes,23,4.0,1,full-time,3,,3.0,16,1,7,no
+45,38,no,travel_rarely,1,4,,4,M,3,2, sales executive ,2,married,,0,No,15,3.0,1,full-time,2,16.0,,15,5,8,yes
+46,51,no,non-travel,1,4,,1,F,2,3, healthcare representative ,1,single,,3,,20,4.0,3,full-time,0,23.0,2.0,13,12,8,yes
+47,43,no,non-travel,26,2,,3,M,3,4, manager ,4,married,16959.0,1,Yes,12,3.0,4,part-time,2,25.0,4.0,25,4,12,yes
+48,37,no,non-travel,1,3,life sciences,4,F,3,1, research scientist ,4,single,,1,No,12,3.0,2,part-time,0,,3.0,17,5,7,yes
+49,32,no,travel_rarely,8,2,technical degree,3,F,2,2, sales executive ,2,married,,1,Yes,11,3.0,4,part-time,0,,3.0,13,11,9,yes
+50,38,no,non-travel,1,3,,4,F,3,3, research director ,1,married,,1,,13,3.0,2,full-time,1,15.0,3.0,15,5,11,no
+51,46,no,non-travel,3,3,life sciences,3,F,3,4, manager ,2,,,8,No,12,3.0,4,part-time,1,23.0,4.0,13,5,1,yes
+52,35,yes,travel_rarely,10,3,medical,4,M,2,3, sales executive ,1,married,10306.0,9,,17,3.0,3,full-time,0,15.0,,13,6,0,no
+53,43,no,non-travel,6,3,medical,1,F,2,5, manager ,3,married,,7,No,13,3.0,4,full-time,0,21.0,3.0,16,6,14,yes
+54,56,no,non-travel,1,4,life sciences,3,M,3,2, healthcare representative ,3,divorced,,1,No,21,,1,full-time,1,,2.0,13,1,9,yes
+55,36,no,non-travel,15,4,marketing,4,M,1,2, sales executive ,4,divorced,5406.0,1,No,24,4.0,1,part-time,1,,2.0,15,11,11,yes
+56,38,no,non-travel,6,3,medical,2,F,1,2, research scientist ,4,,,7,,12,3.0,4,full-time,3,17.0,3.0,13,1,9,yes
+57,49,no,non-travel,26,4,medical,3,F,3,2, manufacturing director ,1,,,1,No,14,3.0,3,full-time,0,16.0,2.0,15,5,11,no
+58,39,no,travel_rarely,4,4,life sciences,4,F,2,2, sales executive ,3,married,5902.0,4,,14,3.0,3,part-time,1,17.0,4.0,15,5,9,yes
+59,40,no,non-travel,4,4,,3,M,2,3, sales executive ,4,married,10855.0,7,No,11,,1,full-time,1,15.0,2.0,12,2,11,yes
+60,36,no,non-travel,5,2,,4,M,3,2, laboratory technician ,2,single,5914.0,8,No,16,3.0,4,part-time,0,16.0,4.0,13,3,7,yes
+61,37,no,non-travel,25,5,,2,F,3,2, research scientist ,3,married,,3,Yes,15,3.0,1,part-time,2,15.0,3.0,13,10,7,no
+62,35,no,non-travel,6,4,,2,M,1,2, research scientist ,4,,6646.0,1,,13,3.0,2,full-time,0,,3.0,17,11,8,yes
+63,33,no,travel_frequently,6,3,life sciences,3,M,3,2, healthcare representative ,4,divorced,,3,No,23,4.0,3,full-time,1,15.0,1.0,13,4,7,no
+64,50,no,travel_rarely,24,3,,4,M,3,4, manufacturing director ,3,married,13973.0,3,Yes,18,3.0,4,full-time,1,22.0,3.0,12,1,5,no
+65,48,no,travel_rarely,4,4,,3,M,2,3, healthcare representative ,3,single,,7,,14,,2,part-time,0,27.0,3.0,15,4,8,yes
+66,44,no,travel_rarely,28,3,,4,F,4,4, sales executive ,4,married,13320.0,3,,18,3.0,3,part-time,1,,3.0,12,11,11,yes
+67,44,no,travel_rarely,29,4,,4,M,3,2, research scientist ,4,single,,1,,25,4.0,2,full-time,0,,3.0,20,13,17,yes
+68,40,no,non-travel,25,1,,25,F,4,2, healthcare representative ,3,,,5,No,20,4.0,2,full-time,3,15.0,3.0,12,11,8,yes
+69,34,no,travel_rarely,2,4,,3,F,3,2, healthcare representative ,4,single,6687.0,1,,11,3.0,4,part-time,0,14.0,4.0,14,4,11,yes
+70,35,no,non-travel,8,4,,3,F,3,2, healthcare representative ,3,,,1,,12,3.0,4,part-time,1,,3.0,14,2,9,yes
+71,50,no,non-travel,17,5,life sciences,4,F,2,3, research director ,1,,,5,No,15,3.0,3,full-time,3,,3.0,14,1,11,no
+72,49,no,non-travel,6,1,life sciences,3,F,2,4, healthcare representative ,3,,,2,,19,3.0,2,part-time,1,,3.0,15,2,12,yes
+73,38,no,travel_frequently,1,3,life sciences,4,M,3,2, research scientist ,4,,4735.0,7,No,15,3.0,4,part-time,2,19.0,,13,2,9,yes
+74,33,no,non-travel,21,3,,2,M,4,1, laboratory technician ,2,,,1,No,18,3.0,4,full-time,3,14.0,,14,2,13,yes
+75,47,no,travel_rarely,4,3,life sciences,3,F,2,3, manufacturing director ,2,divorced,,8,Yes,12,,3,full-time,1,,3.0,22,14,10,yes
+76,38,no,non-travel,8,3,,4,F,2,2, research scientist ,2,divorced,,1,,16,3.0,3,full-time,1,20.0,3.0,20,0,7,no
+77,37,no,travel_rarely,10,3,life sciences,3,F,4,3, research director ,4,,,1,Yes,25,4.0,1,full-time,1,16.0,3.0,16,6,8,yes
+78,30,no,non-travel,2,3,,3,M,2,2, healthcare representative ,4,married,,1,No,19,,1,part-time,3,11.0,3.0,11,10,8,yes
+79,58,no,travel_rarely,18,4,,4,M,3,4, sales executive ,3,single,13872.0,0,,13,3.0,3,full-time,0,38.0,2.0,37,1,8,yes
+80,34,no,travel_rarely,5,3,,3,F,2,3, manager ,1,single,,2,,12,3.0,4,part-time,0,14.0,3.0,11,5,8,no
+81,58,yes,travel_rarely,23,4,medical,4,F,3,3, healthcare representative ,4,married,,1,,12,3.0,4,full-time,1,40.0,2.0,40,15,6,yes
+82,38,no,non-travel,3,3,life sciences,1,M,3,3, sales executive ,3,divorced,,0,,12,3.0,3,full-time,2,,2.0,16,5,13,yes
+83,29,no,travel_frequently,1,1,,2,F,3,3, sales executive ,4,married,,1,,14,3.0,4,full-time,1,11.0,3.0,11,4,1,yes
+84,55,no,travel_rarely,1,3,medical,4,M,3,5, manager ,1,single,19045.0,0,,14,3.0,3,full-time,0,37.0,3.0,36,4,13,yes
+85,41,no,non-travel,10,4,,4,M,3,4, manager ,2,,16015.0,1,,19,3.0,2,full-time,0,,3.0,22,0,4,yes
+86,39,no,travel_rarely,1,3,,3,M,4,3, healthcare representative ,4,,9613.0,0,No,17,,1,part-time,3,19.0,2.0,18,3,7,no
+87,38,no,non-travel,15,2,life sciences,3,M,2,3, research director ,4,,11510.0,0,,14,3.0,2,full-time,1,,3.0,11,2,9,yes
+88,43,no,non-travel,12,3,,1,M,2,4, research director ,2,,,1,No,11,3.0,3,part-time,1,,,25,3,9,yes
+89,31,no,non-travel,30,2,,2,F,3,2, manufacturing director ,1,married,4306.0,1,No,12,3.0,2,part-time,1,13.0,1.0,13,3,12,yes
+90,50,no,travel_rarely,27,4,life sciences,27,M,2,4, manager ,3,married,17046.0,0,No,15,3.0,2,full-time,1,28.0,3.0,27,15,7,yes
+91,35,no,non-travel,25,3,technical degree,4,M,2,3, manufacturing director ,2,married,,3,No,16,,1,full-time,0,,3.0,13,4,8,no
+92,47,no,non-travel,16,4,,3,M,4,2, manufacturing director ,3,,5067.0,1,Yes,19,3.0,3,full-time,0,20.0,,19,2,7,yes
+93,35,no,non-travel,25,4,,3,F,3,3, healthcare representative ,3,divorced,,1,Yes,11,,3,full-time,1,,2.0,16,10,1,yes
+94,40,no,travel_rarely,20,4,,1,M,3,3, healthcare representative ,4,married,,4,,20,4.0,4,full-time,1,14.0,3.0,11,11,1,yes
+95,45,no,non-travel,9,4,life sciences,2,F,2,2, sales executive ,3,married,,1,,13,3.0,4,part-time,1,15.0,3.0,15,4,12,no
+96,33,no,non-travel,9,3,medical,1,M,3,1, research scientist ,4,married,,0,,13,3.0,2,full-time,1,15.0,3.0,14,4,10,no
+97,36,no,travel_frequently,3,3,,3,M,3,1, research scientist ,2,married,3692.0,1,No,12,3.0,3,full-time,0,12.0,2.0,11,0,7,no
+98,45,yes,non-travel,13,3,marketing,1,F,1,5, manager ,2,,,2,Yes,16,3.0,1,full-time,0,26.0,3.0,24,1,11,yes
+99,51,no,travel_frequently,27,3,,27,M,3,5, manager ,2,,19847.0,4,Yes,24,,1,full-time,1,,2.0,29,11,10,no
+100,34,no,travel_rarely,7,2,technical degree,2,M,3,1, sales representative ,3,,2308.0,0,Yes,25,4.0,2,full-time,1,12.0,3.0,11,5,7,no
+101,43,no,travel_rarely,15,2,,3,M,2,4, research director ,3,,,1,No,24,4.0,1,full-time,1,,3.0,14,6,11,yes
+102,34,no,non-travel,5,2,medical,2,M,2,2, laboratory technician ,4,,,1,No,14,3.0,3,full-time,1,,,15,4,13,no
+103,38,no,non-travel,2,3,,1,M,3,1, human resources ,2,divorced,,5,No,13,3.0,4,full-time,3,13.0,3.0,11,3,8,yes
+104,48,no,non-travel,10,3,,4,M,2,5, research director ,2,,,4,No,12,3.0,4,full-time,0,29.0,3.0,22,12,9,no
+105,34,no,non-travel,22,4,other,3,M,2,2, research scientist ,4,married,5747.0,1,Yes,15,3.0,2,full-time,0,16.0,3.0,15,6,11,no
+106,32,no,travel_rarely,31,4,,31,F,3,3, sales executive ,4,,10422.0,1,No,19,3.0,3,full-time,2,14.0,3.0,14,5,7,yes
+107,29,no,travel_rarely,21,4,life sciences,2,F,4,3, manufacturing director ,1,divorced,,1,No,11,3.0,3,full-time,1,10.0,3.0,10,8,8,no
+108,46,no,non-travel,1,3,medical,3,M,2,3, healthcare representative ,1,married,,2,Yes,13,3.0,3,full-time,1,21.0,2.0,10,9,5,no
+109,30,no,non-travel,9,3,,3,M,3,2, human resources ,4,married,6347.0,0,Yes,19,3.0,4,part-time,0,,1.0,11,4,7,no
+110,45,no,non-travel,9,3,life sciences,2,M,3,2, laboratory technician ,2,,2348.0,8,No,18,3.0,3,full-time,1,20.0,,17,0,15,yes
+111,30,no,travel_rarely,5,3,,2,F,3,3, sales executive ,4,,,2,No,12,3.0,3,full-time,1,,3.0,10,7,4,yes
+112,30,no,non-travel,9,3,,3,M,3,2, laboratory technician ,1,,3072.0,1,No,11,,3,part-time,2,12.0,3.0,12,6,10,yes
+113,34,no,travel_frequently,29,1,,4,M,2,2, manufacturing director ,3,married,,1,,17,3.0,3,full-time,0,10.0,2.0,10,1,9,no
+114,51,no,travel_rarely,8,4,life sciences,2,M,2,3, research director ,2,married,12490.0,5,No,16,3.0,4,full-time,2,16.0,1.0,10,4,7,no
+115,34,no,non-travel,39,4,life sciences,39,M,2,2, manufacturing director ,1,,,6,,13,3.0,2,full-time,1,13.0,3.0,11,5,9,yes
+116,35,no,travel_rarely,16,3,,3,M,3,3, sales executive ,2,married,8020.0,0,,15,3.0,3,full-time,2,12.0,2.0,11,6,9,yes
+117,45,no,travel_frequently,7,3,life sciences,1,M,3,3, laboratory technician ,1,,,1,,18,3.0,1,full-time,1,24.0,3.0,24,9,11,yes
+118,39,no,non-travel,10,1,,3,M,3,4, manager ,1,married,17068.0,1,,14,,4,full-time,0,21.0,3.0,21,11,10,yes
+119,31,no,non-travel,7,2,,3,F,2,3, manufacturing director ,3,married,8943.0,1,No,24,4.0,1,full-time,1,10.0,3.0,10,8,9,no
+120,39,no,non-travel,7,2,,3,M,2,5, manager ,4,married,19272.0,1,,15,3.0,1,full-time,1,,3.0,21,13,3,yes
+121,45,no,travel_rarely,8,4,,4,M,3,2, research scientist ,4,,,9,No,14,3.0,1,part-time,2,12.0,3.0,10,9,8,yes
+122,30,no,travel_rarely,5,3,marketing,4,F,2,2, sales executive ,3,,,1,,13,3.0,3,full-time,3,10.0,3.0,10,1,2,yes
+123,31,no,non-travel,7,4,medical,3,F,3,3, manufacturing director ,4,,,1,,14,3.0,3,full-time,0,11.0,2.0,11,4,10,no
+124,36,no,non-travel,3,4,medical,1,M,2,3, sales executive ,4,married,,4,No,11,3.0,1,full-time,1,16.0,3.0,13,1,12,yes
+125,36,no,travel_rarely,2,2,,2,M,2,3, sales executive ,3,married,,1,,13,3.0,2,full-time,2,10.0,3.0,10,9,0,yes
+126,55,no,travel_rarely,18,5,,1,F,3,4, manager ,2,single,,3,No,23,4.0,4,full-time,0,37.0,3.0,10,7,7,yes
+127,35,no,non-travel,1,3,,2,M,3,2, sales executive ,3,,,9,,11,3.0,3,full-time,0,15.0,3.0,11,6,9,yes
+128,42,no,travel_rarely,24,3,medical,4,M,3,3, manufacturing director ,1,married,,1,,21,4.0,4,part-time,1,10.0,2.0,10,5,8,no
+129,52,no,travel_rarely,6,2,,4,M,3,2, research scientist ,1,divorced,5577.0,3,Yes,12,,2,full-time,2,18.0,3.0,10,6,9,yes
+130,49,no,non-travel,18,4,life sciences,4,M,2,5, research director ,3,,,1,Yes,17,3.0,3,full-time,1,,3.0,31,0,9,yes
+131,34,no,travel_rarely,1,5,,2,M,3,1, research scientist ,4,married,2691.0,1,No,12,3.0,4,part-time,1,,2.0,10,8,8,yes
+132,33,yes,travel_rarely,1,4,other,4,M,3,1, research scientist ,4,single,,1,,13,3.0,3,part-time,0,10.0,2.0,10,7,8,no
+133,33,no,non-travel,7,3,medical,3,M,3,3, research director ,3,married,,0,No,11,3.0,4,full-time,0,,4.0,13,3,7,yes
+134,53,no,travel_rarely,23,4,,4,F,3,4, research director ,4,,,6,No,18,3.0,3,full-time,0,33.0,3.0,12,3,8,yes
+135,49,no,travel_rarely,8,2,other,1,F,3,3, laboratory technician ,2,married,7403.0,4,,11,3.0,3,full-time,1,29.0,2.0,26,1,7,no
+136,35,no,non-travel,21,4,,21,M,3,3, sales executive ,4,,,6,,13,3.0,2,part-time,1,,3.0,10,0,8,no
+137,38,no,travel_rarely,17,1,life sciences,3,F,2,3, healthcare representative ,3,married,8823.0,0,,18,3.0,1,full-time,1,20.0,2.0,19,1,9,no
+138,46,no,non-travel,3,1,marketing,1,M,3,4, manager ,3,married,,3,No,12,3.0,4,full-time,1,,3.0,12,4,9,no
+139,36,no,non-travel,18,4,,1,M,3,2, manufacturing director ,4,single,,2,,20,4.0,1,full-time,0,18.0,3.0,11,0,9,no
+140,42,yes,travel_frequently,15,3,life sciences,15,M,3,4, sales executive ,1,single,,0,,12,,2,full-time,0,,2.0,21,13,14,yes
+141,34,no,travel_frequently,1,3,,4,M,2,2, healthcare representative ,1,single,,0,No,20,4.0,3,full-time,0,14.0,3.0,13,4,9,yes
+142,30,no,travel_rarely,1,3,medical,4,M,3,1, research scientist ,2,,3579.0,0,Yes,21,4.0,1,full-time,1,12.0,3.0,11,5,7,yes
+143,54,no,travel_rarely,3,3,life sciences,4,M,3,4, research director ,4,married,17779.0,3,No,14,3.0,1,part-time,0,36.0,3.0,10,0,9,yes
+144,31,no,travel_rarely,24,3,medical,3,F,2,2, healthcare representative ,1,single,,1,No,19,,2,full-time,0,10.0,3.0,10,1,8,no
+145,44,no,non-travel,5,3,,2,M,3,5, manager ,2,married,18213.0,7,No,11,3.0,3,part-time,1,26.0,3.0,22,3,10,yes
+146,55,no,non-travel,8,1,,4,M,2,4, healthcare representative ,2,divorced,13577.0,1,Yes,15,3.0,4,full-time,1,,3.0,33,15,0,no
+147,44,no,travel_rarely,4,2,life sciences,3,M,4,5, manager ,1,divorced,19190.0,1,No,14,3.0,4,full-time,2,,2.0,25,14,13,no
+148,34,no,travel_frequently,11,3,life sciences,3,M,2,2, human resources ,2,,,4,No,11,3.0,4,full-time,2,14.0,4.0,10,1,8,yes
+149,39,no,non-travel,13,4,,3,F,2,4, manager ,2,divorced,17123.0,6,Yes,13,3.0,4,full-time,2,,3.0,19,15,2,no
+150,55,no,travel_rarely,2,2,medical,4,F,1,5, manager ,3,,19187.0,4,,14,,4,full-time,1,23.0,3.0,19,9,11,yes
+151,51,no,non-travel,5,3,life sciences,3,M,3,4, manager ,2,,,1,,11,3.0,2,part-time,1,,3.0,33,0,10,yes
+152,58,yes,non-travel,14,4,medical,14,F,2,3, manufacturing director ,1,married,10008.0,7,,14,3.0,4,part-time,0,,2.0,10,5,9,yes
+153,48,no,non-travel,4,3,life sciences,4,M,3,3, manufacturing director ,4,single,,1,No,11,3.0,3,full-time,0,11.0,3.0,10,0,8,yes
+154,29,no,travel_rarely,17,3,,2,M,2,3, human resources ,1,single,7988.0,1,,13,3.0,1,full-time,0,,2.0,10,0,9,no
+155,34,no,non-travel,3,3,other,4,M,1,2, sales executive ,1,single,,3,No,18,,4,part-time,0,15.0,3.0,13,3,12,yes
+156,42,no,travel_frequently,9,2,,1,F,3,1, laboratory technician ,4,,,1,,13,3.0,3,full-time,0,12.0,3.0,12,5,8,yes
+157,57,no,travel_rarely,1,2,life sciences,2,M,4,2, research scientist ,3,married,,0,No,24,4.0,1,full-time,1,13.0,2.0,12,2,8,yes
+158,34,yes,travel_rarely,24,4,,1,F,2,2, sales executive ,2,single,,0,Yes,23,4.0,3,full-time,0,16.0,4.0,15,10,10,no
+159,54,no,travel_frequently,11,4,medical,2,F,3,4, manager ,4,,,3,No,20,,1,full-time,1,26.0,3.0,14,1,12,yes
+160,34,no,travel_rarely,1,3,,4,M,2,3, sales executive ,3,,7083.0,1,,14,3.0,4,part-time,0,,3.0,10,8,6,no
+161,29,no,non-travel,3,1,medical,2,M,3,1, laboratory technician ,1,single,4723.0,1,,18,3.0,4,full-time,0,,,10,1,5,yes
+162,35,no,travel_rarely,28,3,life sciences,2,M,4,2, laboratory technician ,3,,3407.0,1,,17,,4,full-time,2,,2.0,10,6,8,yes
+163,35,yes,non-travel,12,4,other,4,M,3,2, sales executive ,4,,,3,,24,4.0,1,full-time,0,13.0,4.0,11,6,7,yes
+164,34,no,travel_rarely,19,3,life sciences,2,F,2,1, research scientist ,4,married,2929.0,1,No,12,3.0,2,full-time,0,10.0,3.0,10,8,7,yes
+165,43,no,non-travel,2,3,,4,M,3,2, sales executive ,4,,,1,Yes,17,3.0,1,full-time,1,10.0,3.0,10,8,8,no
+166,58,no,non-travel,2,3,medical,2,M,3,4, manager ,2,divorced,,4,No,22,4.0,4,full-time,1,37.0,2.0,16,14,14,yes
+167,36,no,travel_rarely,14,4,,14,F,2,2, sales executive ,3,married,,1,Yes,13,3.0,1,full-time,1,10.0,3.0,10,1,7,no
+168,43,no,travel_rarely,11,3,life sciences,1,M,3,3, healthcare representative ,3,married,,1,,17,3.0,2,full-time,1,10.0,3.0,10,0,9,yes
+169,55,no,non-travel,26,4,human resources,3,M,4,5, manager ,2,married,,4,Yes,18,3.0,1,part-time,1,35.0,3.0,10,1,4,yes
+170,42,no,non-travel,23,2,,4,M,2,2, research scientist ,3,single,,1,,12,3.0,4,part-time,0,20.0,3.0,20,3,7,yes
+171,40,no,non-travel,11,3,technical degree,4,F,3,2, laboratory technician ,3,married,,1,,11,,1,full-time,1,10.0,4.0,10,9,4,yes
+172,56,yes,non-travel,7,2,technical degree,4,M,3,1, laboratory technician ,3,married,,8,No,11,3.0,4,part-time,1,14.0,1.0,10,9,8,yes
+173,39,no,travel_rarely,33,1,marketing,33,F,2,4, sales executive ,4,,12031.0,0,,11,3.0,1,part-time,1,,2.0,20,9,6,yes
+174,53,no,travel_rarely,2,4,life sciences,1,F,2,4, manager ,4,married,15427.0,2,No,16,3.0,3,part-time,0,,3.0,25,3,7,yes
+175,27,no,travel_frequently,8,3,,4,M,3,3, sales executive ,3,single,,1,No,15,3.0,4,full-time,0,9.0,3.0,9,1,7,no
+176,30,no,travel_frequently,1,2,,3,F,3,2, laboratory technician ,4,,,1,,23,4.0,4,full-time,0,12.0,,12,3,7,yes
+177,35,no,non-travel,18,5,life sciences,2,M,3,3, sales executive ,1,married,,1,,22,4.0,4,part-time,1,9.0,2.0,9,1,8,yes
+178,32,no,travel_rarely,1,3,medical,1,M,3,2, manufacturing director ,4,married,6162.0,1,Yes,22,4.0,2,full-time,1,9.0,3.0,9,7,8,yes
+179,30,no,travel_rarely,1,1,life sciences,4,M,2,2, laboratory technician ,4,married,5126.0,1,,12,3.0,3,full-time,2,,,10,3,0,no
+180,46,yes,non-travel,9,2,medical,3,M,2,3, sales executive ,4,,9619.0,1,No,16,3.0,4,full-time,0,9.0,3.0,9,4,7,no
+181,30,no,travel_rarely,4,2,,3,F,2,2, sales executive ,2,,,1,Yes,12,3.0,2,full-time,3,11.0,2.0,11,2,7,no
+182,32,no,non-travel,6,4,,2,M,3,2, sales executive ,3,single,5010.0,1,No,16,3.0,1,part-time,0,12.0,3.0,11,5,7,yes
+183,35,no,travel_rarely,37,5,marketing,3,M,3,3, sales executive ,2,married,,1,,13,3.0,1,full-time,2,,3.0,10,0,6,no
+184,32,no,non-travel,8,3,marketing,2,F,3,3, sales executive ,4,single,,1,,14,3.0,4,part-time,0,9.0,3.0,9,3,7,yes
+185,41,no,travel_rarely,34,3,life sciences,1,M,3,1, research scientist ,3,divorced,,4,No,12,3.0,1,full-time,1,,3.0,9,1,8,yes
+186,40,no,travel_rarely,4,1,medical,4,F,3,5, manager ,3,,19033.0,1,No,14,3.0,2,full-time,1,21.0,3.0,20,9,9,no
+187,45,no,non-travel,2,2,,1,M,2,4, manager ,4,married,,9,No,23,4.0,4,full-time,1,22.0,3.0,20,11,8,yes
+188,32,yes,travel_rarely,4,4,,4,M,1,3, sales executive ,4,married,10400.0,1,No,11,3.0,3,part-time,0,14.0,2.0,14,9,8,no
+189,30,no,non-travel,1,1,life sciences,3,M,2,3, manufacturing director ,3,,,1,No,22,4.0,3,part-time,0,,3.0,11,5,8,yes
+190,37,no,non-travel,11,3,,2,M,3,3, research director ,4,,,1,,14,3.0,3,full-time,3,,3.0,10,0,7,yes
+191,37,no,non-travel,4,4,,1,M,3,1, sales representative ,4,divorced,2793.0,4,No,17,3.0,3,part-time,1,13.0,3.0,9,5,8,no
+192,40,no,non-travel,24,2,technical degree,1,M,3,2, research scientist ,4,,,1,No,17,3.0,1,full-time,2,,3.0,9,4,7,no
+193,36,no,non-travel,24,4,,2,F,3,2, laboratory technician ,2,married,5674.0,7,,15,3.0,3,full-time,1,11.0,3.0,9,0,8,yes
+194,32,no,travel_rarely,7,3,life sciences,4,M,2,2, sales executive ,3,married,,1,,14,3.0,3,full-time,1,13.0,2.0,13,4,8,yes
+195,38,no,non-travel,25,2,life sciences,1,F,2,3, research director ,2,,,3,,17,3.0,3,full-time,1,,3.0,10,0,1,yes
+196,30,no,travel_rarely,28,2,,4,F,3,2, research scientist ,4,married,,1,No,13,3.0,4,part-time,2,11.0,3.0,10,1,9,yes
+197,39,no,non-travel,1,1,,2,M,3,5, manager ,3,,19197.0,1,,14,3.0,3,full-time,1,21.0,3.0,21,1,6,yes
+198,60,no,non-travel,7,3,life sciences,1,F,3,5, manager ,1,,,5,No,11,3.0,4,part-time,0,33.0,1.0,29,11,10,yes
+199,30,no,non-travel,22,4,other,3,F,3,3, sales executive ,1,,8412.0,0,,11,3.0,3,full-time,0,10.0,3.0,9,7,8,yes
+200,31,no,travel_rarely,9,1,,3,M,3,3, manufacturing director ,2,divorced,,1,No,25,4.0,4,full-time,1,,4.0,13,0,8,yes
+201,33,yes,non-travel,3,3,life sciences,1,M,3,1, research scientist ,1,single,3348.0,1,Yes,11,3.0,1,part-time,0,,3.0,10,9,7,no
+202,50,no,non-travel,28,1,medical,4,M,4,1, laboratory technician ,3,married,,1,Yes,11,,3,full-time,3,20.0,3.0,20,3,8,yes
+203,32,no,non-travel,24,4,life sciences,1,M,3,2, laboratory technician ,4,,5309.0,1,No,15,,4,full-time,2,10.0,3.0,10,4,7,yes
+204,42,no,non-travel,29,3,,2,M,3,2, manufacturing director ,2,,,1,,13,3.0,4,part-time,1,10.0,2.0,9,7,8,yes
+205,49,yes,non-travel,11,3,marketing,3,F,3,3, sales executive ,4,married,7654.0,1,No,18,3.0,1,full-time,2,,4.0,9,7,7,no
+206,27,no,non-travel,5,1,,3,M,2,3, research director ,4,divorced,12808.0,1,,16,3.0,2,full-time,1,,3.0,9,0,8,yes
+207,33,no,travel_rarely,1,3,medical,1,M,4,2, sales executive ,1,divorced,,1,,22,,1,full-time,1,9.0,3.0,9,0,8,yes
+208,52,no,non-travel,26,4,,3,F,2,4, manufacturing director ,4,married,,3,No,22,4.0,3,part-time,0,31.0,3.0,9,0,0,no
+209,32,no,non-travel,5,2,life sciences,2,M,3,2, sales executive ,2,,,1,No,14,3.0,4,part-time,1,10.0,3.0,10,5,3,yes
+210,36,no,non-travel,14,1,life sciences,3,M,3,2, healthcare representative ,4,,6586.0,0,,17,3.0,1,full-time,1,,2.0,16,4,11,no
+211,31,no,non-travel,20,2,,4,F,3,2, sales executive ,3,,,1,,13,3.0,4,full-time,1,,2.0,9,0,0,no
+212,36,no,travel_rarely,2,4,medical,3,M,3,1, laboratory technician ,3,single,2519.0,4,No,21,4.0,3,full-time,0,,3.0,11,3,9,yes
+213,52,no,non-travel,1,2,life sciences,4,M,3,4, manager ,4,married,17099.0,2,,15,3.0,2,part-time,1,26.0,,9,7,8,yes
+214,33,no,non-travel,17,3,,4,M,3,4, manager ,3,single,,1,,11,3.0,4,full-time,0,10.0,3.0,10,6,0,no
+215,45,no,non-travel,23,2,life sciences,4,M,3,2, laboratory technician ,1,,,1,Yes,15,3.0,3,part-time,1,9.0,3.0,9,0,8,yes
+216,36,no,travel_rarely,12,5,,4,F,2,3, manufacturing director ,4,,,0,,11,3.0,2,full-time,0,15.0,2.0,14,7,8,yes
+217,49,no,non-travel,8,4,,4,M,2,4, sales executive ,2,,13120.0,6,,17,3.0,2,part-time,1,22.0,3.0,9,2,3,no
+218,29,yes,non-travel,23,1,,4,F,2,3, sales executive ,1,,,1,,13,,1,full-time,1,11.0,1.0,11,3,10,yes
+219,29,no,non-travel,6,1,,2,F,3,1, laboratory technician ,4,married,3131.0,1,,13,3.0,1,full-time,1,,3.0,10,0,8,no
+220,37,no,non-travel,1,3,life sciences,4,F,2,2, manufacturing director ,4,married,,1,,13,3.0,2,part-time,1,14.0,2.0,14,3,11,yes
+221,33,no,travel_rarely,10,5,,4,M,4,3, sales executive ,3,,,0,,14,3.0,4,full-time,2,,3.0,9,0,8,yes
+222,34,no,travel_frequently,19,3,medical,3,F,3,2, laboratory technician ,2,divorced,4444.0,4,No,13,3.0,3,part-time,2,15.0,4.0,11,5,10,yes
+223,28,no,non-travel,1,3,,3,F,1,2, laboratory technician ,4,married,6674.0,0,No,11,3.0,1,full-time,3,10.0,3.0,9,7,5,yes
+224,31,no,non-travel,2,4,,4,F,3,3, sales executive ,3,,9852.0,1,Yes,19,3.0,1,full-time,1,10.0,2.0,10,9,6,yes
+225,42,no,non-travel,2,1,life sciences,3,M,3,4, manager ,3,,17861.0,0,Yes,13,,4,part-time,0,21.0,2.0,20,2,10,no
+226,40,no,travel_rarely,2,3,life sciences,3,M,3,2, research scientist ,4,single,,1,,13,3.0,3,part-time,0,9.0,3.0,9,8,8,yes
+227,34,no,non-travel,15,2,medical,3,F,3,2, sales executive ,1,single,,1,,12,3.0,4,full-time,0,,4.0,10,9,6,yes
+228,58,no,travel_rarely,1,3,,4,F,3,5, research director ,1,,,3,,21,4.0,3,full-time,1,,3.0,9,1,5,no
+229,31,yes,travel_frequently,1,5,,3,F,4,3, manufacturing director ,2,,7446.0,1,,11,3.0,1,full-time,0,,3.0,10,4,7,yes
+230,40,no,non-travel,8,1,,4,M,2,3, research director ,2,,13757.0,2,No,11,3.0,3,full-time,1,16.0,3.0,9,4,8,yes
+231,53,no,non-travel,2,3,medical,4,M,4,4, research director ,2,single,16598.0,4,No,12,3.0,2,full-time,0,35.0,2.0,9,8,8,yes
+232,34,no,non-travel,15,3,,2,M,3,4, research director ,1,,,7,,14,3.0,4,full-time,2,16.0,2.0,14,6,9,yes
+233,35,no,travel_rarely,16,3,life sciences,4,F,2,3, healthcare representative ,2,single,,1,No,19,3.0,4,full-time,0,,1.0,11,3,3,yes
+234,37,no,non-travel,13,3,,1,M,3,2, research scientist ,4,married,4285.0,1,,17,3.0,1,full-time,0,,3.0,10,3,7,yes
+235,42,no,travel_frequently,2,3,,4,M,3,3, healthcare representative ,4,,10124.0,2,Yes,14,3.0,3,part-time,1,24.0,1.0,20,13,9,yes
+236,45,no,non-travel,1,4,,1,M,3,3, healthcare representative ,2,divorced,,1,,12,3.0,1,full-time,3,,3.0,10,7,7,yes
+237,30,yes,travel_rarely,1,3,,2,M,2,2, sales executive ,1,married,9714.0,1,No,11,3.0,4,full-time,1,,3.0,10,6,7,yes
+238,38,no,travel_rarely,14,3,life sciences,3,M,3,2, sales executive ,2,married,9924.0,0,,11,3.0,4,part-time,1,10.0,3.0,9,7,7,yes
+239,50,no,non-travel,20,5,medical,2,M,3,4, healthcare representative ,3,,11245.0,2,,15,3.0,3,part-time,1,32.0,3.0,30,12,13,no
+240,39,no,travel_rarely,3,2,,3,M,2,2, laboratory technician ,3,,3069.0,0,,15,3.0,4,full-time,1,,,10,0,7,yes
+241,34,no,travel_rarely,3,3,,4,F,3,2, research scientist ,2,,,1,No,12,3.0,3,part-time,1,11.0,3.0,11,7,9,yes
+242,54,no,travel_rarely,22,5,,2,F,3,4, manager ,3,,,3,,25,4.0,3,part-time,1,36.0,3.0,10,4,7,yes
+243,41,no,travel_rarely,6,3,marketing,4,M,3,3, sales executive ,3,,9241.0,1,No,12,3.0,2,full-time,0,,3.0,10,8,7,no
+244,39,no,non-travel,1,3,life sciences,4,M,3,2, laboratory technician ,4,married,6472.0,1,,15,3.0,4,full-time,1,,3.0,9,5,8,yes
+245,40,no,travel_rarely,7,4,,2,M,3,5, manager ,2,,,1,No,14,3.0,2,full-time,0,,2.0,21,12,8,no
+246,33,no,non-travel,4,3,technical degree,4,M,3,2, research scientist ,2,,3055.0,5,No,15,,4,full-time,2,11.0,2.0,9,1,7,yes
+247,36,no,non-travel,10,3,life sciences,4,M,3,3, healthcare representative ,1,,8321.0,7,,13,3.0,4,part-time,1,15.0,3.0,12,5,7,no
+248,33,no,non-travel,8,4,life sciences,4,M,4,1, research scientist ,1,married,3143.0,6,No,19,3.0,2,full-time,1,14.0,3.0,10,7,6,yes
+249,34,no,travel_rarely,8,2,,2,M,4,2, sales executive ,3,,,1,No,21,4.0,3,full-time,2,10.0,3.0,10,4,8,no
+250,29,no,travel_frequently,46,1,medical,4,M,3,1, laboratory technician ,4,married,,1,No,13,,2,full-time,0,,4.0,11,3,10,no
+251,46,no,travel_rarely,2,2,life sciences,4,M,3,3, manufacturing director ,4,divorced,8578.0,3,,14,3.0,3,full-time,1,12.0,2.0,9,4,7,yes
+252,27,no,travel_rarely,23,1,medical,2,F,2,2, sales representative ,3,married,,1,No,21,4.0,4,full-time,1,,3.0,9,5,8,no
+253,31,no,non-travel,36,3,life sciences,2,M,3,2, laboratory technician ,3,divorced,4197.0,1,No,11,3.0,1,full-time,1,10.0,3.0,10,0,2,no
+254,45,no,travel_rarely,25,2,life sciences,2,F,2,2, manufacturing director ,4,,,0,No,13,,4,full-time,2,10.0,2.0,9,3,8,yes
+255,34,no,travel_rarely,1,3,marketing,1,M,3,3, sales executive ,4,,9888.0,1,No,21,4.0,1,full-time,0,14.0,2.0,14,2,1,no
+256,31,no,non-travel,1,3,life sciences,4,M,1,2, research scientist ,1,married,,1,,21,,2,full-time,0,10.0,3.0,10,8,7,yes
+257,35,no,non-travel,7,4,,3,F,3,2, sales executive ,4,,,1,Yes,11,3.0,4,part-time,0,10.0,3.0,10,0,9,no
+258,39,no,travel_rarely,15,4,marketing,2,M,3,4, sales executive ,1,single,13341.0,0,No,12,3.0,1,full-time,0,21.0,3.0,20,11,10,no
+259,40,no,travel_rarely,2,2,marketing,2,F,3,2, sales executive ,2,married,5677.0,3,No,14,3.0,3,full-time,1,,3.0,11,5,10,yes
+260,30,no,travel_rarely,1,2,medical,4,M,3,1, laboratory technician ,2,married,,1,No,13,3.0,3,part-time,0,12.0,2.0,12,1,7,no
+261,47,no,non-travel,1,1,,3,F,3,3, research director ,2,married,,0,No,18,3.0,1,part-time,2,14.0,1.0,13,5,12,yes
+262,52,no,non-travel,29,4,,1,M,3,1, sales representative ,4,divorced,,2,,15,3.0,2,full-time,2,16.0,,9,0,0,yes
+263,49,no,travel_frequently,8,1,,3,M,2,2, research scientist ,2,married,,1,No,23,4.0,4,part-time,1,10.0,3.0,10,1,7,yes
+264,33,no,travel_frequently,19,4,life sciences,19,F,3,1, research scientist ,3,married,2909.0,1,,11,3.0,3,full-time,0,,3.0,8,3,0,yes
+265,32,no,non-travel,2,2,life sciences,4,M,3,1, laboratory technician ,4,,,0,,13,3.0,3,part-time,0,8.0,2.0,7,3,6,yes
+266,38,no,travel_frequently,23,3,,4,M,2,3, manufacturing director ,3,,9526.0,0,No,21,4.0,2,full-time,0,,3.0,9,1,8,yes
+267,36,no,travel_rarely,27,3,medical,3,M,3,2, healthcare representative ,3,,,6,,13,3.0,2,full-time,2,17.0,2.0,7,7,7,yes
+268,42,no,non-travel,8,4,,3,M,3,2, sales executive ,2,,6825.0,0,,11,,4,full-time,1,10.0,3.0,9,4,2,no
+269,31,no,non-travel,7,4,life sciences,4,M,3,2, laboratory technician ,4,divorced,,3,No,22,4.0,4,full-time,1,,2.0,7,1,7,no
+270,31,no,travel_rarely,8,4,,3,F,3,2, manufacturing director ,4,single,4424.0,1,No,23,4.0,4,part-time,0,11.0,3.0,11,1,8,no
+271,51,no,non-travel,21,4,marketing,3,M,3,2, sales executive ,4,,5441.0,0,,22,4.0,4,full-time,0,11.0,1.0,10,1,0,yes
+272,34,yes,travel_frequently,7,3,,1,M,1,2, laboratory technician ,3,,6074.0,1,Yes,24,4.0,4,full-time,0,9.0,,9,0,6,yes
+273,36,no,non-travel,11,2,technical degree,2,F,3,3, sales executive ,4,,,0,No,14,3.0,3,part-time,1,10.0,3.0,9,2,8,no
+274,30,no,travel_frequently,23,3,,1,M,1,1, research scientist ,3,divorced,,1,No,25,4.0,3,part-time,3,,2.0,10,0,9,no
+275,33,no,non-travel,12,2,,12,M,3,2, sales executive ,2,married,6146.0,0,,13,3.0,1,full-time,1,,4.0,7,0,7,yes
+276,31,yes,non-travel,6,4,life sciences,2,M,1,2, sales executive ,3,married,6172.0,4,,18,3.0,2,part-time,0,,2.0,7,7,7,no
+277,41,no,travel_rarely,23,1,,3,M,3,3, sales executive ,3,divorced,,3,Yes,13,3.0,3,full-time,1,,3.0,9,0,7,no
+278,26,no,travel_rarely,25,1,,3,F,3,1, human resources ,3,,,1,,23,4.0,4,full-time,1,8.0,3.0,8,5,7,yes
+279,32,no,non-travel,9,2,,4,M,1,2, sales executive ,4,divorced,4668.0,0,No,17,3.0,4,full-time,3,,4.0,8,0,7,yes
+280,40,no,travel_frequently,26,3,,2,F,3,2, research scientist ,2,divorced,5605.0,1,No,11,3.0,1,full-time,1,20.0,3.0,20,2,13,no
+281,53,no,travel_rarely,6,2,marketing,2,M,3,2, sales representative ,3,,,2,Yes,20,4.0,4,full-time,1,13.0,1.0,7,4,5,yes
+282,29,no,non-travel,1,1,technical degree,4,M,3,2, manufacturing director ,3,married,4319.0,1,,13,3.0,1,full-time,1,10.0,3.0,10,0,9,no
+283,36,no,travel_frequently,3,2,,4,M,3,1, laboratory technician ,2,,,4,No,12,,3,full-time,0,13.0,2.0,8,7,2,yes
+284,33,no,travel_rarely,14,3,,4,F,3,1, research scientist ,2,,,1,,13,3.0,4,full-time,1,8.0,3.0,8,1,6,yes
+285,51,no,travel_rarely,3,3,,4,F,3,4, healthcare representative ,2,single,,3,,18,3.0,3,full-time,0,,3.0,7,1,0,no
+286,27,no,travel_rarely,9,3,medical,4,F,3,1, research scientist ,2,single,,1,No,16,3.0,4,full-time,0,,2.0,7,0,3,no
+287,37,no,non-travel,21,3,life sciences,2,M,4,1, research scientist ,1,,3564.0,1,Yes,12,3.0,1,full-time,1,,2.0,8,1,7,yes
+288,38,no,non-travel,29,3,,4,M,3,2, manufacturing director ,4,married,6261.0,3,No,18,3.0,1,full-time,1,9.0,1.0,7,1,7,yes
+289,49,no,non-travel,18,4,,4,M,3,2, manufacturing director ,4,divorced,6804.0,1,Yes,15,3.0,1,part-time,2,7.0,3.0,7,1,7,no
+290,27,no,non-travel,20,3,life sciences,4,F,3,2, sales executive ,3,single,,1,,14,3.0,4,full-time,0,7.0,3.0,7,0,7,no
+291,45,no,non-travel,6,3,medical,4,F,2,3, sales executive ,4,single,,6,,12,3.0,4,full-time,0,23.0,3.0,19,12,8,yes
+292,35,no,non-travel,1,3,,3,F,3,3, sales executive ,3,single,,1,No,14,3.0,1,full-time,0,10.0,4.0,10,0,8,yes
+293,33,yes,travel_rarely,2,2,,1,F,3,1, laboratory technician ,1,,,7,No,20,,1,full-time,0,13.0,4.0,9,1,7,yes
+294,52,no,non-travel,2,4,life sciences,1,M,2,5, manager ,3,,,1,Yes,18,3.0,4,part-time,0,33.0,4.0,33,15,12,yes
+295,40,no,non-travel,2,2,medical,1,M,3,5, research director ,3,,19436.0,0,No,19,3.0,4,full-time,1,,3.0,21,3,9,yes
+296,38,no,non-travel,2,2,life sciences,4,M,2,2, sales executive ,4,,,3,No,18,3.0,4,full-time,1,13.0,3.0,8,7,5,yes
+297,46,no,non-travel,27,3,,27,F,1,4, manager ,2,married,,3,Yes,12,3.0,2,full-time,1,28.0,2.0,7,7,7,no
+298,45,no,travel_rarely,20,2,medical,3,M,3,4, healthcare representative ,4,married,,0,Yes,14,3.0,2,full-time,0,21.0,3.0,20,4,10,yes
+299,47,yes,non-travel,10,4,life sciences,1,M,3,3, manager ,2,married,,1,,12,3.0,4,full-time,1,,2.0,10,9,9,yes
+300,35,no,non-travel,22,3,life sciences,2,F,4,3, manager ,2,divorced,,7,,18,,2,full-time,1,10.0,2.0,7,6,2,no
+301,29,no,travel_frequently,2,2,,2,M,3,2, sales executive ,4,single,,1,,18,3.0,1,full-time,0,,,10,0,9,yes
+302,55,no,travel_rarely,20,2,technical degree,2,M,3,2, laboratory technician ,4,married,,3,,19,,4,full-time,1,12.0,3.0,10,0,8,yes
+303,26,yes,travel_rarely,45,4,,4,M,2,2, sales executive ,4,single,5828.0,1,,12,3.0,2,full-time,0,,,8,7,4,yes
+304,31,no,travel_rarely,7,3,technical degree,2,M,4,2, sales executive ,4,,,4,,11,3.0,2,full-time,1,10.0,2.0,8,7,7,yes
+305,43,no,travel_frequently,10,4,life sciences,3,F,3,1, laboratory technician ,4,,2455.0,0,No,19,3.0,1,full-time,0,,3.0,8,1,7,yes
+306,31,no,travel_rarely,13,3,marketing,4,M,3,2, sales executive ,4,,,4,,12,3.0,4,full-time,3,13.0,3.0,7,1,7,yes
+307,32,no,non-travel,2,4,medical,1,F,4,2, research scientist ,4,single,5055.0,7,,16,3.0,3,part-time,0,,2.0,7,0,7,yes
+308,33,no,non-travel,10,3,,2,M,2,2, sales executive ,4,,4682.0,3,No,14,3.0,3,full-time,0,,2.0,7,0,1,no
+309,43,no,travel_frequently,10,4,life sciences,3,F,2,2, laboratory technician ,3,divorced,5257.0,1,No,11,,2,part-time,1,9.0,4.0,9,0,0,no
+310,29,yes,travel_rarely,8,4,,2,M,1,1, laboratory technician ,1,,2119.0,1,,11,3.0,4,full-time,0,7.0,2.0,7,0,7,no
+311,27,no,non-travel,8,4,,2,F,3,2, sales executive ,2,,,1,No,18,3.0,1,full-time,1,8.0,3.0,8,0,7,no
+312,29,no,travel_rarely,10,1,,4,F,2,2, sales executive ,2,divorced,,1,Yes,14,3.0,1,full-time,2,7.0,3.0,7,1,7,no
+313,37,no,non-travel,6,3,medical,3,M,4,2, research scientist ,1,divorced,5974.0,4,,13,3.0,1,part-time,2,13.0,3.0,7,6,7,no
+314,26,no,travel_rarely,1,3,,3,M,3,2, sales executive ,3,,,1,,17,3.0,2,part-time,1,,3.0,8,7,7,yes
+315,40,no,travel_rarely,10,4,life sciences,4,F,4,1, laboratory technician ,3,married,,3,Yes,13,3.0,3,full-time,1,,3.0,7,1,7,yes
+316,41,yes,non-travel,4,3,,1,M,3,2, sales executive ,2,,,1,No,18,3.0,3,full-time,0,8.0,3.0,8,7,7,no
+317,51,no,travel_rarely,14,2,,3,F,3,2, sales executive ,4,,,4,No,11,3.0,3,full-time,1,18.0,2.0,7,0,7,yes
+318,37,no,non-travel,14,3,,4,F,3,1, laboratory technician ,1,,3034.0,1,No,12,3.0,3,full-time,1,,2.0,18,12,17,no
+319,56,no,non-travel,6,3,life sciences,3,F,4,4, sales executive ,1,married,13212.0,9,No,11,3.0,4,part-time,3,36.0,2.0,7,7,7,yes
+320,41,no,travel_rarely,1,3,marketing,2,M,4,3, sales executive ,1,married,8392.0,1,,16,3.0,3,part-time,1,10.0,3.0,10,0,7,yes
+321,46,no,non-travel,18,3,medical,3,F,3,2, manufacturing director ,3,,,2,No,14,3.0,3,full-time,1,19.0,2.0,10,0,8,no
+322,30,no,non-travel,2,3,,3,F,3,1, laboratory technician ,4,single,,0,,14,3.0,3,part-time,0,12.0,2.0,11,6,7,no
+323,35,no,travel_rarely,16,3,life sciences,4,M,3,3, healthcare representative ,3,,,4,Yes,12,3.0,3,full-time,0,10.0,3.0,8,0,0,no
+324,48,no,travel_rarely,2,5,,2,F,3,2, sales executive ,4,married,4051.0,2,No,14,3.0,1,full-time,1,14.0,3.0,9,6,7,yes
+325,45,no,travel_rarely,2,3,other,4,M,3,2, sales executive ,2,,4805.0,0,No,19,3.0,2,full-time,1,,4.0,8,3,7,yes
+326,26,yes,travel_frequently,17,4,life sciences,2,F,3,1, human resources ,3,,2741.0,0,Yes,11,3.0,2,part-time,1,8.0,,7,1,0,yes
+327,41,no,non-travel,2,4,other,1,F,2,2, healthcare representative ,3,single,,2,Yes,17,3.0,1,part-time,0,10.0,3.0,8,0,7,yes
+328,34,no,non-travel,21,4,,4,M,4,2, sales executive ,4,single,5337.0,1,,12,3.0,4,part-time,0,10.0,3.0,10,5,7,yes
+329,31,no,travel_rarely,6,4,medical,1,M,4,2, sales executive ,4,divorced,,4,No,22,4.0,4,full-time,2,13.0,4.0,7,5,7,yes
+330,43,no,travel_frequently,9,5,,4,M,3,2, laboratory technician ,3,divorced,,3,,13,3.0,2,full-time,1,10.0,3.0,8,4,7,no
+331,53,no,non-travel,1,1,,4,F,3,2, sales executive ,1,single,,7,,20,4.0,4,full-time,0,18.0,4.0,14,8,10,no
+332,37,no,travel_rarely,3,3,other,3,M,3,3, manufacturing director ,3,married,9434.0,1,No,15,,3,part-time,1,,3.0,10,7,8,yes
+333,54,no,non-travel,19,4,,3,M,3,3, human resources ,2,,,2,,15,,3,part-time,1,16.0,4.0,9,7,1,yes
+334,38,no,travel_rarely,7,4,marketing,4,F,2,2, sales executive ,4,,,0,No,20,,1,full-time,0,,3.0,7,0,5,yes
+335,29,no,non-travel,1,4,life sciences,2,M,1,1, research scientist ,4,divorced,,1,,18,3.0,4,full-time,1,10.0,3.0,10,2,8,yes
+336,34,no,non-travel,9,3,medical,4,F,2,3, healthcare representative ,2,,,1,,14,3.0,2,full-time,0,9.0,4.0,8,7,7,no
+337,39,no,non-travel,2,4,technical degree,4,F,2,2, healthcare representative ,3,single,,1,No,11,3.0,1,full-time,0,20.0,3.0,20,11,10,no
+338,32,no,non-travel,10,3,marketing,4,M,3,2, sales executive ,4,,5396.0,1,,12,3.0,4,full-time,0,10.0,2.0,10,0,8,yes
+339,38,no,travel_rarely,1,4,life sciences,2,F,4,2, healthcare representative ,4,,,0,,13,3.0,3,full-time,0,10.0,,9,1,8,yes
+340,27,no,travel_rarely,1,2,life sciences,3,F,3,3, manufacturing director ,1,married,,1,,11,3.0,4,full-time,0,9.0,3.0,9,0,7,no
+341,32,no,travel_rarely,3,2,life sciences,3,F,3,3, research director ,4,single,11159.0,3,,15,3.0,4,full-time,0,10.0,3.0,7,7,7,no
+342,47,no,non-travel,35,4,marketing,4,M,3,2, sales executive ,1,single,4960.0,2,,12,3.0,4,full-time,0,20.0,3.0,7,1,7,no
+343,27,no,travel_frequently,10,2,,4,M,3,3, manufacturing director ,1,,8793.0,1,No,21,4.0,3,full-time,2,9.0,2.0,9,1,7,yes
+344,41,no,non-travel,1,3,,4,M,2,5, manager ,3,,19189.0,1,No,12,,2,part-time,1,22.0,3.0,22,2,10,no
+345,28,yes,non-travel,35,2,,35,F,1,1, research scientist ,2,,2216.0,7,Yes,13,3.0,4,part-time,0,10.0,3.0,7,3,7,yes
+346,36,no,non-travel,8,3,,1,F,4,3, research director ,1,married,11713.0,9,,14,3.0,1,part-time,1,10.0,3.0,8,0,5,no
+347,30,no,non-travel,27,5,marketing,3,M,3,2, sales executive ,4,divorced,5304.0,7,No,23,,4,part-time,1,10.0,2.0,8,7,7,yes
+348,56,no,travel_rarely,9,3,,3,M,3,4, healthcare representative ,4,married,11103.0,7,No,11,3.0,3,full-time,0,30.0,2.0,10,1,1,no
+349,45,no,travel_rarely,2,2,,2,M,1,2, sales representative ,3,single,6632.0,0,No,13,3.0,1,full-time,0,9.0,3.0,8,3,1,yes
+350,36,no,non-travel,8,4,,1,M,2,3, sales executive ,1,single,7587.0,1,,15,3.0,2,part-time,0,10.0,3.0,10,0,9,no
+351,29,no,non-travel,27,3,medical,2,F,3,2, healthcare representative ,3,married,4335.0,4,No,12,3.0,1,full-time,1,11.0,2.0,8,1,1,yes
+352,38,no,non-travel,2,4,life sciences,1,F,4,2, manufacturing director ,1,single,5980.0,6,,12,3.0,4,full-time,0,17.0,3.0,15,4,12,yes
+353,40,no,non-travel,13,2,medical,13,F,4,2, healthcare representative ,2,,4244.0,1,No,24,4.0,4,full-time,1,8.0,3.0,8,3,7,yes
+354,42,no,travel_frequently,8,3,,2,M,3,5, manager ,4,,,1,No,13,3.0,2,full-time,1,24.0,2.0,24,14,9,yes
+355,36,no,travel_rarely,1,3,other,3,F,3,2, manufacturing director ,2,,5228.0,0,,15,3.0,1,full-time,1,,3.0,9,0,5,no
+356,29,no,travel_rarely,23,2,,3,M,4,1, research scientist ,3,married,2700.0,1,,24,4.0,3,full-time,1,10.0,3.0,10,0,7,yes
+357,55,yes,non-travel,2,1,medical,3,M,3,2, sales executive ,4,single,,4,,16,3.0,3,part-time,0,,2.0,9,7,3,no
+358,28,no,non-travel,2,4,,2,F,3,2, sales executive ,2,,,1,,20,4.0,1,full-time,0,8.0,3.0,8,7,5,yes
+359,26,yes,non-travel,5,2,medical,3,F,2,1, research scientist ,3,married,2366.0,1,,14,3.0,1,full-time,1,8.0,3.0,8,1,7,yes
+360,44,no,non-travel,9,2,,2,M,3,1, research scientist ,1,,,1,Yes,13,3.0,4,part-time,0,8.0,3.0,8,7,1,yes
+361,41,yes,non-travel,2,4,life sciences,2,F,1,1, laboratory technician ,4,divorced,,4,Yes,13,3.0,3,part-time,1,,2.0,7,1,0,yes
+362,31,no,travel_rarely,7,4,,2,M,2,1, sales representative ,3,,2329.0,3,,15,,2,part-time,0,,4.0,7,5,2,no
+363,26,no,travel_frequently,28,3,medical,28,M,2,2, sales executive ,1,,4294.0,1,,12,3.0,2,full-time,0,,3.0,7,0,7,yes
+364,31,no,non-travel,12,3,medical,4,F,3,2, healthcare representative ,4,,,0,,11,3.0,3,full-time,2,10.0,1.0,9,8,5,no
+365,32,no,non-travel,3,4,medical,3,F,3,2, manufacturing director ,1,married,6725.0,1,,12,3.0,3,full-time,1,8.0,4.0,8,6,3,no
+366,36,yes,travel_rarely,3,1,life sciences,3,M,2,3, sales executive ,4,married,10325.0,1,,11,,1,full-time,1,,3.0,16,3,7,no
+367,45,no,non-travel,47,2,,47,M,3,2, laboratory technician ,2,,4447.0,1,,12,3.0,2,full-time,0,,2.0,9,0,8,yes
+368,39,no,travel_rarely,2,5,,1,M,4,3, sales executive ,3,single,,0,No,18,3.0,4,full-time,0,9.0,3.0,8,0,7,no
+369,36,no,non-travel,8,4,technical degree,1,M,3,2, sales executive ,4,divorced,,4,No,13,,4,full-time,2,12.0,3.0,7,0,7,yes
+370,46,no,non-travel,7,2,medical,4,M,3,3, manufacturing director ,3,,10845.0,6,,13,3.0,2,full-time,1,,3.0,8,0,7,no
+371,54,no,travel_rarely,17,3,technical degree,3,F,3,3, manufacturing director ,3,,,8,,11,,3,part-time,1,22.0,3.0,10,0,8,yes
+372,30,no,travel_rarely,8,2,,2,F,4,3, research director ,1,,,0,Yes,12,3.0,3,full-time,3,,2.0,8,1,7,yes
+373,26,no,non-travel,2,2,medical,4,M,4,2, manufacturing director ,4,married,5472.0,1,,12,3.0,2,full-time,0,,3.0,8,1,3,no
+374,55,no,travel_frequently,18,4,medical,3,M,3,2, healthcare representative ,2,married,6385.0,3,,14,3.0,4,part-time,2,,3.0,8,6,7,yes
+375,50,no,non-travel,1,3,life sciences,4,F,3,2, sales executive ,3,married,6347.0,0,,12,3.0,1,full-time,1,,3.0,18,0,13,yes
+376,32,no,non-travel,29,4,,4,F,3,1, laboratory technician ,3,single,,9,No,12,3.0,2,full-time,0,10.0,3.0,8,7,7,yes
+377,53,no,travel_frequently,2,3,marketing,3,F,2,3, sales executive ,2,,7525.0,2,,12,3.0,1,full-time,1,30.0,,15,6,12,yes
+378,40,no,travel_rarely,26,3,,3,M,3,2, sales executive ,1,married,,1,,14,3.0,2,part-time,1,8.0,2.0,7,7,5,no
+379,55,no,non-travel,2,1,,3,M,2,4, manager ,1,single,,7,No,15,3.0,2,full-time,0,,4.0,9,6,2,yes
+380,28,yes,non-travel,24,2,,2,M,2,3, healthcare representative ,1,single,,1,No,12,3.0,1,full-time,0,10.0,2.0,10,1,9,no
+381,28,no,travel_rarely,10,3,other,3,F,3,2, research scientist ,3,single,3660.0,3,No,13,3.0,4,part-time,0,,4.0,8,1,7,yes
+382,35,yes,non-travel,4,3,technical degree,4,M,3,3, sales executive ,1,,,0,,22,4.0,1,part-time,0,9.0,3.0,8,4,7,yes
+383,33,yes,travel_frequently,36,4,medical,36,F,2,2, research scientist ,3,single,,1,No,22,4.0,2,full-time,0,14.0,3.0,13,3,8,yes
+384,25,yes,non-travel,4,1,technical degree,4,M,3,1, laboratory technician ,4,married,,1,,15,,2,full-time,1,7.0,4.0,7,5,6,yes
+385,38,no,non-travel,10,4,,3,M,2,3, sales executive ,3,,8740.0,0,Yes,14,3.0,2,full-time,2,9.0,,8,2,7,yes
+386,28,no,non-travel,12,3,,12,F,3,3, manufacturing director ,2,,,0,,17,3.0,2,part-time,3,,2.0,9,1,7,yes
+387,43,no,travel_frequently,27,3,life sciences,3,F,3,3, manufacturing director ,1,married,,8,No,11,3.0,3,full-time,1,18.0,3.0,8,0,1,no
+388,39,yes,travel_frequently,2,3,life sciences,1,M,3,4, healthcare representative ,4,,,7,No,11,3.0,4,full-time,3,21.0,3.0,18,11,5,no
+389,40,no,travel_rarely,14,3,,3,M,2,5, research director ,3,,,1,No,14,,1,part-time,0,,,20,4,9,yes
+390,29,no,travel_rarely,8,1,medical,2,M,2,2, manufacturing director ,4,married,,1,,15,3.0,3,part-time,1,10.0,2.0,10,1,2,yes
+391,40,no,non-travel,32,4,,2,F,3,3, research director ,3,,13499.0,9,No,17,3.0,3,full-time,0,20.0,2.0,18,2,13,no
+392,26,no,travel_rarely,3,4,,1,M,4,1, laboratory technician ,4,,,1,,22,4.0,2,full-time,1,8.0,3.0,8,0,7,yes
+393,35,no,travel_rarely,2,3,,3,M,2,3, manufacturing director ,2,divorced,,2,No,18,3.0,2,part-time,1,15.0,4.0,7,6,4,yes
+394,53,no,non-travel,7,2,medical,4,F,3,5, manager ,3,divorced,,3,No,18,3.0,2,full-time,1,26.0,3.0,7,4,7,no
+395,35,no,non-travel,17,4,life sciences,3,M,3,2, sales executive ,1,,,3,,15,3.0,4,full-time,3,15.0,3.0,7,1,7,yes
+396,33,no,non-travel,25,3,medical,2,F,3,2, sales executive ,3,,,1,No,12,3.0,1,full-time,1,,2.0,10,0,1,yes
+397,36,no,non-travel,6,4,life sciences,3,M,1,1, laboratory technician ,3,divorced,,1,No,14,3.0,3,full-time,1,,3.0,7,1,7,yes
+398,30,no,travel_rarely,7,4,life sciences,3,M,3,2, laboratory technician ,3,divorced,3491.0,1,,13,,1,full-time,3,,2.0,10,8,9,yes
+399,60,no,non-travel,29,4,,29,M,4,2, sales executive ,4,divorced,5220.0,0,,18,3.0,2,full-time,1,12.0,3.0,11,1,9,yes
+400,32,no,non-travel,2,2,life sciences,4,F,3,2, research scientist ,3,single,,4,Yes,14,3.0,4,full-time,0,10.0,3.0,8,0,7,no
+401,36,no,non-travel,1,3,technical degree,3,F,1,3, manufacturing director ,1,divorced,10252.0,2,Yes,21,4.0,3,full-time,1,17.0,3.0,7,7,7,yes
+402,27,no,travel_rarely,14,3,,1,M,3,1, research scientist ,1,,,1,,14,3.0,4,part-time,2,,2.0,9,6,8,yes
+403,43,no,non-travel,3,3,life sciences,3,M,1,5, research director ,4,,19740.0,3,No,14,3.0,2,part-time,1,,3.0,8,0,7,yes
+404,29,no,travel_rarely,1,3,,4,F,2,4, research director ,4,divorced,,3,No,14,3.0,2,full-time,2,9.0,2.0,7,1,7,yes
+405,59,no,non-travel,24,4,,24,M,3,3, manufacturing director ,4,single,,6,No,12,3.0,4,full-time,0,,2.0,9,5,4,no
+406,43,no,travel_rarely,4,4,marketing,4,F,2,3, sales executive ,4,single,,3,No,14,3.0,4,full-time,0,23.0,4.0,21,15,17,yes
+407,44,yes,travel_rarely,15,3,medical,1,F,3,3, healthcare representative ,4,married,,1,,11,3.0,4,part-time,1,,3.0,10,0,5,yes
+408,29,yes,non-travel,7,3,technical degree,2,F,3,1, laboratory technician ,3,divorced,,3,Yes,13,3.0,1,full-time,2,10.0,3.0,7,7,7,yes
+409,32,no,travel_rarely,8,3,,3,M,4,2, sales executive ,4,married,6209.0,1,,15,3.0,3,full-time,2,,4.0,10,0,8,no
+410,36,no,travel_rarely,10,4,technical degree,4,F,3,3, healthcare representative ,3,married,7094.0,3,No,12,3.0,1,full-time,0,,3.0,7,1,7,yes
+411,52,yes,non-travel,5,3,,2,M,3,3, sales executive ,2,single,,9,Yes,19,3.0,3,full-time,0,,2.0,8,7,7,yes
+412,39,no,travel_rarely,33,2,,1,M,3,2, manufacturing director ,3,single,4534.0,0,,11,3.0,1,full-time,0,,,8,1,7,yes
+413,34,no,non-travel,9,3,,4,M,3,3, healthcare representative ,4,,8500.0,0,,11,,4,part-time,1,10.0,2.0,9,1,6,yes
+414,38,no,non-travel,2,2,life sciences,2,F,3,2, sales executive ,1,,,3,,15,3.0,4,full-time,1,11.0,3.0,7,1,7,yes
+415,36,no,travel_frequently,12,3,marketing,12,F,4,2, sales executive ,1,married,4639.0,2,No,16,3.0,4,full-time,1,,2.0,15,6,13,yes
+416,35,no,non-travel,1,3,,4,F,2,2, laboratory technician ,4,,5363.0,0,No,12,3.0,2,part-time,1,10.0,3.0,9,0,0,no
+417,55,yes,non-travel,13,4,,1,M,4,4, sales executive ,3,,,6,,17,3.0,3,part-time,0,,2.0,19,3,8,yes
+418,34,no,non-travel,29,3,,2,M,3,2, laboratory technician ,3,,,4,,13,3.0,1,full-time,2,10.0,3.0,8,7,7,no
+419,43,no,non-travel,6,3,medical,1,F,2,2, research scientist ,3,single,4081.0,1,Yes,14,3.0,1,full-time,0,20.0,1.0,20,1,8,no
+420,42,no,travel_rarely,10,3,human resources,3,F,3,4, manager ,1,married,,0,,14,3.0,3,part-time,1,21.0,3.0,20,0,9,no
+421,26,no,travel_rarely,7,3,,3,M,4,1, laboratory technician ,1,single,3578.0,0,No,12,3.0,4,full-time,0,8.0,3.0,7,0,7,yes
+422,29,yes,non-travel,14,1,other,3,F,3,3, healthcare representative ,4,single,,0,Yes,12,3.0,1,full-time,0,,3.0,8,7,7,yes
+423,54,no,non-travel,1,3,,4,F,3,4, research director ,4,,17328.0,6,,19,3.0,4,full-time,0,29.0,2.0,20,12,7,no
+424,55,no,non-travel,1,4,,2,M,4,4, research director ,4,divorced,,2,No,13,3.0,4,part-time,2,31.0,4.0,7,0,0,yes
+425,40,no,non-travel,9,4,other,3,M,3,2, laboratory technician ,3,,,3,No,11,3.0,3,part-time,2,11.0,,8,0,7,yes
+426,31,no,non-travel,8,2,,1,M,3,3, sales executive ,4,divorced,10793.0,1,,18,,1,full-time,1,13.0,3.0,13,9,9,yes
+427,46,yes,non-travel,9,3,marketing,1,M,3,3, sales executive ,4,divorced,,4,No,11,3.0,1,full-time,1,28.0,4.0,7,4,3,yes
+428,45,no,travel_rarely,20,3,medical,2,M,1,3, healthcare representative ,1,,10851.0,2,Yes,18,3.0,2,part-time,1,,3.0,7,0,7,no
+429,49,no,travel_rarely,7,4,life sciences,3,M,3,3, healthcare representative ,2,divorced,10466.0,3,,14,3.0,2,full-time,2,29.0,3.0,8,0,7,no
+430,29,no,travel_rarely,19,3,,3,M,2,2, sales executive ,3,,,1,,14,3.0,3,full-time,2,10.0,3.0,10,0,4,yes
+431,29,yes,non-travel,1,4,technical degree,1,M,2,1, research scientist ,1,single,2362.0,6,No,13,3.0,3,full-time,0,,1.0,9,0,7,yes
+432,29,no,non-travel,8,1,other,3,F,1,2, healthcare representative ,1,,,3,No,13,3.0,3,full-time,1,9.0,3.0,7,0,7,yes
+433,40,no,travel_rarely,6,2,,3,M,3,4, manager ,4,single,,1,Yes,21,4.0,4,part-time,0,21.0,3.0,21,7,7,yes
+434,48,no,non-travel,16,4,life sciences,3,F,3,2, sales executive ,3,divorced,6439.0,8,No,14,3.0,3,full-time,1,18.0,,8,7,7,yes
+435,53,yes,non-travel,2,5,,3,F,2,3, manufacturing director ,4,married,,0,,16,3.0,2,full-time,1,,3.0,33,1,9,yes
+436,44,no,non-travel,7,3,medical,2,F,3,5, research director ,4,,,0,Yes,14,,4,part-time,1,,2.0,22,1,10,no
+437,45,no,non-travel,5,5,,3,F,1,2, laboratory technician ,1,,5769.0,1,,14,3.0,1,full-time,0,10.0,3.0,10,1,4,no
+438,45,no,non-travel,26,3,marketing,1,M,2,2, sales executive ,1,,4385.0,1,,15,,1,part-time,1,10.0,,10,4,5,no
+439,34,no,travel_frequently,10,4,,3,M,4,2, manufacturing director ,4,,,1,,13,3.0,1,full-time,1,9.0,,9,7,2,yes
+440,39,no,non-travel,10,5,medical,2,M,3,2, manufacturing director ,1,,,2,,13,3.0,4,full-time,3,,3.0,7,7,7,no
+441,27,no,non-travel,36,3,,36,M,2,1, laboratory technician ,1,divorced,4066.0,1,No,11,3.0,1,full-time,2,7.0,3.0,7,0,7,yes
+442,45,no,travel_rarely,2,2,,4,F,2,2, manufacturing director ,4,divorced,,1,,19,3.0,1,full-time,2,10.0,3.0,10,3,9,yes
+443,44,no,non-travel,1,5,,1,M,3,2, human resources ,4,married,,4,Yes,11,3.0,3,full-time,0,14.0,3.0,10,0,2,yes
+444,25,no,non-travel,2,1,life sciences,4,M,4,2, manufacturing director ,3,divorced,5206.0,1,,17,3.0,3,full-time,2,7.0,3.0,7,0,7,no
+445,49,no,non-travel,1,3,,3,M,3,4, manager ,3,single,,4,,14,3.0,1,part-time,0,23.0,3.0,8,0,0,yes
+446,48,yes,travel_frequently,7,2,,4,F,3,1, sales representative ,3,,2655.0,2,,11,,3,part-time,2,19.0,3.0,9,7,7,no
+447,26,no,non-travel,7,3,medical,4,M,3,1, laboratory technician ,4,,2570.0,1,No,20,4.0,3,part-time,0,7.0,3.0,7,5,7,yes
+448,44,no,travel_rarely,2,3,life sciences,3,F,4,3, healthcare representative ,4,,,1,,19,,2,full-time,1,,3.0,8,6,7,yes
+449,36,no,non-travel,2,4,,3,F,3,2, sales representative ,4,single,4502.0,3,,15,,3,full-time,0,17.0,2.0,13,6,7,yes
+450,46,no,non-travel,13,4,,3,M,3,2, healthcare representative ,2,single,,6,No,14,3.0,4,full-time,0,19.0,3.0,10,0,9,yes
+451,35,no,non-travel,27,4,life sciences,4,M,3,2, manufacturing director ,3,married,,2,,16,3.0,2,part-time,1,17.0,3.0,7,0,7,yes
+452,30,no,travel_frequently,2,4,,4,F,2,1, research scientist ,1,,4968.0,0,,16,3.0,4,part-time,0,10.0,,9,0,7,no
+453,30,no,non-travel,15,2,marketing,3,M,2,3, sales executive ,1,,,2,No,11,3.0,1,part-time,1,,3.0,7,1,7,yes
+454,33,no,non-travel,2,3,marketing,4,F,3,2, sales executive ,2,,5147.0,8,No,15,3.0,4,full-time,0,13.0,2.0,11,1,7,yes
+455,32,no,non-travel,5,4,,2,M,3,1, research scientist ,2,single,2718.0,2,No,14,3.0,2,full-time,0,12.0,3.0,7,0,7,yes
+456,43,no,travel_rarely,2,3,life sciences,2,M,3,1, human resources ,4,,3539.0,0,No,13,3.0,2,part-time,0,,3.0,9,1,8,no
+457,31,no,travel_rarely,29,4,marketing,1,F,2,2, sales executive ,4,,5468.0,1,,14,3.0,1,full-time,2,,3.0,12,5,7,yes
+458,35,yes,non-travel,27,3,,3,M,3,2, sales executive ,4,,5813.0,1,,18,3.0,4,part-time,0,,3.0,10,7,7,no
+459,35,no,non-travel,2,2,medical,2,M,3,2, manufacturing director ,4,divorced,,2,No,14,3.0,3,full-time,1,15.0,3.0,7,1,7,no
+460,30,no,non-travel,10,3,medical,1,F,3,3, manufacturing director ,3,single,9667.0,9,No,14,3.0,2,full-time,0,9.0,3.0,7,0,2,no
+461,46,yes,travel_rarely,19,2,medical,4,F,3,2, healthcare representative ,2,married,,4,No,22,4.0,4,full-time,1,13.0,4.0,9,3,7,no
+462,45,no,non-travel,2,4,,3,F,3,2, sales executive ,3,married,5154.0,4,,22,4.0,2,full-time,2,10.0,4.0,8,5,7,no
+463,43,no,travel_frequently,2,4,life sciences,1,M,3,2, sales executive ,4,married,5675.0,1,,20,4.0,3,full-time,1,7.0,3.0,7,7,7,no
+464,46,yes,non-travel,10,3,life sciences,3,F,3,3, sales executive ,2,,7314.0,5,,21,4.0,3,part-time,3,14.0,3.0,8,0,7,yes
+465,40,no,travel_rarely,1,4,,1,M,3,4, manager ,1,,,2,,11,3.0,1,full-time,1,22.0,,19,11,16,yes
+466,27,no,travel_rarely,2,2,,1,F,4,2, sales executive ,3,single,,0,No,14,3.0,2,full-time,0,9.0,2.0,8,0,7,no
+467,42,no,non-travel,6,3,medical,3,M,3,3, research director ,1,married,,9,No,13,3.0,2,part-time,1,18.0,4.0,13,5,7,yes
+468,26,no,travel_frequently,6,3,other,3,M,4,1, laboratory technician ,4,married,,0,No,18,3.0,1,full-time,1,8.0,3.0,7,7,7,yes
+469,28,no,travel_frequently,1,2,life sciences,3,M,2,2, sales executive ,4,married,,1,,12,3.0,3,full-time,1,7.0,3.0,7,0,7,yes
+470,47,no,non-travel,14,4,,3,M,3,2, research scientist ,2,married,,8,,18,3.0,3,part-time,1,,4.0,8,1,7,no
+471,34,no,travel_rarely,13,4,medical,4,M,3,3, sales executive ,3,divorced,,1,No,18,3.0,3,full-time,1,9.0,2.0,8,1,1,yes
+472,26,no,non-travel,1,3,medical,3,M,3,1, laboratory technician ,1,single,,0,No,13,3.0,4,full-time,0,8.0,,7,7,6,yes
+473,27,no,travel_rarely,9,3,,4,M,3,2, sales executive ,4,,,1,,14,3.0,1,full-time,0,,,7,0,7,no
+474,31,yes,travel_frequently,26,4,marketing,1,M,3,2, sales executive ,4,,,1,Yes,11,3.0,3,full-time,0,10.0,3.0,10,0,8,yes
+475,33,no,travel_frequently,7,2,life sciences,4,M,3,2, healthcare representative ,3,divorced,,1,,20,,3,full-time,3,9.0,3.0,9,2,8,yes
+476,31,no,non-travel,10,3,,3,F,3,3, research director ,3,married,,4,No,20,4.0,3,full-time,1,13.0,4.0,11,4,8,yes
+477,35,no,non-travel,9,4,medical,2,M,3,2, research scientist ,3,,5098.0,1,No,19,3.0,2,full-time,0,10.0,3.0,10,0,8,yes
+478,33,no,travel_rarely,15,2,,2,F,3,2, healthcare representative ,4,married,,0,Yes,13,,1,full-time,1,,3.0,9,8,1,yes
+479,39,no,travel_rarely,24,1,life sciences,1,M,3,2, research scientist ,4,single,,7,No,13,,1,full-time,0,,3.0,7,1,7,no
+480,36,no,travel_rarely,46,3,,46,F,2,3, sales executive ,4,married,,0,No,19,3.0,3,full-time,2,10.0,3.0,9,3,4,yes
+481,41,no,travel_rarely,28,4,life sciences,1,F,2,4, manufacturing director ,2,married,13570.0,0,No,23,,3,full-time,1,21.0,3.0,20,0,10,yes
+482,34,no,non-travel,28,3,marketing,4,F,2,2, sales executive ,3,married,6712.0,1,No,21,4.0,4,full-time,2,8.0,3.0,8,1,7,no
+483,38,no,travel_rarely,10,2,,1,F,3,2, sales executive ,4,married,,1,No,11,3.0,3,full-time,1,10.0,3.0,10,1,9,yes
+484,39,no,travel_rarely,6,1,,4,M,2,3, healthcare representative ,1,,9991.0,4,,15,3.0,1,part-time,1,,3.0,7,1,7,yes
+485,34,no,travel_rarely,7,4,,1,F,3,3, research director ,2,single,,0,No,11,,3,full-time,0,,3.0,12,2,11,no
+486,44,no,travel_rarely,7,4,medical,1,F,2,3, healthcare representative ,4,married,10248.0,3,,14,,4,full-time,1,24.0,3.0,22,5,17,yes
+487,46,no,non-travel,5,4,,1,M,3,2, sales executive ,4,single,,4,,21,,3,full-time,0,14.0,3.0,9,0,8,yes
+488,41,no,travel_frequently,10,3,life sciences,4,M,2,4, manager ,1,divorced,,4,,13,3.0,2,full-time,1,,2.0,7,7,7,no
+489,39,no,non-travel,2,4,,3,F,3,3, healthcare representative ,3,single,10938.0,0,No,25,4.0,4,full-time,0,20.0,3.0,19,11,8,no
+490,42,no,travel_rarely,2,3,medical,4,F,2,1, laboratory technician ,1,divorced,2593.0,0,Yes,11,3.0,3,part-time,1,10.0,3.0,9,7,8,yes
+491,33,no,travel_frequently,5,4,,4,F,3,3, manager ,2,married,11878.0,6,,11,,2,part-time,2,12.0,3.0,10,8,8,yes
+492,35,no,travel_rarely,5,4,technical degree,3,M,3,3, manufacturing director ,2,single,8095.0,0,No,13,3.0,4,part-time,0,17.0,3.0,16,0,13,yes
+493,33,yes,travel_rarely,15,1,medical,2,M,3,3, manager ,3,married,,7,,12,3.0,4,full-time,0,15.0,4.0,7,7,7,yes
+494,40,no,travel_rarely,6,3,life sciences,2,F,3,4, manufacturing director ,3,single,,7,No,15,3.0,3,full-time,0,22.0,3.0,20,5,13,no
+495,41,no,travel_rarely,10,4,human resources,2,M,2,5, manager ,4,divorced,,3,No,15,3.0,2,full-time,3,23.0,2.0,21,12,6,no
+496,27,no,non-travel,7,3,,4,F,2,2, healthcare representative ,1,,,8,No,19,3.0,1,full-time,0,,1.0,7,0,7,no
+497,52,no,travel_rarely,3,4,marketing,3,M,2,4, manager ,1,,16856.0,1,,11,3.0,1,full-time,0,,4.0,34,1,16,yes
+498,51,no,travel_rarely,26,4,marketing,1,F,3,4, manager ,3,married,,2,No,14,3.0,3,full-time,1,,2.0,20,4,17,no
+499,47,no,travel_rarely,2,2,marketing,3,F,3,2, sales executive ,4,,4537.0,0,,22,4.0,1,full-time,1,8.0,3.0,7,7,7,yes
+500,50,no,non-travel,2,4,,1,M,3,4, manager ,1,divorced,17924.0,1,,11,3.0,4,full-time,1,31.0,3.0,31,14,7,no
+501,35,no,travel_rarely,21,1,life sciences,4,F,3,2, healthcare representative ,4,married,4014.0,1,,25,4.0,4,full-time,1,10.0,1.0,10,0,7,yes
+502,39,no,travel_rarely,1,1,,4,F,2,4, manufacturing director ,4,married,12742.0,1,No,16,3.0,3,full-time,1,,3.0,21,11,8,yes
+503,39,no,travel_frequently,22,3,medical,4,F,3,3, manufacturing director ,1,single,,1,,13,3.0,3,full-time,0,,3.0,21,2,8,no
+504,41,no,non-travel,7,2,,2,F,4,1, research scientist ,3,,3376.0,1,No,13,3.0,3,part-time,0,,3.0,10,0,8,no
+505,44,yes,non-travel,1,2,medical,2,M,2,3, human resources ,1,married,10482.0,9,No,14,,4,part-time,1,24.0,3.0,20,3,6,yes
+506,42,no,non-travel,2,2,medical,4,M,3,4, manager ,1,,,0,No,17,3.0,4,full-time,1,23.0,3.0,22,13,7,no
+507,52,no,travel_rarely,7,4,life sciences,2,M,3,3, healthcare representative ,2,single,,7,,19,3.0,4,full-time,0,18.0,,8,4,0,yes
+508,38,no,non-travel,1,3,,3,M,4,1, human resources ,3,,,1,No,13,3.0,4,full-time,1,7.0,4.0,7,5,0,yes
+509,46,no,non-travel,1,2,life sciences,4,F,3,1, human resources ,1,,,6,,12,3.0,3,part-time,0,10.0,4.0,7,5,7,yes
+510,35,no,non-travel,4,4,life sciences,3,M,3,2, research scientist ,3,single,4249.0,1,,11,3.0,2,full-time,0,,3.0,9,1,1,no
+511,28,no,travel_rarely,29,1,life sciences,3,M,1,2, manufacturing director ,2,married,6549.0,1,,14,,2,full-time,2,8.0,2.0,8,1,7,yes
+512,44,no,non-travel,28,3,life sciences,4,M,3,4, research director ,1,married,,3,No,13,3.0,3,full-time,1,,4.0,20,14,17,yes
+513,50,no,non-travel,22,5,,3,M,1,4, research director ,4,,14411.0,1,,13,3.0,4,full-time,0,,3.0,32,13,9,no
+514,55,no,travel_rarely,23,5,marketing,3,M,2,5, manager ,4,,19586.0,1,No,21,4.0,3,part-time,1,36.0,3.0,36,2,13,yes
+515,39,no,non-travel,6,3,,4,M,4,3, sales executive ,3,married,8237.0,2,No,11,3.0,1,full-time,1,11.0,3.0,7,7,6,yes
+516,49,no,non-travel,13,4,,13,F,3,1, laboratory technician ,1,,3211.0,1,,14,3.0,4,full-time,1,10.0,2.0,9,1,4,yes
+517,45,no,non-travel,28,2,technical degree,4,F,2,4, research director ,2,single,16704.0,1,,11,,3,full-time,0,21.0,3.0,21,8,6,no
+518,46,no,non-travel,2,3,,3,M,3,3, sales executive ,4,,,4,,12,3.0,2,full-time,1,,2.0,10,0,3,no
+519,27,no,non-travel,15,3,,4,F,2,1, research scientist ,1,married,4774.0,0,No,19,3.0,4,full-time,1,,,7,7,3,no
+520,42,no,travel_rarely,2,3,,1,M,3,5, manager ,3,married,,5,,11,3.0,1,full-time,0,24.0,2.0,22,4,14,yes
+521,49,no,non-travel,2,3,,4,M,2,2, sales executive ,2,married,,2,,14,3.0,4,part-time,0,17.0,2.0,9,0,8,yes
+522,29,no,travel_rarely,15,2,life sciences,4,F,2,2, laboratory technician ,3,single,,0,Yes,12,3.0,4,full-time,0,10.0,3.0,9,0,8,yes
+523,34,no,non-travel,12,4,marketing,12,M,3,2, sales executive ,3,,4568.0,0,No,20,4.0,3,full-time,0,,3.0,9,8,7,no
+524,37,no,non-travel,1,4,,1,M,2,2, manufacturing director ,3,divorced,5993.0,1,No,18,3.0,3,part-time,1,,,7,0,7,no
+525,36,no,non-travel,11,3,,2,M,2,2, manufacturing director ,2,single,6499.0,1,No,13,3.0,3,full-time,0,6.0,3.0,6,0,3,yes
+526,45,no,non-travel,29,3,,3,M,3,1, research scientist ,4,single,3452.0,5,,13,3.0,2,full-time,0,9.0,2.0,6,0,3,yes
+527,29,no,travel_rarely,15,3,,3,M,3,1, research scientist ,4,,,1,No,19,3.0,1,full-time,0,6.0,3.0,6,1,5,no
+528,26,no,non-travel,1,3,,3,F,3,2, manufacturing director ,2,,6397.0,1,No,20,4.0,1,part-time,1,6.0,1.0,6,1,4,no
+529,28,no,non-travel,9,4,life sciences,2,M,3,2, sales executive ,4,single,,1,No,16,3.0,4,full-time,0,,3.0,7,0,7,yes
+530,42,no,travel_frequently,30,4,technical degree,4,F,2,2, healthcare representative ,4,married,,0,No,11,3.0,4,part-time,3,7.0,4.0,6,0,4,yes
+531,31,no,travel_rarely,2,1,life sciences,2,M,3,2, sales executive ,4,,,4,Yes,13,3.0,3,part-time,0,10.0,4.0,6,0,5,yes
+532,37,no,travel_rarely,47,3,,47,F,3,3, manufacturing director ,4,single,,4,,17,3.0,4,full-time,0,,4.0,6,1,2,yes
+533,37,no,non-travel,9,4,,1,M,3,3, sales executive ,2,divorced,,1,No,13,3.0,4,full-time,1,9.0,3.0,9,7,7,no
+534,37,no,travel_rarely,1,4,life sciences,2,F,3,2, manufacturing director ,2,married,,6,,12,3.0,2,full-time,1,8.0,2.0,6,4,3,no
+535,24,no,travel_rarely,23,3,medical,2,M,4,1, research scientist ,4,,2725.0,1,,11,3.0,2,full-time,2,,3.0,6,1,4,yes
+536,50,no,non-travel,3,3,,1,M,3,5, manager ,2,married,,1,No,11,3.0,3,part-time,1,,3.0,32,10,7,no
+537,34,no,non-travel,1,2,life sciences,2,M,2,1, research scientist ,4,,3622.0,1,Yes,13,3.0,4,full-time,1,6.0,3.0,6,1,3,yes
+538,27,no,travel_frequently,3,1,medical,4,F,4,2, sales executive ,4,,,1,,20,,2,part-time,2,,3.0,6,0,4,no
+539,25,no,non-travel,42,1,,42,F,3,2, sales executive ,4,single,6180.0,1,No,23,4.0,2,full-time,0,6.0,2.0,6,1,4,no
+540,34,no,non-travel,25,3,other,4,M,3,2, sales executive ,4,single,6274.0,1,No,22,4.0,3,full-time,0,6.0,3.0,6,1,4,yes
+541,34,no,non-travel,2,4,,3,F,2,1, research scientist ,1,,4381.0,1,,11,,3,part-time,0,6.0,3.0,6,1,3,yes
+542,35,no,non-travel,7,3,other,3,M,3,3, manufacturing director ,3,single,,3,No,21,4.0,2,full-time,0,17.0,4.0,8,1,6,no
+543,35,no,non-travel,16,1,medical,16,F,2,1, research scientist ,1,,2559.0,1,,11,3.0,4,full-time,0,6.0,2.0,6,1,1,no
+544,33,no,non-travel,1,4,,3,F,4,2, healthcare representative ,2,married,5488.0,1,Yes,13,3.0,1,full-time,1,,3.0,6,1,2,yes
+545,29,no,non-travel,28,4,life sciences,3,F,3,1, research scientist ,4,divorced,2514.0,4,No,22,4.0,1,full-time,1,11.0,3.0,7,1,7,no
+546,29,no,travel_frequently,10,3,,4,F,3,1, research scientist ,2,divorced,,0,No,14,3.0,4,full-time,2,8.0,2.0,7,1,1,yes
+547,34,no,non-travel,9,1,life sciences,2,F,3,2, sales executive ,3,married,,1,,20,4.0,1,part-time,0,,2.0,6,1,3,no
+548,28,no,travel_rarely,19,4,medical,4,M,2,1, laboratory technician ,1,married,3196.0,1,,12,3.0,3,full-time,3,6.0,3.0,6,3,3,no
+549,44,no,non-travel,2,1,life sciences,1,F,4,1, research scientist ,4,married,,1,,13,3.0,4,full-time,1,10.0,3.0,10,7,7,no
+550,31,no,travel_rarely,11,2,,3,M,3,2, healthcare representative ,1,married,,1,Yes,12,,4,full-time,0,6.0,2.0,6,0,1,no
+551,26,no,non-travel,4,2,life sciences,3,M,3,1, research scientist ,4,,,1,Yes,20,4.0,2,part-time,0,,2.0,8,2,2,no
+552,47,no,travel_rarely,1,3,,1,M,3,1, research scientist ,4,,3420.0,7,No,12,3.0,3,part-time,1,17.0,2.0,6,1,2,yes
+553,37,no,non-travel,5,2,,3,M,4,1, laboratory technician ,3,single,,0,No,14,3.0,1,full-time,0,7.0,1.0,6,1,3,no
+554,32,no,non-travel,1,4,,4,M,3,2, research scientist ,1,married,4087.0,4,,14,3.0,2,full-time,1,9.0,2.0,6,1,2,yes
+555,32,no,non-travel,2,3,medical,4,M,3,2, research scientist ,2,divorced,,0,No,13,3.0,3,full-time,2,10.0,2.0,9,1,6,yes
+556,33,no,non-travel,16,3,life sciences,3,F,3,2, sales executive ,4,,5368.0,1,Yes,25,4.0,3,part-time,1,7.0,3.0,6,1,2,no
+557,47,yes,non-travel,9,3,,3,M,1,4, sales executive ,3,married,12936.0,7,No,11,,3,full-time,0,25.0,1.0,23,14,10,yes
+558,41,yes,non-travel,1,2,,2,F,3,2, sales executive ,4,,,8,Yes,11,3.0,1,full-time,0,8.0,1.0,6,0,5,no
+559,35,no,travel_rarely,16,3,medical,1,M,4,1, laboratory technician ,2,married,,0,,13,3.0,3,full-time,1,6.0,3.0,5,0,3,no
+560,29,no,travel_rarely,2,3,life sciences,3,M,3,1, research scientist ,2,married,,0,No,23,4.0,4,full-time,1,,3.0,5,0,4,no
+561,32,no,travel_rarely,1,3,life sciences,2,M,3,2, research scientist ,2,,,1,No,17,3.0,2,part-time,2,10.0,3.0,10,0,9,yes
+562,35,no,travel_rarely,1,3,medical,2,M,2,1, research scientist ,3,single,,1,No,18,3.0,1,full-time,0,6.0,3.0,6,0,4,no
+563,56,no,non-travel,13,3,,4,M,1,3, manufacturing director ,4,,,4,No,11,3.0,1,full-time,0,37.0,2.0,6,0,2,yes
+564,28,no,non-travel,4,3,medical,2,M,3,2, sales executive ,3,,4221.0,1,,15,3.0,2,part-time,0,5.0,4.0,5,0,4,yes
+565,25,yes,travel_rarely,5,3,,3,M,2,2, sales executive ,3,single,,1,Yes,11,3.0,4,full-time,0,,3.0,6,0,3,yes
+566,56,yes,non-travel,14,4,life sciences,2,F,3,1, research scientist ,2,,4963.0,9,,18,3.0,1,full-time,3,7.0,3.0,5,4,3,yes
+567,26,no,non-travel,6,3,,3,F,2,1, research scientist ,2,married,,1,,19,3.0,3,full-time,0,5.0,2.0,5,4,3,no
+568,32,yes,non-travel,9,3,medical,1,F,3,1, laboratory technician ,1,,4200.0,7,No,22,4.0,1,part-time,0,,4.0,5,0,4,no
+569,30,no,travel_rarely,18,3,life sciences,1,F,3,1, research scientist ,3,single,,1,No,14,3.0,3,part-time,0,,2.0,5,0,4,yes
+570,50,no,travel_rarely,11,3,,3,F,3,5, manager ,2,,,3,,15,3.0,2,full-time,0,,3.0,5,4,4,no
+571,32,no,non-travel,6,5,life sciences,3,M,3,1, research scientist ,3,,,3,No,20,4.0,1,full-time,0,8.0,,5,1,4,no
+572,45,no,travel_rarely,4,2,,3,F,3,2, sales executive ,1,,5006.0,4,,11,3.0,1,full-time,1,9.0,4.0,5,0,3,no
+573,43,no,non-travel,7,3,,4,M,4,1, research scientist ,4,divorced,,4,No,14,3.0,4,full-time,3,7.0,4.0,5,2,2,yes
+574,29,yes,non-travel,27,3,marketing,2,F,3,3, sales executive ,4,married,7639.0,1,,22,4.0,4,full-time,3,10.0,2.0,10,1,9,yes
+575,31,no,non-travel,1,4,medical,3,M,1,2, manufacturing director ,3,,,0,,12,3.0,4,full-time,1,6.0,3.0,5,1,4,yes
+576,33,yes,non-travel,14,3,,3,M,3,1, laboratory technician ,4,married,,5,Yes,13,3.0,3,full-time,1,8.0,1.0,5,0,4,no
+577,31,yes,non-travel,29,2,,3,M,2,1, laboratory technician ,2,,,0,No,11,3.0,2,part-time,0,,4.0,5,1,4,yes
+578,37,no,non-travel,6,4,,3,M,3,2, sales executive ,4,,6502.0,4,No,14,3.0,2,full-time,1,,4.0,5,0,1,yes
+579,50,no,non-travel,4,1,,1,M,3,5, research director ,2,divorced,,3,No,14,3.0,1,full-time,2,28.0,2.0,10,1,6,no
+580,42,no,travel_frequently,26,3,,3,F,3,4, sales executive ,2,married,13525.0,5,,14,3.0,4,full-time,1,,,20,4,8,yes
+581,27,no,non-travel,2,3,,4,M,3,2, sales executive ,3,,,1,Yes,11,3.0,1,part-time,0,5.0,3.0,5,0,4,yes
+582,27,no,non-travel,1,1,marketing,3,M,3,2, sales executive ,2,,6349.0,0,Yes,13,3.0,4,full-time,1,,,5,1,4,yes
+583,41,no,travel_rarely,6,3,,4,M,2,2, manufacturing director ,2,single,,6,Yes,15,3.0,4,full-time,0,,3.0,5,1,2,yes
+584,37,no,travel_rarely,10,3,medical,3,F,3,1, laboratory technician ,1,,,6,No,20,4.0,2,part-time,1,,3.0,5,0,3,yes
+585,40,yes,non-travel,22,2,,22,M,2,2, sales executive ,3,,6380.0,2,Yes,12,3.0,1,full-time,2,8.0,3.0,6,1,0,yes
+586,55,no,non-travel,2,3,,3,F,3,4, manager ,4,single,,2,Yes,13,3.0,3,full-time,0,,3.0,5,1,2,no
+587,26,yes,travel_frequently,3,1,,3,M,3,1, research scientist ,1,,3102.0,0,,22,4.0,3,full-time,0,,3.0,6,0,4,yes
+588,40,no,travel_rarely,2,2,marketing,4,F,3,2, sales executive ,2,divorced,,7,,12,3.0,3,full-time,2,,3.0,5,1,3,yes
+589,25,no,non-travel,4,2,,2,F,2,2, sales executive ,4,single,,1,Yes,11,3.0,2,full-time,0,5.0,3.0,5,1,3,no
+590,30,no,non-travel,12,3,,2,F,3,2, sales executive ,3,single,,0,No,11,,2,full-time,0,,3.0,5,4,4,yes
+591,52,no,travel_rarely,32,3,,4,M,2,3, manufacturing director ,3,married,,2,,14,,3,part-time,0,,3.0,5,0,4,no
+592,42,no,travel_frequently,12,2,,1,F,3,2, research scientist ,3,,4556.0,2,No,11,3.0,2,full-time,1,19.0,3.0,5,0,2,no
+593,30,no,travel_rarely,2,3,life sciences,3,F,1,2, manufacturing director ,4,,,2,No,20,4.0,3,full-time,0,11.0,3.0,5,0,2,yes
+594,35,no,travel_rarely,22,3,life sciences,4,M,1,1, laboratory technician ,3,single,4230.0,0,No,15,3.0,3,full-time,0,,3.0,5,4,3,no
+595,31,no,travel_rarely,7,3,,3,M,2,3, manager ,4,divorced,,9,,21,4.0,3,part-time,1,10.0,2.0,5,0,1,yes
+596,35,no,travel_rarely,1,3,,1,F,3,2, sales executive ,3,single,4859.0,1,,16,3.0,4,part-time,0,5.0,3.0,5,0,3,yes
+597,25,no,non-travel,13,1,,2,M,3,1, sales representative ,3,,,1,,11,3.0,3,full-time,0,7.0,3.0,7,0,6,yes
+598,32,no,travel_rarely,9,4,,1,F,3,2, research scientist ,4,married,6322.0,1,,12,3.0,4,full-time,1,6.0,,6,0,5,no
+599,47,yes,non-travel,27,2,life sciences,2,F,4,2, sales executive ,3,,,4,Yes,12,3.0,4,full-time,0,8.0,3.0,5,1,3,no
+600,30,no,travel_frequently,5,4,life sciences,2,M,2,1, research scientist ,4,divorced,,9,No,12,3.0,2,part-time,1,10.0,2.0,5,0,3,yes
+601,45,no,non-travel,9,3,marketing,4,M,3,3, sales executive ,1,divorced,10761.0,4,Yes,12,3.0,3,part-time,1,18.0,3.0,5,0,2,no
+602,36,no,travel_rarely,8,3,life sciences,1,M,2,1, human resources ,1,,,0,,21,4.0,3,part-time,0,,3.0,5,0,3,yes
+603,31,no,non-travel,11,4,,4,M,3,1, research scientist ,4,,,3,,19,3.0,2,full-time,1,,3.0,6,0,2,yes
+604,37,no,travel_frequently,21,2,medical,3,F,3,1, sales representative ,4,married,2973.0,5,,15,3.0,2,part-time,1,,3.0,5,0,0,no
+605,39,no,travel_rarely,2,3,life sciences,4,F,2,2, human resources ,4,,5204.0,8,No,11,3.0,3,part-time,2,13.0,3.0,5,0,4,no
+606,42,no,non-travel,14,2,,3,F,2,2, sales executive ,3,,,7,,17,3.0,1,part-time,0,,3.0,5,0,3,yes
+607,30,no,travel_rarely,8,2,,3,M,3,3, sales executive ,3,,,5,No,11,3.0,1,full-time,1,,4.0,8,7,7,no
+608,50,no,non-travel,1,2,medical,4,M,3,4, research director ,4,divorced,17399.0,9,No,22,,3,full-time,1,32.0,2.0,5,1,3,yes
+609,59,no,travel_rarely,1,2,,2,M,3,3, manager ,4,,,3,Yes,14,3.0,3,full-time,1,14.0,1.0,6,0,4,yes
+610,54,no,non-travel,2,4,life sciences,3,F,2,3, sales executive ,3,married,,6,No,11,3.0,2,part-time,1,13.0,3.0,9,7,0,yes
+611,56,no,non-travel,9,3,medical,1,F,3,1, research scientist ,3,married,,2,No,19,3.0,2,full-time,1,18.0,3.0,5,0,3,no
+612,48,no,non-travel,1,4,,1,M,4,4, manager ,4,single,16885.0,2,No,22,,3,full-time,0,,2.0,5,2,1,yes
+613,39,no,non-travel,9,3,life sciences,3,M,3,2, laboratory technician ,2,single,,9,No,15,3.0,3,part-time,0,9.0,2.0,5,0,3,no
+614,35,no,travel_rarely,8,4,technical degree,3,M,3,1, human resources ,3,,4323.0,1,No,17,3.0,2,full-time,0,6.0,1.0,5,1,4,yes
+615,42,no,travel_rarely,4,4,marketing,2,M,3,2, sales executive ,1,single,5155.0,7,No,13,3.0,4,part-time,0,,,6,1,5,no
+616,44,yes,non-travel,10,4,,3,M,3,1, research scientist ,3,single,2936.0,1,Yes,11,3.0,3,full-time,0,6.0,3.0,6,0,2,no
+617,29,no,travel_rarely,15,1,,2,F,1,1, research scientist ,4,married,,0,Yes,18,,1,full-time,1,6.0,2.0,5,1,3,no
+618,33,no,non-travel,2,3,human resources,2,M,3,1, human resources ,3,,,1,No,13,3.0,4,full-time,1,5.0,3.0,5,1,4,yes
+619,54,no,travel_frequently,1,4,,4,F,3,3, manufacturing director ,3,,,7,No,17,3.0,1,full-time,1,33.0,1.0,5,1,4,no
+620,46,no,non-travel,4,2,,4,F,2,5, manager ,2,married,18789.0,2,,14,3.0,3,full-time,1,,3.0,11,0,8,yes
+621,30,no,non-travel,9,2,medical,3,F,3,2, manufacturing director ,3,single,,7,Yes,18,,3,full-time,0,10.0,3.0,8,1,7,yes
+622,32,yes,travel_rarely,7,2,life sciences,4,M,3,2, laboratory technician ,3,,4883.0,1,,18,3.0,1,full-time,1,,3.0,10,1,1,yes
+623,40,yes,non-travel,25,4,,4,M,2,3, sales executive ,2,single,,2,Yes,12,3.0,3,part-time,0,9.0,3.0,5,1,0,yes
+624,34,no,non-travel,26,1,,1,F,2,1, research scientist ,3,divorced,2029.0,1,No,20,4.0,3,full-time,3,5.0,3.0,5,0,0,yes
+625,39,no,travel_rarely,21,4,,1,M,2,2, sales executive ,4,married,,3,,12,3.0,4,full-time,2,8.0,4.0,5,1,4,no
+626,37,no,non-travel,4,1,,3,M,3,1, research scientist ,3,married,2996.0,7,Yes,15,3.0,4,full-time,0,8.0,3.0,6,1,3,no
+627,33,no,non-travel,41,1,life sciences,41,M,3,2, sales executive ,4,married,,6,,13,3.0,1,full-time,0,8.0,4.0,5,1,2,yes
+628,39,no,non-travel,25,2,,3,M,3,3, healthcare representative ,3,,,3,No,21,4.0,2,full-time,1,13.0,3.0,6,0,5,no
+629,52,no,travel_rarely,8,4,other,3,F,3,1, laboratory technician ,1,married,,9,No,13,,3,full-time,0,12.0,1.0,5,0,4,yes
+630,36,no,non-travel,3,4,,1,F,3,2, sales executive ,2,single,9278.0,3,Yes,16,3.0,4,full-time,0,15.0,3.0,5,0,1,yes
+631,36,no,non-travel,47,4,life sciences,47,M,2,2, laboratory technician ,4,single,,1,,16,3.0,3,part-time,0,10.0,2.0,10,1,8,yes
+632,24,no,travel_rarely,4,1,,4,F,3,2, sales executive ,3,married,4162.0,1,Yes,12,3.0,3,full-time,2,,3.0,5,0,3,yes
+633,34,no,travel_rarely,1,3,life sciences,4,F,2,1, laboratory technician ,2,,,5,No,17,3.0,1,full-time,1,7.0,2.0,5,0,2,no
+634,28,no,non-travel,5,3,,4,M,3,2, sales executive ,1,single,,0,,18,3.0,4,full-time,0,,3.0,5,1,3,yes
+635,33,no,travel_rarely,4,4,medical,1,F,2,1, laboratory technician ,2,,,8,No,11,3.0,4,full-time,0,8.0,3.0,5,0,2,yes
+636,47,no,travel_rarely,14,3,medical,3,F,3,2, sales executive ,3,married,,3,,17,3.0,3,part-time,1,,2.0,5,1,2,yes
+637,40,yes,non-travel,9,4,life sciences,4,M,3,1, laboratory technician ,1,single,,3,,14,3.0,2,full-time,0,15.0,1.0,5,1,0,no
+638,45,no,travel_rarely,49,3,technical degree,49,M,3,1, research scientist ,4,married,,4,No,20,4.0,4,full-time,1,,3.0,5,0,3,yes
+639,40,no,travel_rarely,9,2,,1,M,3,2, sales executive ,1,,,0,,12,3.0,4,part-time,0,,4.0,8,7,1,yes
+640,29,no,non-travel,2,1,life sciences,1,M,3,2, healthcare representative ,4,,8853.0,1,,19,3.0,4,part-time,1,6.0,4.0,6,1,3,yes
+641,40,no,non-travel,14,2,life sciences,4,F,3,2, sales executive ,1,married,,1,No,15,3.0,3,full-time,1,5.0,3.0,5,1,2,yes
+642,43,no,non-travel,27,3,,4,M,4,1, laboratory technician ,2,divorced,4876.0,5,,12,3.0,3,full-time,1,,,6,0,2,no
+643,30,no,non-travel,7,3,,2,M,2,1, research scientist ,2,,2141.0,1,No,12,3.0,2,full-time,1,6.0,2.0,6,1,1,yes
+644,38,no,non-travel,2,2,,4,F,2,3, manufacturing director ,3,,7756.0,3,,19,3.0,4,part-time,1,10.0,4.0,5,0,2,yes
+645,37,no,travel_rarely,10,3,,2,F,3,1, research scientist ,2,married,3936.0,1,,11,3.0,1,full-time,1,8.0,1.0,8,7,7,no
+646,39,no,travel_rarely,12,3,medical,4,M,3,2, manufacturing director ,2,,,4,No,21,4.0,3,full-time,0,,3.0,5,1,0,yes
+647,36,no,travel_rarely,11,2,life sciences,11,M,4,2, healthcare representative ,1,divorced,6842.0,6,No,20,4.0,1,full-time,1,13.0,3.0,5,0,4,yes
+648,23,yes,travel_rarely,8,1,medical,4,M,2,1, laboratory technician ,3,single,3989.0,1,,11,,1,part-time,0,5.0,3.0,5,1,2,yes
+649,35,no,non-travel,2,4,,1,M,2,1, research scientist ,4,,4930.0,0,Yes,14,3.0,3,part-time,0,6.0,4.0,5,1,4,yes
+650,31,no,travel_frequently,24,1,technical degree,4,F,3,2, manufacturing director ,4,single,,2,,20,4.0,4,part-time,0,9.0,2.0,5,1,4,yes
+651,38,no,travel_rarely,6,2,other,4,F,2,1, laboratory technician ,3,married,3702.0,1,No,11,3.0,2,full-time,1,5.0,3.0,5,0,4,yes
+652,35,no,non-travel,23,4,medical,2,M,1,1, laboratory technician ,3,married,2705.0,0,,16,,2,full-time,1,6.0,4.0,5,0,3,yes
+653,40,no,non-travel,12,3,,2,F,3,2, healthcare representative ,1,,4448.0,2,,12,3.0,2,part-time,1,15.0,3.0,7,7,7,yes
+654,27,no,travel_frequently,48,2,,48,F,3,1, laboratory technician ,4,single,2379.0,0,Yes,14,3.0,3,part-time,0,6.0,2.0,5,0,2,yes
+655,41,no,non-travel,8,3,,3,F,3,2, sales executive ,2,,,5,No,21,4.0,3,part-time,1,14.0,3.0,5,1,4,yes
+656,33,no,travel_rarely,15,4,marketing,2,M,3,2, sales executive ,3,single,5487.0,1,No,14,3.0,2,full-time,0,,2.0,10,0,9,no
+657,49,no,non-travel,2,1,life sciences,2,M,3,5, research director ,4,married,,3,No,15,3.0,4,full-time,0,28.0,3.0,5,4,3,no
+658,36,no,non-travel,9,4,,1,M,4,1, laboratory technician ,2,,2810.0,1,No,22,4.0,2,part-time,0,5.0,3.0,5,0,2,yes
+659,41,no,non-travel,3,3,life sciences,3,M,2,2, sales executive ,2,divorced,8938.0,2,,11,3.0,3,full-time,1,14.0,3.0,5,0,4,no
+660,29,no,non-travel,41,4,medical,41,F,2,1, research scientist ,1,single,,1,No,14,3.0,2,part-time,0,5.0,1.0,5,0,4,yes
+661,31,no,non-travel,5,3,medical,2,M,3,2, manufacturing director ,1,,9936.0,0,No,19,3.0,2,full-time,0,10.0,3.0,9,1,7,yes
+662,36,yes,travel_rarely,9,4,life sciences,3,M,2,1, sales representative ,1,single,,7,No,23,4.0,2,full-time,0,,,5,0,3,no
+663,43,no,travel_rarely,2,2,medical,4,F,4,1, research scientist ,3,,,1,No,12,3.0,4,full-time,2,6.0,2.0,5,1,4,no
+664,33,no,travel_frequently,18,3,life sciences,18,F,4,2, sales executive ,1,married,,2,No,19,,1,part-time,2,,3.0,5,1,3,no
+665,44,no,non-travel,1,5,marketing,2,F,3,2, sales executive ,1,,5454.0,5,,21,4.0,3,full-time,1,9.0,2.0,4,1,3,no
+666,38,no,non-travel,29,5,life sciences,4,F,3,2, laboratory technician ,4,single,,1,No,11,3.0,4,full-time,0,10.0,3.0,10,9,9,yes
+667,50,no,non-travel,7,2,medical,2,F,2,5, research director ,3,divorced,18740.0,5,,12,,4,full-time,1,,2.0,27,13,8,no
+668,59,no,travel_frequently,1,1,,1,F,2,2, sales executive ,3,single,5473.0,7,No,11,,4,part-time,0,20.0,2.0,4,1,3,no
+669,40,no,travel_frequently,1,4,life sciences,3,M,2,4, healthcare representative ,2,married,13503.0,1,No,22,4.0,4,full-time,1,22.0,2.0,22,11,11,no
+670,54,no,travel_rarely,2,4,technical degree,1,F,3,3, research director ,3,,13549.0,9,No,12,3.0,1,part-time,1,16.0,1.0,4,0,3,no
+671,50,no,non-travel,47,3,,1,F,3,5, research director ,2,,18172.0,3,Yes,19,3.0,1,full-time,0,28.0,2.0,8,0,7,yes
+672,54,no,non-travel,26,3,,4,F,4,4, manager ,4,single,,2,,12,,3,full-time,0,,3.0,5,4,4,yes
+673,24,no,non-travel,18,1,life sciences,2,M,3,1, laboratory technician ,3,married,2774.0,0,No,12,3.0,3,part-time,1,,3.0,5,1,2,yes
+674,37,no,travel_rarely,3,3,life sciences,3,M,3,3, sales executive ,4,,,2,No,12,3.0,1,full-time,0,,3.0,5,1,3,yes
+675,30,no,travel_rarely,2,1,,2,M,2,1, laboratory technician ,4,single,,0,No,13,3.0,4,full-time,0,6.0,3.0,5,1,2,yes
+676,34,no,travel_frequently,10,4,,10,F,3,1, sales representative ,3,,,6,No,18,3.0,4,full-time,1,,3.0,4,1,2,no
+677,57,no,travel_rarely,24,2,,3,M,4,3, healthcare representative ,4,divorced,9439.0,3,,16,3.0,2,full-time,1,12.0,1.0,5,1,4,yes
+678,38,no,travel_rarely,1,4,life sciences,1,F,2,2, sales executive ,4,single,,4,,22,,3,full-time,0,12.0,4.0,8,0,7,no
+679,41,yes,travel_rarely,20,2,marketing,2,F,3,1, sales representative ,2,,,1,Yes,22,4.0,4,full-time,0,4.0,2.0,4,0,2,yes
+680,42,no,non-travel,21,2,,3,F,3,2, manufacturing director ,3,divorced,5265.0,2,,16,3.0,2,part-time,1,11.0,3.0,5,0,2,no
+681,34,no,non-travel,10,4,,4,M,3,1, research scientist ,3,divorced,3815.0,1,Yes,17,3.0,4,full-time,1,,4.0,5,2,0,yes
+682,30,yes,non-travel,26,4,,3,F,2,2, sales executive ,1,,,5,,15,3.0,3,part-time,0,9.0,2.0,6,0,1,yes
+683,29,yes,travel_rarely,13,1,medical,13,M,2,1, research scientist ,4,single,2389.0,1,,13,3.0,3,part-time,0,4.0,,4,0,1,yes
+684,32,no,non-travel,4,2,,3,F,3,1, sales representative ,2,married,,2,No,11,,1,full-time,1,,3.0,4,1,2,no
+685,25,no,non-travel,5,2,life sciences,2,M,4,2, healthcare representative ,1,,4000.0,1,No,12,3.0,4,full-time,2,6.0,3.0,6,1,5,yes
+686,53,no,non-travel,3,4,,3,M,3,4, research director ,3,married,17584.0,3,Yes,16,3.0,4,full-time,3,21.0,2.0,5,1,3,yes
+687,26,no,non-travel,11,2,medical,1,M,3,2, healthcare representative ,1,married,,1,,13,3.0,3,full-time,1,5.0,3.0,5,3,3,yes
+688,28,no,non-travel,8,2,,4,F,3,1, research scientist ,4,,,1,No,21,4.0,4,part-time,0,,3.0,5,0,2,yes
+689,28,no,travel_rarely,16,2,medical,2,M,4,2, healthcare representative ,1,single,5661.0,0,,19,3.0,3,full-time,0,9.0,3.0,8,0,7,yes
+690,58,no,non-travel,1,4,life sciences,4,M,1,2, healthcare representative ,3,divorced,,2,Yes,13,3.0,4,full-time,1,,3.0,5,1,2,yes
+691,27,no,travel_rarely,5,3,,3,F,3,1, research scientist ,2,single,,1,,12,3.0,2,part-time,0,4.0,,4,1,2,yes
+692,54,no,travel_frequently,20,4,life sciences,4,F,3,2, research scientist ,3,,4869.0,3,,12,,4,full-time,0,20.0,2.0,4,0,3,no
+693,40,no,travel_rarely,45,2,,45,M,1,2, sales executive ,4,married,,2,,22,4.0,3,full-time,3,,2.0,4,0,2,yes
+694,29,no,non-travel,2,3,life sciences,4,M,3,2, sales executive ,3,,4649.0,1,,14,,1,full-time,1,,2.0,4,0,2,yes
+695,50,no,travel_rarely,10,3,,4,M,2,3, healthcare representative ,4,,10496.0,6,No,15,3.0,4,full-time,0,20.0,3.0,4,1,3,no
+696,24,yes,travel_rarely,1,1,technical degree,1,F,3,1, sales representative ,2,single,,1,Yes,16,3.0,2,full-time,0,6.0,3.0,5,1,4,yes
+697,30,no,non-travel,37,3,,37,M,3,1, laboratory technician ,4,married,,4,,15,3.0,3,full-time,1,9.0,1.0,5,1,4,no
+698,34,no,non-travel,2,4,,4,M,2,1, research scientist ,3,,2768.0,3,,12,3.0,3,full-time,1,14.0,3.0,7,5,7,yes
+699,33,yes,travel_rarely,10,1,,1,M,1,1, laboratory technician ,4,divorced,3408.0,7,No,13,3.0,1,full-time,3,8.0,3.0,4,1,3,no
+700,36,no,non-travel,30,4,medical,2,M,3,3, sales executive ,4,single,,1,,14,3.0,4,part-time,0,,2.0,10,9,7,yes
+701,41,no,non-travel,10,2,,4,M,3,2, sales executive ,4,single,,7,No,14,3.0,4,full-time,0,,3.0,14,1,10,yes
+702,39,no,travel_frequently,8,1,,3,F,3,1, laboratory technician ,3,married,3755.0,1,No,11,3.0,1,full-time,1,,3.0,8,0,7,yes
+703,26,no,travel_rarely,28,2,marketing,1,M,3,2, sales executive ,2,married,,1,,20,4.0,4,full-time,2,,4.0,5,1,4,yes
+704,24,yes,travel_frequently,7,3,,1,F,3,1, laboratory technician ,3,,,1,,16,3.0,4,part-time,1,6.0,3.0,6,1,2,yes
+705,27,no,non-travel,6,4,,1,F,2,1, research scientist ,3,divorced,2187.0,0,No,12,3.0,3,full-time,2,6.0,2.0,5,0,3,yes
+706,27,yes,travel_rarely,2,1,marketing,3,M,3,1, sales representative ,1,divorced,,0,No,11,3.0,2,full-time,1,5.0,3.0,4,0,2,yes
+707,50,yes,non-travel,8,2,technical degree,2,M,3,2, sales executive ,3,married,,3,,14,3.0,1,full-time,1,18.0,3.0,4,1,3,no
+708,23,no,travel_rarely,49,1,,2,M,3,1, laboratory technician ,1,,,1,No,14,3.0,4,part-time,1,5.0,4.0,4,0,2,yes
+709,39,no,travel_rarely,24,3,,3,F,4,2, human resources ,2,,,9,,15,3.0,3,part-time,1,,1.0,8,3,6,no
+710,52,no,non-travel,19,4,medical,4,M,3,1, research scientist ,4,,4258.0,0,No,18,3.0,1,full-time,1,,3.0,4,1,2,yes
+711,26,yes,non-travel,8,3,,4,M,2,2, sales executive ,1,single,5326.0,6,No,17,3.0,3,full-time,0,,2.0,4,1,2,yes
+712,54,no,non-travel,19,4,,4,F,3,2, manufacturing director ,1,divorced,5485.0,9,Yes,11,,2,full-time,2,,3.0,5,1,4,yes
+713,37,no,travel_rarely,10,1,life sciences,4,F,3,1, research scientist ,1,divorced,2782.0,0,Yes,13,3.0,2,part-time,2,,2.0,5,4,3,no
+714,50,no,travel_rarely,2,3,,3,M,3,4, research director ,3,,17639.0,5,,16,3.0,4,full-time,0,,3.0,4,0,3,no
+715,42,no,non-travel,1,2,life sciences,4,F,2,2, manufacturing director ,4,married,6062.0,9,,13,3.0,4,full-time,1,8.0,3.0,4,0,2,no
+716,38,no,travel_frequently,12,3,,1,M,2,2, healthcare representative ,1,,6288.0,2,,15,3.0,3,part-time,1,,2.0,4,1,2,no
+717,25,no,travel_rarely,2,1,medical,1,M,4,1, research scientist ,1,single,3424.0,7,No,13,3.0,3,full-time,0,,2.0,4,0,1,no
+718,32,no,non-travel,8,2,,3,F,4,2, research scientist ,3,married,,5,,12,3.0,3,full-time,1,9.0,2.0,5,1,3,yes
+719,25,no,non-travel,3,1,,3,M,3,2, sales executive ,1,,4194.0,1,Yes,18,3.0,4,full-time,0,5.0,3.0,5,0,3,yes
+720,42,no,non-travel,3,3,,3,F,4,2, laboratory technician ,4,married,,2,Yes,13,3.0,2,full-time,1,17.0,2.0,5,1,3,yes
+721,33,no,non-travel,3,2,human resources,4,M,3,1, human resources ,2,divorced,,3,Yes,11,3.0,3,full-time,1,,4.0,4,0,3,no
+722,29,no,travel_rarely,7,1,medical,1,F,2,1, laboratory technician ,4,,2532.0,6,No,14,3.0,3,part-time,3,8.0,3.0,4,0,3,no
+723,38,no,non-travel,10,3,,3,F,3,2, sales executive ,4,,5666.0,1,Yes,13,3.0,2,part-time,0,6.0,3.0,5,1,3,yes
+724,45,no,travel_rarely,1,4,,4,F,3,1, laboratory technician ,4,divorced,,3,No,14,,4,part-time,2,8.0,3.0,5,0,2,no
+725,31,no,travel_frequently,1,1,,3,F,3,2, manufacturing director ,1,,,1,No,12,3.0,3,full-time,1,4.0,3.0,4,0,3,no
+726,22,no,non-travel,8,1,life sciences,2,M,1,1, laboratory technician ,1,,,1,,15,3.0,1,full-time,1,4.0,2.0,4,1,1,yes
+727,59,no,travel_rarely,2,3,,3,F,2,4, manufacturing director ,4,,13726.0,3,,13,3.0,1,part-time,0,,3.0,5,4,3,no
+728,45,no,non-travel,11,2,,4,F,3,4, manager ,4,married,,3,No,13,3.0,2,full-time,1,26.0,4.0,9,1,1,no
+729,45,no,travel_rarely,24,4,,2,M,3,1, human resources ,2,,,1,No,16,3.0,1,full-time,0,,3.0,6,0,4,yes
+730,37,no,travel_rarely,3,3,,4,F,3,2, healthcare representative ,2,,4107.0,3,No,15,3.0,1,full-time,0,8.0,2.0,4,0,1,yes
+731,26,no,non-travel,26,1,medical,1,F,2,1, research scientist ,3,,,1,No,13,3.0,3,part-time,2,,3.0,5,1,3,no
+732,26,no,non-travel,1,2,medical,1,M,2,1, laboratory technician ,1,married,,1,No,16,3.0,1,full-time,2,6.0,3.0,5,1,3,yes
+733,28,no,non-travel,42,1,,42,M,2,1, research scientist ,2,married,,0,No,17,3.0,1,part-time,0,,1.0,5,0,4,yes
+734,24,no,non-travel,24,3,medical,4,M,3,1, laboratory technician ,2,single,3597.0,8,No,22,4.0,4,full-time,0,6.0,3.0,4,1,2,no
+735,30,no,travel_rarely,10,3,marketing,3,M,2,2, sales executive ,3,married,,1,No,18,3.0,1,full-time,1,,3.0,10,1,4,no
+736,43,yes,non-travel,9,3,,1,F,1,2, sales executive ,3,single,,8,No,13,,2,full-time,0,7.0,2.0,4,1,3,yes
+737,30,no,travel_rarely,29,4,life sciences,3,M,3,2, sales executive ,1,divorced,4115.0,8,,19,3.0,3,full-time,3,8.0,3.0,4,0,3,no
+738,46,no,travel_rarely,2,4,technical degree,4,M,3,2, manufacturing director ,4,divorced,,2,,11,3.0,3,full-time,1,,2.0,6,1,4,yes
+739,42,no,non-travel,2,5,,4,M,4,2, human resources ,1,married,6272.0,7,No,16,3.0,1,full-time,1,,4.0,4,0,3,yes
+740,25,no,non-travel,10,4,life sciences,3,M,3,2, sales executive ,4,single,,0,No,14,3.0,2,full-time,0,5.0,3.0,4,1,1,no
+741,27,no,non-travel,4,2,,1,M,3,1, research scientist ,3,divorced,2517.0,1,,11,3.0,2,full-time,3,,,5,0,3,yes
+742,56,no,travel_rarely,8,4,life sciences,4,M,3,5, manager ,2,single,,6,No,14,3.0,1,full-time,0,36.0,3.0,7,7,7,no
+743,41,no,travel_frequently,1,3,marketing,3,F,3,2, sales executive ,1,,,0,,17,3.0,4,full-time,1,,3.0,9,1,7,yes
+744,28,no,non-travel,26,3,life sciences,3,M,2,2, sales executive ,1,married,,1,,11,3.0,3,full-time,1,5.0,3.0,5,0,4,yes
+745,52,no,travel_frequently,28,2,,4,F,4,4, manufacturing director ,3,married,,2,,11,3.0,2,full-time,1,,2.0,5,0,2,yes
+746,26,no,travel_rarely,2,1,medical,1,M,2,1, research scientist ,4,single,3904.0,0,No,12,3.0,4,full-time,0,5.0,3.0,4,1,1,yes
+747,49,yes,travel_frequently,28,2,,1,M,2,2, laboratory technician ,1,,,3,No,20,4.0,1,part-time,0,20.0,,4,1,3,yes
+748,34,no,travel_frequently,1,4,other,4,M,3,1, research scientist ,1,,,5,,14,3.0,3,part-time,2,10.0,3.0,4,1,3,yes
+749,32,no,non-travel,7,5,marketing,4,M,3,2, sales executive ,4,,9204.0,4,,12,3.0,3,part-time,1,7.0,,4,0,3,yes
+750,33,no,non-travel,7,3,medical,4,M,3,2, sales executive ,1,,4373.0,0,No,14,3.0,1,full-time,2,5.0,3.0,4,0,3,no
+751,29,yes,non-travel,13,3,,1,F,3,2, sales executive ,2,single,,5,No,11,,1,full-time,0,7.0,1.0,5,0,0,no
+752,30,no,non-travel,16,3,life sciences,3,M,3,1, human resources ,3,,2064.0,0,,21,4.0,1,part-time,1,6.0,4.0,5,1,3,no
+753,23,no,non-travel,11,1,life sciences,11,M,3,2, laboratory technician ,3,single,,0,No,14,3.0,2,full-time,0,5.0,3.0,4,1,2,no
+754,33,no,non-travel,25,3,,4,M,2,2, manufacturing director ,2,,,1,No,13,3.0,4,full-time,0,5.0,3.0,5,0,2,yes
+755,35,no,non-travel,28,4,,2,F,2,1, sales representative ,3,married,2430.0,0,,23,4.0,1,full-time,2,6.0,3.0,5,4,2,yes
+756,38,no,travel_frequently,10,4,,3,M,3,2, human resources ,3,,,3,No,11,3.0,3,full-time,0,10.0,3.0,6,1,2,yes
+757,28,no,non-travel,27,3,,2,F,1,2, manufacturing director ,1,divorced,4877.0,0,,21,4.0,2,full-time,1,6.0,2.0,5,0,0,yes
+758,37,no,non-travel,19,3,life sciences,3,M,3,2, manufacturing director ,3,,,3,No,17,3.0,1,full-time,3,,2.0,4,0,2,no
+759,24,no,non-travel,2,1,technical degree,1,F,3,1, research scientist ,4,,3760.0,1,,13,3.0,3,full-time,0,6.0,3.0,6,1,3,no
+760,36,no,non-travel,7,3,,1,M,3,1, laboratory technician ,2,,2013.0,2,,11,3.0,3,full-time,0,,3.0,4,1,3,yes
+761,38,no,travel_frequently,2,3,,4,F,2,1, laboratory technician ,2,,,1,,22,4.0,2,full-time,0,4.0,3.0,4,3,3,no
+762,53,no,travel_rarely,24,4,medical,2,M,4,3, healthcare representative ,4,married,,3,No,15,3.0,3,full-time,0,11.0,3.0,4,1,2,no
+763,37,no,travel_frequently,1,4,,3,M,1,2, sales executive ,4,,,1,,14,3.0,3,full-time,2,6.0,2.0,6,1,3,yes
+764,24,no,non-travel,12,3,medical,3,M,4,1, research scientist ,3,married,,1,No,16,3.0,4,full-time,1,5.0,3.0,5,0,4,yes
+765,29,no,travel_rarely,9,4,medical,4,F,3,1, laboratory technician ,3,,2974.0,9,No,17,3.0,3,full-time,1,,3.0,5,1,2,no
+766,32,no,travel_rarely,19,3,,4,M,1,3, sales executive ,3,married,,3,No,13,3.0,3,full-time,1,,1.0,4,0,2,no
+767,42,no,travel_rarely,12,3,medical,2,M,3,1, laboratory technician ,2,divorced,2766.0,8,No,22,4.0,2,full-time,3,7.0,2.0,5,0,4,yes
+768,41,no,non-travel,9,4,life sciences,3,M,3,1, laboratory technician ,1,divorced,,1,No,20,4.0,2,part-time,2,5.0,3.0,5,0,4,yes
+769,44,yes,non-travel,1,2,,3,M,3,1, research scientist ,2,,,1,Yes,12,3.0,3,full-time,3,,2.0,5,2,3,yes
+770,28,no,travel_rarely,1,3,,3,M,3,1, research scientist ,4,married,,1,No,11,3.0,3,full-time,1,5.0,4.0,5,0,3,yes
+771,39,no,non-travel,10,1,medical,3,M,3,3, research director ,3,single,,7,,21,4.0,3,part-time,0,,3.0,4,2,2,yes
+772,40,no,non-travel,2,2,life sciences,3,F,3,1, laboratory technician ,1,married,3377.0,4,,17,3.0,4,part-time,1,7.0,2.0,4,0,2,yes
+773,37,yes,travel_rarely,10,4,,4,M,3,2, manufacturing director ,1,single,4213.0,1,,15,3.0,2,part-time,0,10.0,,10,0,8,yes
+774,40,no,non-travel,1,3,,3,F,3,2, healthcare representative ,4,,6513.0,4,,17,3.0,4,full-time,1,12.0,3.0,5,0,3,yes
+775,26,no,travel_rarely,10,3,,3,M,3,2, sales executive ,4,,,1,No,13,3.0,1,full-time,0,,3.0,5,1,2,no
+776,42,no,non-travel,10,4,technical degree,3,M,3,1, research scientist ,3,married,,3,No,22,4.0,2,full-time,2,10.0,2.0,6,3,3,no
+777,34,no,travel_rarely,4,3,,3,M,3,3, sales executive ,4,married,,2,Yes,13,3.0,4,full-time,3,9.0,3.0,5,1,0,yes
+778,37,no,travel_rarely,7,4,medical,4,M,3,2, research scientist ,1,,4284.0,5,,22,4.0,3,full-time,1,16.0,3.0,5,0,4,yes
+779,27,no,non-travel,2,4,technical degree,2,M,3,1, research scientist ,2,,2226.0,1,No,11,,3,full-time,1,6.0,2.0,5,1,2,no
+780,35,no,travel_rarely,18,4,,2,M,3,2, sales executive ,1,,5561.0,0,,16,3.0,4,full-time,1,,1.0,5,0,4,yes
+781,28,no,non-travel,16,3,medical,3,M,3,1, research scientist ,3,single,2144.0,1,No,14,3.0,3,full-time,0,5.0,2.0,5,1,4,yes
+782,29,no,non-travel,1,3,life sciences,1,M,3,2, healthcare representative ,1,married,5373.0,0,No,12,3.0,1,full-time,1,6.0,2.0,5,0,2,no
+783,54,no,non-travel,9,2,,1,F,3,2, research scientist ,3,married,2897.0,3,No,11,3.0,3,full-time,2,9.0,2.0,4,2,3,no
+784,24,no,travel_rarely,41,2,life sciences,41,M,2,2, healthcare representative ,3,single,,1,No,12,3.0,2,full-time,0,4.0,2.0,4,1,2,yes
+785,38,no,travel_frequently,6,4,,1,M,2,2, manufacturing director ,3,married,5321.0,2,No,11,3.0,4,full-time,1,10.0,3.0,8,7,7,no
+786,42,no,non-travel,18,4,,4,M,3,2, research scientist ,1,,5410.0,6,,17,3.0,3,full-time,1,9.0,2.0,4,1,2,yes
+787,41,no,non-travel,1,3,life sciences,4,M,3,1, research scientist ,4,,2782.0,3,No,22,,1,full-time,1,,3.0,5,1,0,yes
+788,25,no,travel_rarely,8,2,,1,F,3,2, sales executive ,3,,,0,Yes,22,4.0,2,full-time,1,6.0,2.0,5,0,4,yes
+789,44,no,non-travel,1,3,medical,2,M,3,1, research scientist ,4,single,,6,Yes,12,3.0,3,full-time,0,6.0,3.0,4,1,2,yes
+790,50,yes,non-travel,1,4,,2,M,3,2, sales executive ,3,,,7,No,12,3.0,4,full-time,2,12.0,,6,0,1,yes
+791,36,no,non-travel,11,4,marketing,2,F,2,2, sales executive ,4,married,,4,No,13,3.0,1,full-time,1,8.0,2.0,6,0,0,no
+792,45,no,non-travel,20,3,,4,F,3,2, sales executive ,3,,4850.0,8,No,15,3.0,3,full-time,0,,3.0,5,0,1,yes
+793,40,no,non-travel,2,4,,3,F,3,1, research scientist ,3,married,2001.0,2,,14,3.0,2,full-time,3,20.0,3.0,5,0,2,yes
+794,35,no,travel_rarely,1,4,,3,F,1,1, research scientist ,4,married,,1,No,12,3.0,4,full-time,1,4.0,3.0,4,1,1,yes
+795,29,no,travel_rarely,13,2,other,4,M,2,2, laboratory technician ,2,,,4,,13,3.0,1,full-time,1,10.0,3.0,4,0,3,no
+796,34,no,non-travel,8,3,,2,M,4,2, laboratory technician ,3,,4404.0,2,No,12,3.0,1,full-time,0,,4.0,4,1,2,yes
+797,27,no,travel_rarely,2,1,,1,M,3,1, laboratory technician ,2,married,,9,No,12,3.0,4,part-time,1,6.0,3.0,2,2,2,no
+798,31,no,non-travel,26,1,,1,M,3,1, research scientist ,3,divorced,,1,,17,3.0,4,full-time,1,5.0,2.0,5,4,3,yes
+799,34,no,travel_rarely,38,2,,2,M,3,1, laboratory technician ,4,divorced,,0,,11,3.0,3,full-time,1,3.0,3.0,2,1,2,yes
+800,28,yes,travel_rarely,24,3,life sciences,3,M,2,1, laboratory technician ,3,single,,5,Yes,14,3.0,2,full-time,0,6.0,3.0,4,0,3,yes
+801,32,no,travel_rarely,5,2,,1,M,4,1, research scientist ,2,divorced,,0,Yes,12,3.0,4,part-time,2,7.0,2.0,6,0,5,yes
+802,38,no,non-travel,2,3,life sciences,4,M,3,1, research scientist ,4,single,3944.0,5,Yes,11,3.0,3,full-time,0,6.0,3.0,3,1,2,yes
+803,24,no,non-travel,11,2,,1,F,4,2, manufacturing director ,3,,,0,No,18,3.0,4,full-time,1,5.0,2.0,4,1,3,yes
+804,34,yes,non-travel,6,1,,2,M,3,1, research scientist ,1,single,2960.0,2,No,11,3.0,3,full-time,0,,3.0,4,1,3,yes
+805,32,yes,travel_frequently,16,1,,2,F,1,1, research scientist ,1,,,1,,22,,2,full-time,0,,3.0,10,6,7,no
+806,46,no,travel_rarely,2,4,marketing,2,F,3,5, manager ,1,single,18947.0,3,,12,3.0,4,full-time,0,22.0,2.0,2,2,1,no
+807,44,no,non-travel,10,4,other,4,M,3,2, healthcare representative ,4,married,6465.0,2,,13,3.0,4,full-time,0,,4.0,4,1,3,no
+808,50,yes,travel_rarely,3,2,,1,M,2,1, sales representative ,3,married,2683.0,1,,14,3.0,3,full-time,0,3.0,3.0,3,0,2,yes
+809,35,no,non-travel,2,3,marketing,4,F,3,1, sales representative ,4,married,2014.0,1,No,13,3.0,1,full-time,0,2.0,3.0,2,2,2,yes
+810,28,yes,non-travel,5,4,,3,M,3,1, laboratory technician ,3,single,3441.0,1,Yes,13,,3,full-time,0,2.0,2.0,2,2,2,yes
+811,26,no,non-travel,22,3,,22,F,2,2, sales executive ,4,married,,7,Yes,19,3.0,3,full-time,1,5.0,2.0,2,0,0,no
+812,35,no,travel_rarely,31,4,,3,F,3,1, laboratory technician ,1,,,3,Yes,15,,3,full-time,1,4.0,3.0,2,2,2,no
+813,35,no,non-travel,31,3,medical,2,M,3,1, research scientist ,1,married,,4,No,13,3.0,4,full-time,1,5.0,2.0,3,1,2,yes
+814,37,no,travel_rarely,20,4,medical,1,M,3,3, research director ,3,,13664.0,4,,13,,1,part-time,0,,4.0,5,0,2,yes
+815,46,no,travel_rarely,38,2,medical,38,M,3,2, human resources ,2,divorced,5021.0,8,Yes,22,4.0,4,part-time,1,,3.0,4,0,2,yes
+816,34,no,travel_rarely,1,2,medical,1,M,3,2, manufacturing director ,2,married,,1,No,15,3.0,3,part-time,0,,3.0,5,1,3,yes
+817,51,no,travel_rarely,9,4,,4,M,3,1, laboratory technician ,4,,,3,,23,4.0,2,full-time,2,10.0,3.0,4,0,3,yes
+818,24,no,travel_rarely,3,2,other,1,F,3,2, sales executive ,3,married,,0,No,21,4.0,1,full-time,1,4.0,2.0,3,0,2,yes
+819,44,no,non-travel,23,3,,2,M,3,2, laboratory technician ,2,married,,4,,12,3.0,3,full-time,1,,4.0,3,1,2,yes
+820,37,yes,travel_rarely,6,4,human resources,3,M,3,1, human resources ,1,divorced,,4,,22,4.0,4,full-time,0,,3.0,3,0,2,yes
+821,59,no,non-travel,2,4,human resources,3,F,2,5, manager ,4,,18844.0,9,No,21,4.0,4,part-time,1,,3.0,3,2,2,no
+822,25,no,non-travel,7,1,,4,M,2,1, research scientist ,4,married,,1,No,11,3.0,3,full-time,2,,,2,2,1,yes
+823,43,no,non-travel,26,3,medical,2,F,4,1, research scientist ,3,single,4739.0,4,,12,3.0,4,full-time,0,,3.0,3,1,2,yes
+824,50,no,travel_frequently,12,3,,3,F,3,3, sales executive ,4,single,,4,No,11,3.0,4,full-time,0,16.0,,2,2,1,no
+825,31,yes,travel_rarely,20,3,,2,F,1,2, sales executive ,3,,,3,Yes,11,3.0,3,full-time,1,4.0,3.0,2,2,2,yes
+826,36,no,non-travel,6,2,medical,2,M,3,2, manufacturing director ,2,divorced,,6,No,20,4.0,4,full-time,2,7.0,3.0,3,0,1,no
+827,51,yes,travel_frequently,16,4,,1,M,1,3, manufacturing director ,4,,10650.0,2,,15,3.0,4,full-time,0,18.0,3.0,4,0,3,no
+828,25,no,non-travel,28,3,life sciences,1,M,2,2, sales executive ,3,,,2,,18,3.0,4,full-time,0,,3.0,2,2,2,no
+829,38,no,travel_rarely,3,5,technical degree,4,F,3,2, research scientist ,3,,4317.0,3,Yes,20,4.0,2,full-time,0,19.0,,3,2,2,no
+830,30,no,travel_rarely,5,3,technical degree,4,F,3,1, research scientist ,1,divorced,,5,No,14,,4,full-time,1,8.0,3.0,3,2,2,yes
+831,22,no,non-travel,36,1,medical,36,M,3,1, research scientist ,4,married,,1,No,24,4.0,1,part-time,2,2.0,3.0,2,2,2,yes
+832,27,no,non-travel,9,3,medical,4,M,3,1, research scientist ,2,,2024.0,6,,18,3.0,4,part-time,1,,1.0,2,2,2,yes
+833,28,no,non-travel,21,3,medical,3,M,3,1, research scientist ,4,married,,1,No,11,3.0,3,full-time,1,5.0,1.0,5,0,2,yes
+834,27,no,non-travel,17,3,,3,M,3,1, research scientist ,2,,3058.0,0,,16,3.0,4,full-time,1,6.0,2.0,5,1,1,yes
+835,56,no,travel_rarely,8,3,life sciences,3,F,3,1, research scientist ,1,divorced,,4,,18,3.0,3,part-time,1,,,2,2,2,yes
+836,38,no,travel_rarely,9,2,,3,F,3,1, laboratory technician ,4,single,,1,,12,,3,full-time,0,,,2,2,1,yes
+837,31,no,travel_rarely,12,1,medical,3,F,3,1, research scientist ,4,,3929.0,8,,23,4.0,3,part-time,1,7.0,3.0,4,0,2,yes
+838,34,no,travel_rarely,27,2,medical,4,F,3,1, research scientist ,2,,,2,No,15,3.0,4,full-time,0,9.0,3.0,3,1,2,yes
+839,50,no,non-travel,1,3,,3,M,2,1, laboratory technician ,3,,,2,,15,3.0,4,full-time,1,,2.0,3,0,2,no
+840,53,no,non-travel,13,2,,4,F,4,2, manufacturing director ,1,divorced,,1,No,11,3.0,3,full-time,2,5.0,3.0,4,1,3,no
+841,35,no,travel_frequently,24,3,medical,2,F,3,2, laboratory technician ,2,single,4425.0,5,,11,3.0,4,full-time,0,,3.0,6,1,2,yes
+842,27,no,travel_frequently,1,1,,3,M,2,2, manufacturing director ,1,married,,5,,19,3.0,3,full-time,1,,3.0,2,2,0,no
+843,40,no,non-travel,38,2,,3,M,3,2, laboratory technician ,4,married,,8,,15,3.0,3,full-time,1,,4.0,7,3,7,yes
+844,22,no,non-travel,22,3,life sciences,22,M,4,1, research scientist ,2,,2328.0,1,,16,3.0,1,full-time,1,4.0,2.0,4,2,2,no
+845,40,no,non-travel,10,5,life sciences,4,M,2,2, healthcare representative ,4,,,9,No,14,3.0,4,part-time,1,5.0,1.0,3,0,2,yes
+846,46,no,non-travel,1,4,,4,M,3,3, healthcare representative ,1,,,7,No,16,3.0,3,part-time,1,17.0,3.0,4,0,3,yes
+847,30,yes,non-travel,3,3,technical degree,4,F,3,1, research scientist ,1,,2657.0,5,Yes,11,3.0,3,full-time,0,8.0,3.0,5,0,4,yes
+848,29,yes,non-travel,1,3,,3,M,3,1, research scientist ,3,single,,0,,14,3.0,4,full-time,0,,2.0,6,1,5,no
+849,54,no,non-travel,3,3,,4,F,3,2, sales executive ,1,married,5940.0,2,,14,3.0,4,full-time,1,16.0,3.0,6,0,5,no
+850,33,no,travel_rarely,4,4,,3,F,2,1, research scientist ,2,married,2622.0,6,,21,4.0,4,full-time,0,,3.0,3,1,1,yes
+851,52,no,travel_rarely,2,3,,3,F,2,1, laboratory technician ,4,single,3212.0,7,,15,3.0,2,full-time,0,,2.0,2,2,2,yes
+852,59,no,travel_rarely,6,2,medical,2,M,3,1, human resources ,3,married,,8,,17,3.0,4,full-time,0,,2.0,2,2,2,no
+853,32,yes,non-travel,1,3,,4,M,2,1, laboratory technician ,3,single,,0,,14,3.0,4,full-time,0,4.0,1.0,3,1,2,yes
+854,39,no,non-travel,24,4,medical,24,F,3,1, laboratory technician ,3,divorced,,7,No,14,3.0,3,part-time,3,7.0,3.0,3,1,2,no
+855,32,no,non-travel,26,4,marketing,3,M,3,2, sales executive ,4,,,0,No,18,3.0,1,part-time,0,4.0,3.0,3,2,2,yes
+856,31,no,non-travel,3,4,medical,2,M,3,3, research director ,3,divorced,,9,No,12,3.0,1,full-time,1,,3.0,2,2,2,yes
+857,33,no,travel_rarely,5,4,life sciences,3,F,2,1, research scientist ,4,married,2911.0,1,,13,3.0,3,full-time,1,2.0,2.0,2,0,2,yes
+858,45,no,non-travel,23,4,life sciences,1,M,4,2, manufacturing director ,3,,,4,,17,3.0,4,full-time,1,9.0,3.0,3,0,2,yes
+859,42,no,non-travel,17,2,,4,F,4,2, research scientist ,1,single,,3,Yes,13,3.0,3,full-time,0,,3.0,3,0,2,yes
+860,29,no,non-travel,19,2,marketing,4,M,3,2, sales executive ,4,divorced,6931.0,2,No,14,3.0,4,full-time,1,,3.0,3,0,2,no
+861,25,no,travel_rarely,1,3,,1,F,3,2, manufacturing director ,3,married,,0,No,12,3.0,4,full-time,2,5.0,3.0,4,1,2,no
+862,32,no,non-travel,2,1,,4,M,2,2, laboratory technician ,1,,2176.0,4,No,13,3.0,4,part-time,0,9.0,3.0,6,0,4,no
+863,28,no,travel_rarely,9,3,,4,M,3,1, research scientist ,4,married,,1,No,23,4.0,4,full-time,1,,,5,0,4,yes
+864,21,no,travel_rarely,3,2,,4,M,2,1, research scientist ,3,single,3230.0,1,No,17,3.0,1,part-time,0,,4.0,3,1,0,no
+865,37,no,non-travel,1,4,medical,1,F,3,3, research director ,4,divorced,,2,Yes,18,3.0,1,full-time,2,,3.0,5,0,2,no
+866,38,no,travel_rarely,23,4,life sciences,4,M,3,2, healthcare representative ,4,,,9,,14,3.0,2,part-time,1,,3.0,2,1,2,no
+867,26,yes,travel_rarely,16,4,medical,1,M,3,1, laboratory technician ,2,divorced,,2,Yes,13,3.0,4,part-time,1,,3.0,3,0,2,no
+868,49,no,non-travel,10,4,life sciences,3,F,3,5, research director ,1,single,18665.0,9,Yes,11,3.0,4,full-time,0,,3.0,3,1,2,yes
+869,31,no,travel_frequently,5,3,,4,F,3,1, sales representative ,2,divorced,2789.0,1,,11,3.0,3,full-time,1,2.0,2.0,2,2,2,yes
+870,37,no,travel_frequently,9,3,medical,2,M,3,1, research scientist ,4,married,,1,,12,3.0,3,part-time,3,,2.0,4,1,2,no
+871,31,no,travel_rarely,11,4,,11,M,3,1, research scientist ,4,married,,0,,12,3.0,3,full-time,1,,3.0,5,0,3,yes
+872,31,no,travel_rarely,2,3,human resources,1,M,2,2, human resources ,1,,6410.0,3,No,12,3.0,4,full-time,0,,3.0,2,1,0,no
+873,31,no,non-travel,2,4,,3,M,3,1, research scientist ,4,,,0,,18,3.0,2,full-time,1,3.0,1.0,2,2,2,yes
+874,52,yes,non-travel,17,4,medical,17,M,2,2, research scientist ,2,,4941.0,2,No,15,,1,part-time,0,11.0,2.0,8,7,7,no
+875,28,yes,non-travel,2,4,medical,1,M,1,1, research scientist ,4,married,,5,Yes,13,3.0,4,full-time,0,,2.0,3,2,2,yes
+876,47,no,travel_rarely,5,5,,4,M,3,5, research director ,3,married,,4,,11,3.0,2,part-time,1,21.0,3.0,3,1,1,no
+877,29,no,non-travel,9,5,other,2,M,2,1, laboratory technician ,4,,3983.0,0,No,17,3.0,3,part-time,0,4.0,,3,2,2,yes
+878,37,no,non-travel,5,2,medical,4,M,3,2, manufacturing director ,4,,6347.0,7,No,16,3.0,3,full-time,2,8.0,2.0,6,0,4,yes
+879,23,no,non-travel,26,1,,3,M,3,1, research scientist ,4,,2904.0,1,,12,3.0,3,full-time,2,,2.0,4,0,2,no
+880,42,no,travel_rarely,2,1,,3,M,3,1, human resources ,3,divorced,2696.0,0,Yes,11,3.0,3,full-time,1,4.0,3.0,3,1,0,no
+881,30,no,non-travel,25,2,,4,F,3,2, sales executive ,3,,,7,,12,3.0,2,full-time,1,4.0,4.0,2,2,2,no
+882,21,yes,non-travel,31,1,,1,F,2,1, sales representative ,2,single,2174.0,1,,11,3.0,3,full-time,0,3.0,3.0,3,1,2,yes
+883,57,no,travel_rarely,1,4,medical,4,M,3,2, healthcare representative ,3,,6755.0,2,No,11,3.0,3,full-time,0,,3.0,3,1,2,yes
+884,21,no,non-travel,9,2,,1,M,3,1, sales representative ,4,single,,1,,24,4.0,3,full-time,0,3.0,2.0,3,2,2,yes
+885,31,no,travel_rarely,9,4,life sciences,3,M,2,1, research scientist ,2,,2657.0,0,,16,3.0,4,full-time,0,3.0,3.0,2,2,2,yes
+886,29,no,non-travel,17,3,,17,M,3,1, research scientist ,4,,,9,No,16,,4,full-time,0,6.0,3.0,3,1,2,no
+887,27,no,travel_rarely,1,2,,4,M,3,1, laboratory technician ,2,,,1,No,11,3.0,2,part-time,1,5.0,3.0,5,0,4,yes
+888,49,no,travel_rarely,7,3,other,2,M,2,3, healthcare representative ,3,single,10965.0,8,No,24,4.0,3,full-time,0,,3.0,5,0,0,yes
+889,36,no,travel_rarely,2,3,,4,F,3,1, research scientist ,3,married,2543.0,4,No,13,3.0,2,full-time,1,,3.0,2,2,2,yes
+890,34,yes,non-travel,19,3,marketing,1,M,4,2, sales executive ,4,,5304.0,8,Yes,13,3.0,2,full-time,0,,2.0,5,0,4,yes
+891,24,no,non-travel,10,4,marketing,4,F,3,2, sales executive ,3,divorced,,1,Yes,12,3.0,4,full-time,1,,4.0,5,0,3,yes
+892,42,no,non-travel,1,4,,2,F,3,1, laboratory technician ,1,,,3,No,16,3.0,2,part-time,1,8.0,3.0,5,1,2,yes
+893,54,no,non-travel,5,2,medical,1,M,3,5, research director ,1,married,19406.0,4,,11,3.0,3,part-time,1,24.0,2.0,4,1,2,no
+894,34,no,non-travel,4,4,,3,F,3,2, sales executive ,3,married,6538.0,9,No,15,3.0,1,full-time,1,,3.0,3,1,2,yes
+895,43,no,non-travel,21,3,,4,M,3,1, laboratory technician ,4,,2258.0,7,,20,4.0,1,part-time,1,,3.0,3,1,2,yes
+896,43,no,travel_rarely,8,4,other,3,F,3,2, healthcare representative ,3,,,4,Yes,14,3.0,4,full-time,0,,3.0,5,0,2,yes
+897,31,no,travel_rarely,1,2,,4,M,2,1, laboratory technician ,1,married,2218.0,1,No,12,3.0,3,part-time,1,4.0,,4,3,2,no
+898,25,yes,travel_rarely,3,3,medical,1,M,3,1, laboratory technician ,1,married,,5,No,13,3.0,3,part-time,1,6.0,,2,0,2,yes
+899,45,no,non-travel,10,2,life sciences,1,M,3,1, research scientist ,4,married,2654.0,3,No,21,,4,full-time,2,8.0,2.0,2,0,2,yes
+900,52,no,travel_rarely,4,2,life sciences,4,F,3,4, manager ,4,married,,2,No,13,3.0,4,full-time,0,31.0,1.0,5,1,4,no
+901,34,yes,travel_frequently,6,2,,4,F,1,1, sales representative ,3,,,0,No,16,3.0,4,full-time,1,3.0,2.0,2,1,0,yes
+902,26,no,travel_rarely,23,3,life sciences,1,F,3,1, research scientist ,4,divorced,,1,No,22,4.0,2,full-time,2,,1.0,3,0,2,yes
+903,29,no,non-travel,3,4,,2,M,2,3, research director ,3,,11935.0,1,No,18,3.0,3,full-time,0,,3.0,10,0,7,yes
+904,29,yes,non-travel,25,5,technical degree,3,F,2,1, research scientist ,2,married,2546.0,5,No,16,3.0,2,full-time,0,6.0,4.0,2,1,1,no
+905,46,no,non-travel,2,3,life sciences,1,M,3,4, research director ,3,married,17861.0,6,No,13,3.0,3,part-time,0,,1.0,3,0,1,no
+906,46,no,non-travel,10,3,marketing,3,F,2,3, sales executive ,4,,,2,,19,3.0,3,part-time,1,15.0,3.0,3,1,2,no
+907,30,no,travel_rarely,7,1,marketing,4,M,3,1, sales representative ,2,single,,0,,14,3.0,1,part-time,0,,3.0,3,1,2,yes
+908,34,yes,travel_frequently,23,3,,2,F,3,3, human resources ,1,divorced,,9,Yes,15,3.0,3,full-time,3,,3.0,3,0,2,no
+909,42,no,non-travel,5,2,other,2,M,3,1, laboratory technician ,3,married,,4,No,17,3.0,4,full-time,1,,,2,2,0,yes
+910,22,yes,non-travel,25,1,technical degree,3,M,2,1, laboratory technician ,3,single,3894.0,5,No,16,3.0,3,full-time,0,4.0,3.0,2,1,2,yes
+911,29,no,travel_rarely,19,3,technical degree,4,M,3,2, manufacturing director ,4,divorced,4262.0,4,No,12,3.0,2,full-time,2,8.0,4.0,3,1,2,yes
+912,46,no,travel_frequently,18,1,medical,1,F,3,3, healthcare representative ,3,married,10527.0,5,No,11,3.0,4,full-time,0,,2.0,2,1,2,yes
+913,32,yes,non-travel,11,4,other,4,M,4,2, sales executive ,3,,,8,,12,3.0,4,part-time,0,,3.0,4,1,2,yes
+914,24,no,non-travel,24,3,medical,4,M,3,1, sales representative ,4,,2400.0,0,No,13,3.0,3,full-time,2,3.0,3.0,2,2,1,no
+915,35,no,travel_rarely,25,2,,1,M,2,2, laboratory technician ,4,single,3681.0,4,No,14,3.0,4,full-time,0,,3.0,3,0,2,no
+916,42,no,non-travel,2,4,life sciences,3,F,3,2, healthcare representative ,4,married,,1,No,13,3.0,2,full-time,2,10.0,3.0,10,2,2,yes
+917,48,no,travel_rarely,1,4,,4,F,2,4, manager ,1,married,,7,No,11,3.0,1,full-time,1,21.0,1.0,3,0,2,yes
+918,44,no,travel_rarely,1,4,,1,F,2,2, human resources ,3,,,4,No,11,,2,full-time,0,10.0,4.0,2,0,2,yes
+919,34,no,non-travel,14,3,,3,F,3,1, sales representative ,3,,,1,Yes,18,3.0,4,full-time,2,8.0,3.0,8,0,6,yes
+920,21,no,non-travel,22,1,technical degree,3,M,3,1, sales representative ,3,,3447.0,1,,11,,3,full-time,0,,3.0,3,1,2,yes
+921,44,no,travel_rarely,3,4,,4,M,3,5, manager ,4,,19513.0,4,,12,3.0,1,full-time,1,26.0,4.0,2,0,1,yes
+922,22,no,travel_rarely,6,1,medical,1,M,3,1, research scientist ,3,married,,0,,20,4.0,4,part-time,0,,3.0,2,2,2,yes
+923,26,no,travel_rarely,6,3,,3,F,3,1, laboratory technician ,4,,2659.0,1,Yes,13,,3,full-time,1,,3.0,3,0,2,no
+924,36,no,non-travel,9,2,medical,2,M,2,2, manufacturing director ,2,,8847.0,2,Yes,11,3.0,3,full-time,1,13.0,3.0,3,0,2,yes
+925,27,no,non-travel,3,4,medical,1,M,2,1, research scientist ,4,single,2045.0,0,,13,3.0,4,full-time,0,5.0,3.0,4,1,1,yes
+926,23,no,travel_rarely,4,3,,1,M,4,1, research scientist ,1,,,2,,16,3.0,1,full-time,1,5.0,4.0,3,0,2,no
+927,25,no,non-travel,8,3,life sciences,4,M,4,2, sales executive ,2,,4851.0,0,No,22,4.0,3,full-time,1,4.0,3.0,3,1,2,no
+928,48,no,non-travel,14,1,,14,M,4,2, sales executive ,2,married,8120.0,3,,12,3.0,4,full-time,0,,3.0,2,2,2,yes
+929,24,yes,travel_rarely,3,2,life sciences,1,F,3,2, sales executive ,3,single,4577.0,9,No,14,3.0,1,full-time,0,,3.0,2,2,0,yes
+930,60,no,travel_rarely,16,4,,1,M,3,2, sales executive ,1,single,5405.0,8,No,14,3.0,4,part-time,0,10.0,3.0,2,2,2,no
+931,50,no,non-travel,8,4,marketing,4,M,3,1, sales representative ,2,married,,7,No,15,3.0,4,full-time,1,4.0,3.0,2,2,2,yes
+932,44,no,non-travel,24,3,,1,M,1,1, laboratory technician ,3,single,3708.0,2,,14,3.0,3,full-time,0,9.0,3.0,5,1,4,no
+933,47,no,travel_frequently,3,3,,4,F,3,4, sales executive ,3,divorced,13770.0,9,Yes,12,3.0,4,full-time,2,28.0,2.0,22,11,13,yes
+934,42,yes,non-travel,19,3,,3,M,4,1, research scientist ,3,divorced,,6,,12,3.0,4,full-time,0,,3.0,2,2,2,yes
+935,43,no,travel_frequently,15,3,life sciences,4,M,2,2, sales executive ,4,married,,3,,18,,3,full-time,1,7.0,3.0,2,2,2,yes
+936,40,no,non-travel,2,1,,4,F,2,1, research scientist ,4,single,,0,,20,4.0,4,full-time,0,5.0,2.0,4,2,3,no
+937,29,no,non-travel,10,3,,4,M,3,1, sales representative ,2,,2297.0,1,No,14,3.0,4,part-time,2,,3.0,2,2,2,no
+938,53,no,non-travel,6,3,,4,M,3,2, laboratory technician ,4,single,2450.0,2,,17,3.0,4,full-time,0,19.0,3.0,2,2,2,no
+939,23,no,travel_rarely,12,1,medical,1,M,4,1, research scientist ,3,single,,1,,18,3.0,4,part-time,0,,3.0,2,0,2,no
+940,55,yes,non-travel,2,3,medical,4,M,3,5, manager ,1,,,5,Yes,13,3.0,4,full-time,1,24.0,3.0,5,1,4,no
+941,26,no,travel_frequently,1,2,life sciences,1,F,1,1, laboratory technician ,4,,,3,No,14,3.0,1,part-time,1,,3.0,2,2,0,yes
+942,34,no,travel_rarely,1,4,,2,F,4,1, research scientist ,4,single,,2,No,16,3.0,3,part-time,0,,3.0,4,1,3,no
+943,27,no,non-travel,8,1,marketing,3,M,3,2, sales executive ,4,married,4342.0,0,,19,3.0,2,full-time,1,5.0,3.0,4,1,1,yes
+944,35,no,travel_rarely,8,4,,1,F,3,1, sales representative ,4,,2572.0,1,No,16,3.0,2,full-time,1,3.0,2.0,3,0,2,yes
+945,30,no,travel_rarely,18,3,,4,M,1,1, laboratory technician ,3,married,,3,No,21,,3,full-time,2,7.0,3.0,2,0,2,yes
+946,34,no,non-travel,8,2,,3,F,3,2, sales executive ,1,,6500.0,5,No,17,3.0,2,full-time,1,,3.0,3,1,2,yes
+947,52,no,travel_rarely,25,4,life sciences,25,F,3,2, laboratory technician ,3,,3149.0,8,,20,4.0,2,part-time,1,9.0,3.0,5,1,4,yes
+948,33,yes,travel_rarely,16,3,marketing,1,F,3,2, sales executive ,1,single,5324.0,5,,15,3.0,3,full-time,0,,3.0,3,0,2,no
+949,35,no,travel_rarely,20,4,,20,F,4,1, research scientist ,3,single,,3,No,13,3.0,3,full-time,0,7.0,3.0,2,2,2,no
+950,28,yes,non-travel,2,4,,3,M,3,1, research scientist ,3,single,4382.0,6,No,17,3.0,4,full-time,0,5.0,2.0,2,2,1,yes
+951,36,no,travel_rarely,13,3,human resources,3,M,3,1, human resources ,2,married,,4,,13,3.0,2,full-time,1,,3.0,5,0,4,yes
+952,34,no,travel_frequently,16,4,,3,F,2,1, research scientist ,4,single,2553.0,1,No,16,3.0,3,part-time,0,6.0,3.0,5,1,3,yes
+953,34,no,non-travel,3,2,,3,M,3,1, human resources ,4,,,0,,19,3.0,3,full-time,1,4.0,1.0,3,0,2,no
+954,44,no,travel_rarely,4,3,,4,M,3,2, healthcare representative ,2,single,5933.0,9,,12,3.0,4,part-time,0,10.0,2.0,5,2,3,yes
+955,32,no,non-travel,13,4,life sciences,2,M,3,2, sales executive ,4,divorced,4403.0,2,,11,3.0,3,part-time,1,8.0,2.0,5,0,3,yes
+956,53,no,non-travel,7,2,,1,F,2,3, sales executive ,4,married,10934.0,7,Yes,18,3.0,4,full-time,1,35.0,3.0,5,0,4,no
+957,22,no,non-travel,1,2,life sciences,4,M,2,2, manufacturing director ,4,,,6,,22,4.0,1,full-time,2,4.0,1.0,2,2,2,no
+958,44,no,travel_rarely,8,4,life sciences,1,M,4,1, laboratory technician ,4,,,2,Yes,24,4.0,3,full-time,1,10.0,2.0,3,0,2,no
+959,35,yes,travel_frequently,25,4,life sciences,4,F,3,1, research scientist ,2,divorced,2022.0,1,,19,3.0,1,full-time,1,10.0,2.0,10,7,8,yes
+960,25,no,non-travel,4,1,,3,M,2,2, sales executive ,1,,4256.0,1,No,12,3.0,1,full-time,0,5.0,4.0,5,0,3,no
+961,49,no,travel_rarely,1,3,technical degree,3,F,3,1, research scientist ,1,,3580.0,2,No,16,3.0,2,full-time,1,7.0,3.0,4,0,2,no
+962,24,no,non-travel,19,1,life sciences,1,M,2,1, laboratory technician ,4,,,0,,17,3.0,4,full-time,0,,2.0,5,3,4,no
+963,38,no,travel_rarely,9,3,marketing,2,M,2,1, sales representative ,2,,2899.0,0,,19,3.0,4,part-time,1,3.0,3.0,2,1,2,yes
+964,29,yes,travel_rarely,1,3,medical,2,F,2,1, sales representative ,3,,,6,Yes,19,3.0,3,part-time,3,5.0,3.0,3,0,2,no
+965,43,no,travel_frequently,1,3,life sciences,4,F,3,2, healthcare representative ,4,married,5562.0,4,,13,3.0,2,part-time,1,12.0,2.0,5,2,2,yes
+966,28,no,travel_rarely,5,4,medical,1,M,3,2, sales executive ,4,single,,1,,14,3.0,2,part-time,0,4.0,3.0,4,0,2,no
+967,20,yes,travel_rarely,2,3,,3,F,2,1, sales representative ,3,single,,1,,13,3.0,4,full-time,0,2.0,2.0,2,0,2,yes
+968,47,no,non-travel,2,4,life sciences,4,F,2,1, sales representative ,4,single,,1,Yes,18,3.0,1,full-time,0,3.0,2.0,3,1,2,yes
+969,22,yes,travel_rarely,3,1,life sciences,2,F,3,2, manufacturing director ,3,married,,0,Yes,19,3.0,1,full-time,1,4.0,4.0,3,0,2,yes
+970,28,no,non-travel,9,3,medical,3,F,3,1, research scientist ,3,divorced,2377.0,5,No,18,3.0,2,full-time,1,6.0,3.0,2,2,2,yes
+971,39,yes,non-travel,6,3,medical,4,M,3,1, laboratory technician ,1,married,2404.0,7,,21,4.0,4,full-time,0,,1.0,2,2,2,yes
+972,33,no,travel_rarely,1,4,,3,M,2,1, research scientist ,1,single,2799.0,3,,11,3.0,2,full-time,0,,3.0,3,0,2,no
+973,36,no,travel_rarely,7,4,other,2,M,3,1, research scientist ,4,single,,2,,18,3.0,3,part-time,0,8.0,3.0,6,0,1,yes
+974,35,no,travel_rarely,48,3,,3,F,3,2, sales executive ,3,,,1,,16,3.0,2,full-time,0,5.0,3.0,5,1,0,yes
+975,31,yes,non-travel,9,2,medical,3,M,2,1, research scientist ,1,single,,0,Yes,22,4.0,1,full-time,0,4.0,3.0,3,1,2,no
+976,33,no,travel_rarely,13,1,life sciences,2,F,3,1, research scientist ,4,single,3452.0,3,,18,3.0,1,full-time,0,5.0,3.0,3,0,2,no
+977,27,no,non-travel,24,4,,24,F,3,1, laboratory technician ,2,married,2811.0,9,No,14,3.0,2,full-time,1,4.0,3.0,2,2,2,no
+978,30,yes,travel_rarely,22,3,,1,F,3,1, research scientist ,3,married,,4,,11,3.0,2,full-time,0,,,5,0,1,yes
+979,24,no,non-travel,17,1,medical,4,F,2,2, manufacturing director ,3,divorced,4377.0,1,No,15,3.0,2,full-time,2,5.0,3.0,4,3,2,no
+980,35,yes,travel_rarely,14,4,other,3,M,2,1, laboratory technician ,2,divorced,,1,Yes,24,4.0,4,part-time,1,5.0,1.0,4,0,2,no
+981,30,yes,non-travel,5,3,,2,F,3,1, laboratory technician ,2,,,0,,17,3.0,1,full-time,0,4.0,3.0,3,1,2,yes
+982,48,no,travel_rarely,6,3,,1,M,2,2, healthcare representative ,3,,4240.0,2,No,13,3.0,4,full-time,0,19.0,3.0,2,2,2,yes
+983,41,no,travel_rarely,7,2,medical,4,F,3,2, manufacturing director ,3,,,6,,14,3.0,2,full-time,0,8.0,3.0,2,2,1,no
+984,27,no,non-travel,2,4,,1,F,3,2, manufacturing director ,4,,4227.0,0,,18,3.0,2,full-time,1,,,3,2,2,yes
+985,35,no,travel_rarely,10,3,other,2,M,3,1, laboratory technician ,4,,3917.0,1,No,20,4.0,1,full-time,1,3.0,2.0,3,1,2,no
+986,26,yes,non-travel,29,2,medical,2,M,1,2, sales executive ,1,single,4969.0,8,No,18,3.0,4,part-time,0,,3.0,2,2,2,yes
+987,33,no,non-travel,8,1,life sciences,2,F,2,1, sales representative ,4,,,0,,19,3.0,4,full-time,0,,2.0,2,2,2,no
+988,26,yes,non-travel,2,3,life sciences,1,M,3,1, research scientist ,1,married,2042.0,6,,14,3.0,2,full-time,1,6.0,3.0,3,1,2,yes
+989,38,no,travel_frequently,3,4,,3,M,3,1, research scientist ,3,,2821.0,3,No,16,3.0,1,full-time,1,8.0,3.0,2,2,2,no
+990,46,no,non-travel,47,4,medical,47,M,3,5, research director ,4,,,9,No,17,3.0,4,part-time,2,23.0,3.0,2,2,2,yes
+991,20,yes,non-travel,9,3,marketing,4,F,3,1, sales representative ,4,single,,1,Yes,14,3.0,2,part-time,0,2.0,3.0,2,0,2,yes
+992,30,no,non-travel,20,3,other,20,M,3,2, manufacturing director ,1,married,9957.0,0,,15,3.0,3,full-time,1,7.0,2.0,6,0,2,no
+993,27,no,non-travel,8,5,,1,M,1,1, laboratory technician ,3,married,,1,,19,3.0,4,part-time,3,3.0,,3,1,2,no
+994,55,no,non-travel,2,1,,4,M,3,3, manufacturing director ,2,married,,3,No,18,3.0,2,full-time,1,23.0,3.0,3,1,2,yes
+995,33,no,travel_rarely,5,3,life sciences,4,M,2,3, healthcare representative ,4,,,4,No,15,3.0,3,full-time,1,,3.0,3,1,2,yes
+996,28,no,non-travel,15,2,life sciences,1,M,3,1, laboratory technician ,3,,2207.0,1,No,16,3.0,4,full-time,1,4.0,2.0,4,2,2,yes
+997,34,no,non-travel,3,1,life sciences,1,M,3,2, healthcare representative ,4,,7756.0,0,No,17,3.0,3,full-time,0,,2.0,6,0,4,yes
+998,33,yes,non-travel,25,3,medical,1,M,2,1, research scientist ,2,single,,4,Yes,20,4.0,2,full-time,0,5.0,3.0,2,2,2,no
+999,33,no,non-travel,7,3,life sciences,4,F,3,2, sales executive ,2,married,,0,No,17,3.0,3,part-time,1,4.0,3.0,3,0,2,no
+1000,21,no,non-travel,1,1,,4,F,2,1, research scientist ,2,single,2070.0,1,Yes,11,3.0,3,part-time,0,2.0,4.0,2,2,2,yes
+1001,31,no,travel_frequently,20,3,,3,M,4,1, sales representative ,4,married,2791.0,0,No,12,,1,full-time,1,3.0,3.0,2,2,2,yes
+1002,35,no,non-travel,11,2,marketing,4,M,3,2, sales executive ,4,divorced,,1,,11,3.0,4,full-time,1,5.0,3.0,5,0,2,yes
+1003,34,no,non-travel,2,2,,4,M,3,2, manufacturing director ,3,single,,2,No,11,3.0,4,part-time,0,,,3,0,2,yes
+1004,33,yes,non-travel,9,4,,1,F,3,2, sales executive ,1,single,8224.0,0,,17,3.0,1,full-time,0,6.0,3.0,5,0,3,no
+1005,31,yes,non-travel,15,3,medical,3,M,3,1, laboratory technician ,3,,2610.0,1,No,12,3.0,3,full-time,1,,2.0,2,2,2,yes
+1006,37,no,travel_rarely,25,2,,3,F,2,2, healthcare representative ,4,,5731.0,7,No,13,3.0,3,full-time,2,9.0,3.0,6,1,3,yes
+1007,27,no,travel_rarely,6,3,,4,M,2,1, research scientist ,3,married,2539.0,1,No,13,,3,full-time,1,4.0,3.0,4,2,2,yes
+1008,35,no,travel_frequently,4,4,other,4,M,2,1, laboratory technician ,4,married,2376.0,1,,13,3.0,2,full-time,1,2.0,4.0,2,2,2,yes
+1009,56,no,non-travel,4,4,,4,F,3,5, manager ,1,divorced,,4,No,13,3.0,4,full-time,1,28.0,3.0,5,4,2,yes
+1010,45,no,non-travel,7,3,medical,1,F,3,1, research scientist ,3,,,4,Yes,19,3.0,3,full-time,1,,,3,0,2,yes
+1011,20,no,travel_rarely,3,3,,1,M,2,1, laboratory technician ,3,single,,1,,12,3.0,1,full-time,0,2.0,2.0,2,1,2,yes
+1012,50,no,travel_frequently,2,3,,4,F,3,4, manager ,1,,,2,No,22,4.0,3,part-time,1,,,2,2,2,yes
+1013,46,no,non-travel,15,2,life sciences,4,M,3,5, research director ,2,,19081.0,5,,11,3.0,1,full-time,1,25.0,3.0,4,0,3,yes
+1014,32,no,non-travel,13,3,other,3,F,2,1, laboratory technician ,2,married,2743.0,1,No,20,4.0,3,part-time,1,2.0,3.0,2,2,2,yes
+1015,35,no,non-travel,8,2,,3,F,2,3, sales executive ,4,married,,4,,11,3.0,2,full-time,1,16.0,2.0,13,4,12,no
+1016,29,no,non-travel,1,3,life sciences,1,F,3,1, research scientist ,4,divorced,3760.0,1,No,15,3.0,1,full-time,3,3.0,,3,1,2,yes
+1017,21,yes,travel_frequently,10,2,,1,F,2,1, laboratory technician ,3,,,1,,20,4.0,3,full-time,0,2.0,1.0,2,2,2,yes
+1018,34,no,travel_rarely,2,3,marketing,3,F,3,2, sales executive ,1,,4538.0,0,,12,3.0,4,full-time,0,4.0,3.0,3,0,2,yes
+1019,28,no,non-travel,1,4,medical,4,M,3,1, laboratory technician ,3,single,,0,Yes,11,3.0,3,part-time,0,,2.0,4,0,2,no
+1020,35,no,travel_rarely,6,1,life sciences,3,M,3,1, research scientist ,3,married,,0,Yes,14,,4,part-time,0,4.0,3.0,3,2,2,no
+1021,28,no,travel_frequently,2,3,life sciences,4,M,2,1, laboratory technician ,4,married,3867.0,1,,12,3.0,2,full-time,1,,3.0,2,2,2,no
+1022,28,no,travel_rarely,1,3,technical degree,4,M,3,1, research scientist ,1,single,2080.0,2,,11,3.0,2,full-time,0,5.0,2.0,3,1,2,no
+1023,25,no,non-travel,1,3,medical,4,F,3,1, research scientist ,2,single,2096.0,1,,18,3.0,4,part-time,0,,2.0,2,2,1,no
+1024,58,no,non-travel,23,4,life sciences,1,M,3,1, research scientist ,3,,,1,,12,3.0,4,full-time,2,,3.0,2,2,2,yes
+1025,39,yes,non-travel,23,3,medical,3,M,3,1, research scientist ,1,single,3904.0,0,,13,3.0,1,full-time,0,6.0,3.0,5,0,3,no
+1026,30,no,travel_rarely,6,3,technical degree,1,F,2,2, laboratory technician ,4,married,4627.0,0,No,12,3.0,1,full-time,1,10.0,3.0,9,6,7,yes
+1027,50,no,non-travel,46,3,life sciences,46,F,3,4, research director ,1,married,,4,,11,3.0,2,part-time,0,,,3,1,2,yes
+1028,41,no,non-travel,10,2,medical,3,M,1,2, sales executive ,2,single,,1,No,13,3.0,1,full-time,0,19.0,3.0,19,11,9,yes
+1029,31,yes,non-travel,1,3,,4,F,3,1, sales representative ,2,,2302.0,1,Yes,11,3.0,1,part-time,0,,4.0,3,2,2,no
+1030,44,yes,non-travel,3,3,life sciences,1,M,3,1, laboratory technician ,1,,,4,No,12,,3,full-time,0,10.0,4.0,3,1,2,yes
+1031,40,no,non-travel,16,2,,3,M,3,1, research scientist ,3,divorced,,9,No,16,3.0,2,full-time,1,6.0,3.0,4,0,0,yes
+1032,25,no,travel_rarely,19,1,medical,4,M,3,1, laboratory technician ,4,married,,3,,11,3.0,3,full-time,3,,2.0,3,1,2,no
+1033,40,no,travel_rarely,1,4,life sciences,2,M,3,1, laboratory technician ,2,,,3,No,22,4.0,3,part-time,1,7.0,3.0,4,0,3,yes
+1034,51,no,travel_rarely,11,2,technical degree,4,F,2,4, manufacturing director ,2,,,3,No,16,3.0,2,part-time,0,,2.0,5,0,3,yes
+1035,27,no,travel_frequently,2,1,life sciences,4,M,1,2, sales executive ,4,single,5071.0,3,No,20,4.0,2,full-time,0,,3.0,6,0,0,no
+1036,35,yes,non-travel,18,4,marketing,4,F,3,2, sales executive ,3,married,,0,,18,3.0,3,full-time,1,5.0,2.0,4,3,2,yes
+1037,38,no,non-travel,7,3,,4,M,4,1, research scientist ,3,divorced,,1,No,11,3.0,4,full-time,3,4.0,3.0,4,0,3,yes
+1038,31,yes,non-travel,22,4,,4,M,3,2, manufacturing director ,3,married,,1,,15,3.0,4,full-time,2,10.0,2.0,10,6,7,yes
+1039,51,no,non-travel,2,3,,2,M,3,3, sales executive ,2,,10596.0,2,,11,3.0,2,full-time,0,14.0,3.0,4,3,2,yes
+1040,41,no,non-travel,22,3,,4,F,3,2, research scientist ,4,,5467.0,3,,14,3.0,1,full-time,2,12.0,2.0,6,3,3,no
+1041,32,no,non-travel,2,1,marketing,3,M,3,2, sales executive ,2,married,,0,Yes,13,3.0,1,full-time,3,4.0,2.0,3,1,2,yes
+1042,25,no,travel_rarely,18,1,life sciences,1,M,4,2, sales executive ,3,married,,2,No,11,3.0,2,part-time,0,6.0,2.0,3,1,2,no
+1043,27,no,non-travel,10,3,marketing,4,F,2,2, sales executive ,4,married,5769.0,1,Yes,11,3.0,4,part-time,0,,3.0,6,4,4,yes
+1044,27,yes,travel_rarely,22,4,life sciences,4,F,3,1, research scientist ,3,single,2394.0,1,Yes,13,,4,full-time,0,8.0,3.0,8,7,7,yes
+1045,37,no,non-travel,11,3,medical,1,F,3,1, laboratory technician ,3,single,3629.0,4,No,18,3.0,1,part-time,0,8.0,3.0,3,0,2,yes
+1046,35,no,travel_frequently,18,2,life sciences,3,M,3,3, manufacturing director ,4,,9362.0,2,No,11,3.0,3,full-time,0,10.0,3.0,2,2,2,yes
+1047,25,no,non-travel,1,3,,1,M,3,1, laboratory technician ,4,,3229.0,4,No,11,3.0,2,full-time,1,7.0,2.0,3,0,2,yes
+1048,30,no,non-travel,7,4,marketing,4,F,3,2, sales executive ,1,divorced,,7,No,14,3.0,2,part-time,2,,3.0,3,0,2,yes
+1049,31,no,non-travel,8,5,life sciences,1,F,3,4, research director ,2,,16422.0,3,No,11,3.0,3,full-time,0,,4.0,3,1,0,yes
+1050,36,no,non-travel,16,4,marketing,3,F,2,2, sales executive ,1,,5647.0,4,No,13,3.0,1,part-time,2,11.0,2.0,3,0,2,no
+1051,25,yes,travel_rarely,9,2,,1,M,2,1, sales representative ,1,,4400.0,3,No,12,3.0,1,part-time,0,6.0,3.0,3,2,2,yes
+1052,56,no,non-travel,1,2,life sciences,1,F,3,1, research scientist ,1,,2066.0,2,,22,4.0,4,full-time,1,5.0,4.0,3,1,0,yes
+1053,41,no,non-travel,5,5,medical,2,M,4,1, research scientist ,3,,,2,,12,3.0,1,full-time,0,7.0,,4,0,3,yes
+1054,31,no,travel_rarely,8,2,,4,F,4,1, human resources ,2,,,9,No,18,,4,full-time,0,8.0,3.0,3,0,2,yes
+1055,31,yes,travel_frequently,2,3,life sciences,2,M,3,1, laboratory technician ,4,,,6,,13,3.0,3,full-time,1,7.0,1.0,2,2,2,yes
+1056,48,no,non-travel,7,3,marketing,3,M,3,2, sales executive ,1,divorced,5486.0,4,No,11,3.0,1,full-time,3,,3.0,2,2,2,no
+1057,34,yes,non-travel,9,4,,1,F,3,1, human resources ,3,married,,1,No,15,3.0,4,full-time,0,2.0,3.0,2,2,2,no
+1058,44,no,non-travel,5,3,life sciences,3,M,2,1, laboratory technician ,3,single,3162.0,3,,14,3.0,4,part-time,0,7.0,3.0,5,0,3,no
+1059,49,no,travel_rarely,5,4,,1,M,3,2, healthcare representative ,3,married,6651.0,2,No,14,,2,part-time,1,20.0,2.0,3,1,2,yes
+1060,44,no,non-travel,20,3,life sciences,4,M,3,1, research scientist ,2,,3420.0,1,,13,3.0,3,full-time,0,6.0,2.0,5,1,3,no
+1061,28,yes,non-travel,1,3,,1,M,3,1, sales representative ,3,married,2909.0,3,,15,3.0,4,full-time,1,5.0,4.0,3,1,2,no
+1062,44,no,travel_frequently,2,1,,2,M,3,3, manufacturing director ,3,single,,5,,18,,2,full-time,0,16.0,2.0,2,2,2,yes
+1063,55,no,travel_rarely,4,4,life sciences,4,M,3,2, healthcare representative ,3,married,,0,,16,3.0,2,full-time,0,4.0,3.0,3,1,2,yes
+1064,28,no,travel_frequently,7,3,life sciences,3,M,3,2, sales executive ,1,single,4898.0,0,,14,3.0,4,full-time,0,5.0,3.0,4,1,3,yes
+1065,49,no,travel_rarely,45,2,medical,45,F,2,2, laboratory technician ,1,married,,4,,25,4.0,1,full-time,1,10.0,3.0,3,1,2,yes
+1066,29,no,travel_frequently,2,1,life sciences,4,F,3,1, laboratory technician ,2,,3180.0,0,No,13,3.0,3,full-time,3,,3.0,3,0,2,no
+1067,32,no,non-travel,10,3,,3,M,3,3, manager ,4,,11244.0,2,,25,,2,part-time,0,10.0,4.0,5,0,0,yes
+1068,31,yes,travel_frequently,3,3,life sciences,4,F,3,1, research scientist ,3,,,1,No,12,3.0,1,full-time,0,7.0,,7,7,7,yes
+1069,40,no,non-travel,43,2,life sciences,4,M,3,2, healthcare representative ,4,divorced,4069.0,3,,18,3.0,3,full-time,0,8.0,3.0,2,2,2,no
+1070,36,no,travel_rarely,2,4,life sciences,3,M,3,1, sales representative ,4,,,3,Yes,21,4.0,4,full-time,0,7.0,2.0,3,1,2,no
+1071,33,no,non-travel,8,4,life sciences,1,M,3,2, sales executive ,1,,6392.0,2,No,13,3.0,4,full-time,1,,1.0,2,2,2,no
+1072,30,no,non-travel,14,4,,14,M,3,3, sales executive ,2,married,,3,,12,3.0,2,full-time,1,9.0,3.0,4,1,3,yes
+1073,38,yes,travel_rarely,2,3,medical,3,M,3,2, manufacturing director ,2,married,4855.0,4,,11,3.0,1,full-time,2,,3.0,5,1,4,no
+1074,48,no,travel_rarely,15,4,,3,F,3,1, research scientist ,1,married,,8,,12,3.0,4,full-time,1,,2.0,8,7,6,yes
+1075,34,no,non-travel,1,4,,2,M,3,2, research scientist ,4,,,9,No,17,3.0,2,full-time,1,,2.0,2,2,1,yes
+1076,38,no,travel_rarely,16,3,life sciences,2,F,3,2, sales executive ,2,single,,2,No,12,3.0,2,full-time,0,8.0,4.0,3,1,2,no
+1077,35,no,travel_rarely,10,4,,1,F,3,2, healthcare representative ,3,single,,3,Yes,16,3.0,3,part-time,0,,3.0,5,0,4,yes
+1078,23,no,non-travel,10,3,,4,M,4,1, research scientist ,3,married,,2,No,16,3.0,4,full-time,1,4.0,3.0,2,2,2,yes
+1079,36,no,non-travel,6,4,,1,M,4,2, laboratory technician ,1,,,3,Yes,13,3.0,4,full-time,1,9.0,3.0,3,0,2,no
+1080,34,no,travel_frequently,36,4,,36,M,2,2, healthcare representative ,3,,,1,No,14,3.0,2,part-time,1,8.0,2.0,8,7,7,no
+1081,22,no,non-travel,26,2,other,2,F,2,1, research scientist ,3,married,,1,,14,,2,full-time,0,4.0,2.0,4,1,3,yes
+1082,32,no,non-travel,5,4,,2,F,4,1, research scientist ,4,married,3312.0,3,No,17,3.0,4,full-time,2,6.0,3.0,3,0,2,yes
+1083,31,no,travel_frequently,2,4,,4,M,3,2, sales executive ,1,single,,7,,13,3.0,4,full-time,0,,3.0,5,0,3,no
+1084,36,no,travel_rarely,12,4,life sciences,3,F,3,2, manufacturing director ,3,married,,9,Yes,12,3.0,2,part-time,2,7.0,3.0,3,1,1,yes
+1085,21,no,non-travel,19,1,medical,3,M,3,1, research scientist ,4,single,3117.0,1,No,18,3.0,3,full-time,0,,,2,2,2,no
+1086,47,no,non-travel,26,4,,4,F,3,5, manager ,3,married,,3,No,11,3.0,3,full-time,1,27.0,3.0,5,1,0,no
+1087,39,no,non-travel,4,3,medical,1,F,3,2, manufacturing director ,3,,,0,No,13,3.0,4,part-time,0,,1.0,9,3,8,yes
+1088,40,no,non-travel,16,3,,3,F,3,3, manufacturing director ,4,,,6,,15,,4,full-time,0,18.0,2.0,4,3,3,yes
+1089,48,no,travel_frequently,4,5,,3,M,2,4, manager ,4,,15202.0,2,No,25,4.0,2,part-time,1,,3.0,2,2,2,yes
+1090,35,yes,non-travel,10,2,medical,1,M,1,2, sales executive ,4,,,6,Yes,14,3.0,4,full-time,2,,2.0,2,2,2,no
+1091,27,no,travel_rarely,8,3,medical,2,F,4,1, research scientist ,3,,,7,,17,3.0,1,part-time,0,5.0,3.0,3,0,2,no
+1092,27,no,non-travel,2,3,medical,4,M,3,1, research scientist ,4,single,2580.0,2,No,13,3.0,3,full-time,0,,2.0,4,1,2,yes
+1093,40,yes,travel_rarely,7,3,,1,M,3,1, laboratory technician ,1,,2166.0,3,Yes,14,3.0,2,full-time,0,10.0,1.0,4,0,3,yes
+1094,29,no,non-travel,10,3,,3,M,2,2, sales executive ,3,single,,9,No,11,3.0,3,full-time,0,,3.0,5,1,4,yes
+1095,36,no,non-travel,5,4,life sciences,2,F,3,3, healthcare representative ,1,married,,4,No,12,,3,full-time,2,9.0,3.0,3,0,2,yes
+1096,49,no,travel_rarely,22,4,other,1,F,3,4, research director ,2,married,,3,,16,3.0,2,full-time,2,27.0,3.0,4,1,2,yes
+1097,20,no,travel_rarely,13,3,medical,3,F,3,1, sales representative ,3,single,,1,,19,3.0,1,part-time,0,2.0,3.0,2,2,2,yes
+1098,36,no,non-travel,1,4,,4,F,2,2, manufacturing director ,3,,4374.0,0,,15,3.0,3,full-time,0,4.0,3.0,3,1,2,yes
+1099,33,no,travel_rarely,2,4,,4,M,3,2, sales executive ,4,,5505.0,1,,14,3.0,3,full-time,2,6.0,3.0,6,0,4,yes
+1100,49,no,non-travel,16,3,medical,4,F,3,1, laboratory technician ,1,divorced,2587.0,4,,16,3.0,2,full-time,1,17.0,2.0,2,2,2,yes
+1101,47,no,travel_rarely,2,4,life sciences,2,F,4,4, manager ,2,,15972.0,6,,14,3.0,3,full-time,3,29.0,3.0,3,1,2,yes
+1102,20,no,travel_rarely,9,1,,4,M,3,1, sales representative ,1,,,1,No,11,3.0,1,full-time,0,,3.0,2,0,2,yes
+1103,36,no,travel_rarely,26,4,,1,M,3,2, healthcare representative ,3,married,,6,No,14,3.0,2,part-time,2,10.0,2.0,3,0,2,no
+1104,44,no,travel_rarely,1,3,,3,F,3,1, human resources ,4,,,4,Yes,18,3.0,1,full-time,3,8.0,3.0,2,2,2,no
+1105,55,no,non-travel,12,3,technical degree,12,M,2,1, research scientist ,2,divorced,,5,No,12,,4,full-time,1,8.0,3.0,4,1,2,yes
+1106,23,yes,non-travel,7,3,life sciences,3,M,3,1, sales representative ,4,divorced,,1,Yes,21,4.0,2,full-time,1,3.0,3.0,3,0,2,no
+1107,26,no,non-travel,17,4,,4,M,1,1, laboratory technician ,3,,2305.0,1,No,15,3.0,3,full-time,3,,4.0,3,0,2,yes
+1108,32,no,travel_frequently,10,3,,1,M,3,1, research scientist ,3,married,3433.0,6,,13,3.0,1,part-time,1,,2.0,5,1,3,yes
+1109,31,no,non-travel,2,4,life sciences,2,M,3,1, laboratory technician ,3,married,3477.0,1,,14,3.0,4,full-time,1,6.0,4.0,5,0,3,no
+1110,41,no,non-travel,4,3,human resources,3,M,1,2, human resources ,2,married,,6,No,19,,2,part-time,1,,3.0,3,1,2,no
+1111,24,no,travel_rarely,29,1,medical,2,M,3,1, laboratory technician ,1,,3907.0,1,No,13,3.0,2,full-time,3,6.0,4.0,6,1,2,yes
+1112,36,yes,non-travel,13,5,marketing,2,M,2,2, sales executive ,1,,,5,Yes,13,3.0,2,full-time,3,16.0,3.0,2,2,2,yes
+1113,23,no,non-travel,4,1,,3,F,3,1, laboratory technician ,2,single,,1,No,13,3.0,3,full-time,0,3.0,1.0,3,1,2,no
+1114,24,no,non-travel,35,3,medical,35,M,3,1, human resources ,4,married,,0,No,14,3.0,4,part-time,1,3.0,3.0,2,2,1,no
+1115,30,yes,travel_frequently,42,3,,3,F,2,1, human resources ,4,divorced,,6,No,11,3.0,3,full-time,1,,2.0,4,1,2,no
+1116,31,no,non-travel,5,3,,1,M,3,2, sales executive ,3,,,1,No,19,3.0,3,full-time,1,6.0,3.0,5,0,2,yes
+1117,27,no,non-travel,48,3,,48,F,3,1, research scientist ,4,,3445.0,1,,11,3.0,3,full-time,0,6.0,2.0,6,1,4,no
+1118,29,yes,travel_rarely,9,3,,2,F,1,1, sales representative ,2,single,2760.0,1,,13,3.0,3,part-time,0,2.0,3.0,2,2,2,yes
+1119,29,no,non-travel,1,3,,4,M,4,2, healthcare representative ,3,,6294.0,8,Yes,12,3.0,4,full-time,0,10.0,4.0,3,0,2,no
+1120,53,no,non-travel,31,4,,1,F,2,4, manufacturing director ,3,married,,4,Yes,20,4.0,4,full-time,3,27.0,2.0,3,0,2,yes
+1121,34,no,travel_rarely,3,2,,4,F,1,2, sales executive ,4,,,5,No,12,,1,full-time,0,,3.0,2,2,2,yes
+1122,51,no,travel_rarely,3,3,,1,F,3,3, manager ,3,married,13116.0,2,No,11,3.0,4,part-time,0,,3.0,2,2,2,yes
+1123,37,no,travel_rarely,9,2,marketing,2,M,2,2, sales executive ,2,,,1,No,14,3.0,1,full-time,2,,3.0,5,0,3,no
+1124,46,no,non-travel,26,2,life sciences,2,M,2,2, sales executive ,2,,,8,,15,3.0,3,full-time,0,6.0,3.0,2,2,2,no
+1125,43,no,non-travel,9,3,,1,M,3,1, research scientist ,3,,,4,No,13,3.0,3,part-time,0,,2.0,3,1,2,yes
+1126,41,no,travel_rarely,35,3,,35,M,4,2, healthcare representative ,2,single,,3,,12,3.0,1,full-time,0,,1.0,3,1,2,no
+1127,31,no,non-travel,7,4,,1,F,3,3, sales executive ,1,,,2,No,14,3.0,4,full-time,2,9.0,3.0,3,2,2,no
+1128,28,no,travel_rarely,1,3,medical,3,F,3,1, research scientist ,1,,3591.0,1,No,25,4.0,3,part-time,1,,3.0,3,1,2,no
+1129,38,no,non-travel,2,4,,2,F,1,2, sales representative ,4,,5405.0,2,Yes,20,4.0,1,full-time,2,20.0,2.0,4,0,3,yes
+1130,58,no,travel_frequently,15,4,life sciences,1,M,3,4, research director ,3,married,,2,,14,3.0,2,full-time,0,23.0,3.0,2,2,2,yes
+1131,29,yes,travel_rarely,13,3,,1,M,2,1, human resources ,1,divorced,,4,,15,3.0,4,full-time,3,,3.0,2,2,0,no
+1132,47,no,travel_rarely,9,4,life sciences,2,F,3,1, laboratory technician ,3,single,2105.0,4,,12,3.0,3,full-time,0,,3.0,2,2,0,no
+1133,28,no,non-travel,1,2,life sciences,3,M,3,1, human resources ,4,,,1,,15,3.0,2,full-time,1,3.0,3.0,3,2,2,yes
+1134,32,yes,travel_rarely,2,4,marketing,3,M,2,2, sales executive ,2,,,7,Yes,12,3.0,3,full-time,0,7.0,2.0,2,2,2,yes
+1135,39,no,travel_rarely,19,4,,4,M,3,2, research scientist ,4,,3902.0,8,,14,3.0,2,part-time,3,7.0,3.0,2,2,2,yes
+1136,55,no,travel_rarely,2,4,,2,M,2,1, research scientist ,4,,2662.0,8,,20,4.0,2,part-time,1,,4.0,5,0,4,no
+1137,29,no,non-travel,7,3,life sciences,4,M,3,1, laboratory technician ,1,single,2062.0,3,,14,3.0,2,full-time,0,,3.0,3,1,2,yes
+1138,35,no,non-travel,16,2,other,16,F,2,2, manufacturing director ,2,married,,0,,11,3.0,4,full-time,0,4.0,3.0,3,0,2,no
+1139,34,yes,non-travel,16,4,technical degree,4,M,1,1, research scientist ,1,,,1,,23,4.0,2,full-time,1,,3.0,5,3,0,yes
+1140,56,yes,travel_rarely,24,2,,1,M,3,1, laboratory technician ,4,single,2587.0,1,No,16,3.0,4,full-time,0,5.0,3.0,4,1,0,yes
+1141,36,no,non-travel,17,2,marketing,3,M,2,2, sales executive ,2,,5507.0,2,,16,3.0,3,full-time,2,,1.0,4,1,3,yes
+1142,31,no,non-travel,10,2,,3,F,3,2, sales executive ,4,divorced,,2,Yes,11,3.0,4,full-time,1,,3.0,5,1,4,no
+1143,34,no,non-travel,3,1,,4,F,2,2, sales executive ,4,married,8103.0,3,Yes,12,3.0,3,full-time,0,9.0,2.0,4,0,1,yes
+1144,31,no,travel_rarely,4,3,,1,F,4,1, laboratory technician ,3,divorced,3978.0,8,No,12,3.0,2,full-time,1,4.0,2.0,2,2,2,no
+1145,45,no,travel_frequently,1,4,medical,2,M,3,2, healthcare representative ,3,single,5399.0,4,No,12,3.0,3,part-time,0,12.0,3.0,4,0,3,yes
+1146,39,no,non-travel,21,4,,1,F,1,2, sales executive ,3,,,6,,19,,3,full-time,1,10.0,3.0,3,1,2,no
+1147,38,no,travel_rarely,9,2,,2,M,3,1, research scientist ,4,divorced,,2,No,19,3.0,4,full-time,2,,4.0,5,0,3,no
+1148,31,no,non-travel,3,2,,3,M,3,1, research scientist ,1,divorced,,1,,13,,4,part-time,1,4.0,,4,2,3,yes
+1149,53,yes,non-travel,24,4,life sciences,1,M,3,3, sales executive ,1,,10448.0,6,Yes,13,3.0,2,full-time,0,15.0,2.0,2,2,2,yes
+1150,38,no,travel_frequently,1,4,other,4,M,3,1, human resources ,2,,,0,Yes,11,3.0,2,full-time,1,,3.0,6,1,2,no
+1151,54,no,non-travel,10,3,,3,F,3,2, manufacturing director ,1,single,4440.0,6,Yes,19,,4,full-time,0,9.0,3.0,5,1,4,no
+1152,23,no,non-travel,12,2,,4,M,3,1, laboratory technician ,4,single,,1,No,13,3.0,3,part-time,0,,4.0,5,1,4,yes
+1153,25,no,non-travel,2,1,other,4,M,3,1, laboratory technician ,3,,,6,,19,3.0,3,full-time,1,,2.0,2,0,2,yes
+1154,31,no,non-travel,2,2,life sciences,1,M,3,1, sales representative ,3,,,0,No,19,3.0,3,full-time,1,,3.0,2,1,2,yes
+1155,35,no,travel_rarely,11,4,medical,4,M,3,1, laboratory technician ,3,married,2660.0,7,Yes,11,3.0,3,full-time,1,,3.0,2,2,2,yes
+1156,22,no,non-travel,1,2,,4,M,3,1, research scientist ,3,,3375.0,0,No,12,,4,full-time,0,,4.0,3,1,2,yes
+1157,32,no,travel_rarely,29,4,,3,F,2,1, laboratory technician ,2,single,,1,,13,3.0,3,full-time,0,6.0,3.0,6,4,1,no
+1158,32,no,non-travel,36,4,,2,M,2,1, sales representative ,2,,2269.0,0,,14,3.0,2,part-time,1,,3.0,2,2,2,yes
+1159,21,no,travel_rarely,5,1,medical,3,M,3,1, sales representative ,1,single,,1,,11,3.0,4,full-time,0,,3.0,2,1,2,yes
+1160,36,no,non-travel,13,2,life sciences,13,F,3,2, manufacturing director ,2,,,7,No,13,3.0,2,full-time,3,18.0,3.0,4,0,2,yes
+1161,29,yes,travel_rarely,38,4,,38,M,3,1, research scientist ,4,married,4787.0,9,,14,3.0,2,full-time,3,4.0,4.0,2,2,2,yes
+1162,32,no,travel_rarely,2,3,technical degree,4,M,3,1, research scientist ,1,,,1,No,14,3.0,4,part-time,0,,3.0,4,1,2,yes
+1163,40,no,travel_rarely,2,4,,3,M,2,1, research scientist ,3,,2809.0,2,No,14,3.0,4,full-time,0,8.0,3.0,2,2,2,yes
+1164,35,no,travel_frequently,18,4,life sciences,3,M,3,2, healthcare representative ,3,,,1,,14,3.0,4,part-time,2,,4.0,10,0,2,no
+1165,50,yes,travel_rarely,40,3,marketing,4,M,2,3, sales executive ,1,,10854.0,4,,13,3.0,2,full-time,1,20.0,3.0,3,2,0,yes
+1166,26,no,non-travel,5,3,other,4,F,2,1, sales representative ,3,single,,0,No,18,3.0,4,full-time,0,,3.0,4,0,0,yes
+1167,36,no,travel_frequently,23,2,medical,3,M,4,2, laboratory technician ,4,,2571.0,4,No,17,3.0,3,part-time,1,17.0,3.0,5,0,3,no
+1168,27,no,travel_rarely,4,3,life sciences,2,M,4,2, manufacturing director ,2,,6142.0,1,Yes,20,4.0,2,full-time,1,6.0,3.0,6,0,3,no
+1169,33,no,non-travel,2,3,medical,3,M,3,1, laboratory technician ,4,,2496.0,4,No,11,3.0,4,full-time,0,7.0,3.0,1,0,0,no
+1170,36,no,non-travel,5,4,life sciences,2,F,2,1, research scientist ,1,married,3419.0,9,Yes,14,3.0,4,part-time,1,,4.0,1,0,0,yes
+1171,31,no,non-travel,1,4,medical,3,M,3,1, research scientist ,2,single,2501.0,1,No,17,3.0,2,full-time,0,1.0,3.0,1,1,0,yes
+1172,22,no,travel_rarely,2,1,technical degree,3,M,3,1, laboratory technician ,4,,,0,,14,3.0,3,part-time,1,3.0,3.0,2,2,1,yes
+1173,27,no,non-travel,3,3,,3,M,2,1, research scientist ,3,divorced,2566.0,1,,15,3.0,4,full-time,1,1.0,2.0,1,0,1,yes
+1174,33,no,travel_rarely,2,3,life sciences,3,M,3,1, research scientist ,4,,,0,No,14,3.0,1,full-time,0,4.0,,3,0,2,yes
+1175,36,no,travel_frequently,18,1,,2,F,3,1, laboratory technician ,4,single,,1,,13,3.0,1,part-time,0,8.0,3.0,8,1,7,yes
+1176,37,no,non-travel,18,2,medical,18,F,2,1, research scientist ,1,,3920.0,2,,14,,1,full-time,1,,2.0,3,0,2,yes
+1177,32,no,non-travel,7,3,,2,M,4,1, laboratory technician ,2,married,,1,,20,4.0,3,part-time,0,5.0,1.0,5,0,3,yes
+1178,51,no,travel_rarely,35,3,medical,35,M,1,2, manufacturing director ,2,divorced,,5,,18,3.0,4,full-time,1,,3.0,4,1,2,yes
+1179,49,no,non-travel,45,2,technical degree,45,F,2,4, healthcare representative ,3,,13964.0,7,Yes,12,3.0,4,full-time,0,,3.0,7,0,7,yes
+1180,35,no,non-travel,9,4,,3,M,2,2, healthcare representative ,2,single,6540.0,9,,19,3.0,3,full-time,0,,3.0,1,0,0,yes
+1181,22,no,non-travel,11,3,medical,1,F,3,1, research scientist ,2,married,2244.0,1,No,13,3.0,4,full-time,1,2.0,3.0,2,1,2,no
+1182,33,no,non-travel,1,5,,1,F,4,4, research director ,3,,16184.0,4,No,19,3.0,3,full-time,1,10.0,3.0,6,0,5,no
+1183,31,yes,non-travel,13,4,medical,2,M,3,2, sales executive ,1,divorced,4233.0,2,No,17,3.0,3,part-time,0,,1.0,3,1,2,no
+1184,45,yes,non-travel,26,4,,1,F,3,2, sales executive ,1,,,2,,14,3.0,4,part-time,2,5.0,3.0,1,0,0,yes
+1185,53,no,non-travel,7,3,,3,M,4,4, research director ,3,married,14814.0,3,No,19,3.0,3,full-time,0,32.0,3.0,5,1,3,yes
+1186,34,no,travel_rarely,8,2,,2,F,3,2, healthcare representative ,3,,,3,No,11,3.0,4,full-time,0,10.0,3.0,5,4,3,yes
+1187,43,no,non-travel,14,2,life sciences,2,M,3,4, research director ,1,,17159.0,6,No,24,4.0,3,full-time,1,,3.0,4,1,0,no
+1188,28,no,travel_rarely,8,2,medical,2,M,2,1, human resources ,4,divorced,,1,,13,3.0,4,part-time,1,6.0,3.0,5,0,4,yes
+1189,42,no,travel_frequently,2,1,,2,M,3,1, research scientist ,4,single,,5,,14,3.0,4,full-time,0,8.0,3.0,2,2,2,yes
+1190,27,no,travel_rarely,4,3,,2,F,3,1, research scientist ,3,,2318.0,1,,19,3.0,3,part-time,0,1.0,3.0,1,0,0,yes
+1191,40,no,non-travel,9,4,,4,M,3,1, research scientist ,2,,3617.0,8,Yes,14,,4,full-time,1,3.0,,1,0,0,yes
+1192,37,yes,non-travel,1,4,life sciences,1,M,2,3, sales executive ,3,married,,5,,11,3.0,3,full-time,0,,1.0,14,11,7,yes
+1193,29,no,travel_frequently,18,3,technical degree,3,F,3,1, sales representative ,4,,,1,No,15,3.0,2,full-time,1,3.0,3.0,3,0,2,no
+1194,38,no,non-travel,10,1,,3,M,3,1, research scientist ,3,married,2684.0,0,,17,3.0,2,part-time,1,3.0,2.0,2,0,2,no
+1195,34,no,non-travel,46,4,,46,M,4,2, sales executive ,4,divorced,,0,No,11,3.0,4,full-time,1,16.0,2.0,15,0,9,yes
+1196,34,no,travel_rarely,10,4,life sciences,3,F,3,1, sales representative ,3,married,,1,Yes,19,3.0,4,full-time,1,1.0,3.0,1,0,0,no
+1197,50,no,travel_rarely,12,4,medical,12,M,3,5, research director ,3,married,19237.0,2,,11,3.0,4,full-time,1,29.0,2.0,8,7,7,no
+1198,26,yes,non-travel,21,3,,1,M,3,1, laboratory technician ,3,,2377.0,1,No,20,,3,full-time,1,1.0,2.0,1,0,0,no
+1199,28,no,travel_frequently,6,3,life sciences,3,M,2,1, research scientist ,3,divorced,,1,Yes,14,3.0,4,full-time,1,,3.0,3,0,2,no
+1200,28,yes,non-travel,12,1,,3,F,3,1, laboratory technician ,4,married,,1,,11,,4,part-time,0,,2.0,1,0,0,yes
+1201,40,no,non-travel,29,2,medical,29,F,2,2, research scientist ,4,married,4422.0,3,Yes,13,3.0,4,full-time,1,16.0,1.0,1,0,0,yes
+1202,19,no,travel_rarely,47,2,,3,M,3,1, research scientist ,1,single,2552.0,1,No,25,,3,full-time,0,1.0,3.0,1,0,0,no
+1203,20,no,travel_rarely,21,3,marketing,3,M,4,1, sales representative ,4,single,2678.0,1,,17,3.0,4,full-time,0,2.0,3.0,2,2,2,yes
+1204,40,no,non-travel,10,3,,2,F,2,2, sales executive ,2,divorced,,7,No,12,3.0,2,full-time,1,7.0,4.0,5,1,3,no
+1205,19,yes,non-travel,10,3,,1,F,2,1, research scientist ,2,,,1,,25,4.0,2,full-time,0,,4.0,1,0,0,yes
+1206,59,no,non-travel,3,3,,3,F,2,2, sales executive ,4,single,5171.0,5,No,17,3.0,4,part-time,0,13.0,3.0,6,0,5,no
+1207,30,no,travel_rarely,17,4,medical,2,F,3,3, manager ,1,,11916.0,1,Yes,23,4.0,4,part-time,2,,3.0,9,0,8,no
+1208,45,no,travel_rarely,29,3,,2,M,3,3, manufacturing director ,4,married,9380.0,4,Yes,18,,4,full-time,2,,4.0,3,1,2,yes
+1209,40,no,travel_rarely,2,3,,3,M,3,1, research scientist ,3,,,2,No,14,3.0,3,full-time,1,,4.0,3,1,2,no
+1210,30,no,non-travel,42,1,life sciences,4,M,3,2, sales executive ,3,,,8,,15,,3,full-time,2,4.0,2.0,2,2,2,no
+1211,24,no,non-travel,24,2,technical degree,3,M,2,1, laboratory technician ,1,,,0,,14,,2,full-time,3,,3.0,1,0,0,no
+1212,32,no,non-travel,5,2,life sciences,4,F,2,2, research scientist ,2,married,5878.0,3,No,12,3.0,1,full-time,1,12.0,3.0,7,2,5,yes
+1213,28,yes,travel_rarely,24,3,medical,3,M,3,1, laboratory technician ,2,married,,1,,17,3.0,3,part-time,3,,3.0,1,0,0,no
+1214,49,no,non-travel,11,4,,4,F,3,2, sales executive ,4,single,,3,,12,3.0,3,part-time,0,8.0,4.0,5,0,4,yes
+1215,38,no,travel_frequently,2,2,medical,3,F,2,1, laboratory technician ,2,married,2468.0,4,,14,3.0,2,full-time,1,9.0,2.0,6,0,5,no
+1216,46,no,travel_rarely,2,4,,3,M,3,5, research director ,4,,,7,,17,3.0,3,full-time,1,24.0,3.0,2,2,2,yes
+1217,34,yes,travel_frequently,9,4,life sciences,4,M,3,2, laboratory technician ,1,,,4,,17,3.0,3,full-time,1,,2.0,7,0,7,no
+1218,39,no,non-travel,20,3,life sciences,3,M,3,2, sales executive ,4,,4127.0,2,,18,3.0,4,full-time,1,7.0,3.0,2,2,2,no
+1219,26,yes,travel_rarely,20,2,,4,F,3,1, human resources ,2,married,2148.0,0,Yes,11,3.0,3,full-time,0,6.0,3.0,5,1,4,yes
+1220,54,no,travel_rarely,7,4,medical,4,F,3,2, research scientist ,4,married,,4,No,15,3.0,2,full-time,1,14.0,2.0,7,1,7,no
+1221,36,no,travel_frequently,2,1,,2,M,2,2, human resources ,4,,3886.0,1,No,21,4.0,4,part-time,0,10.0,2.0,10,0,8,yes
+1222,32,yes,travel_frequently,5,2,,1,F,4,1, research scientist ,3,,,3,Yes,14,3.0,1,full-time,0,8.0,3.0,4,0,3,no
+1223,32,no,non-travel,15,4,,3,F,3,2, healthcare representative ,4,,6667.0,5,No,18,3.0,2,part-time,1,9.0,3.0,5,1,2,yes
+1224,28,yes,non-travel,17,3,,3,M,2,1, laboratory technician ,4,,,5,No,12,3.0,1,part-time,1,,2.0,4,0,3,yes
+1225,33,no,non-travel,1,2,medical,2,M,2,1, laboratory technician ,3,divorced,,1,,12,3.0,3,full-time,3,,2.0,1,0,0,no
+1226,37,yes,travel_rarely,2,2,,4,M,2,1, laboratory technician ,3,single,2090.0,6,Yes,15,3.0,2,full-time,0,7.0,3.0,0,0,0,yes
+1227,59,no,travel_rarely,3,3,medical,3,F,4,1, laboratory technician ,1,,,4,,20,,1,full-time,3,12.0,2.0,1,0,0,yes
+1228,30,no,travel_rarely,24,1,life sciences,4,M,3,1, laboratory technician ,3,divorced,,1,,22,4.0,2,full-time,1,1.0,3.0,1,0,0,yes
+1229,22,no,non-travel,16,2,,4,M,4,1, laboratory technician ,4,,,1,Yes,13,3.0,2,full-time,2,,2.0,1,0,0,no
+1230,21,no,travel_rarely,15,2,,3,M,3,1, research scientist ,4,single,,1,No,14,3.0,4,full-time,0,0.0,3.0,0,0,0,yes
+1231,30,no,travel_rarely,9,2,medical,4,M,2,1, laboratory technician ,3,,,1,,13,3.0,1,full-time,0,10.0,3.0,10,1,8,no
+1232,39,yes,travel_rarely,18,3,technical degree,18,M,3,2, sales representative ,4,married,2086.0,3,No,14,3.0,3,full-time,1,19.0,4.0,1,0,0,yes
+1233,24,yes,travel_rarely,1,3,,2,M,3,1, research scientist ,4,,,2,Yes,16,3.0,1,full-time,1,6.0,,2,2,0,no
+1234,35,no,non-travel,4,2,other,3,M,3,1, laboratory technician ,4,divorced,1951.0,1,,12,3.0,3,full-time,1,1.0,3.0,1,0,0,yes
+1235,27,no,non-travel,2,4,life sciences,4,F,3,1, laboratory technician ,1,divorced,,1,,13,3.0,4,full-time,1,,3.0,1,0,0,no
+1236,26,yes,non-travel,25,3,life sciences,1,M,1,1, laboratory technician ,3,single,,1,,12,3.0,3,full-time,0,1.0,2.0,1,0,1,no
+1237,37,no,non-travel,24,2,life sciences,2,M,3,1, research scientist ,2,married,3022.0,4,No,21,4.0,1,full-time,0,8.0,3.0,1,0,0,no
+1238,35,no,non-travel,46,1,,46,M,4,1, laboratory technician ,4,,,1,No,19,,4,full-time,0,1.0,3.0,1,0,1,yes
+1239,48,yes,non-travel,1,2,,1,M,2,3, laboratory technician ,3,,,9,,13,3.0,4,full-time,0,,3.0,1,0,0,no
+1240,35,no,non-travel,11,2,medical,3,M,2,3, healthcare representative ,1,married,,2,Yes,13,3.0,3,full-time,1,10.0,3.0,4,2,3,yes
+1241,55,no,travel_rarely,8,3,,4,F,3,4, manager ,3,divorced,,2,Yes,14,3.0,3,full-time,3,21.0,3.0,5,0,2,yes
+1242,45,no,non-travel,7,3,life sciences,2,M,3,3, research scientist ,1,,9724.0,2,No,17,3.0,3,full-time,1,,3.0,1,0,0,yes
+1243,36,yes,non-travel,9,3,medical,4,M,2,1, research scientist ,3,,3388.0,0,,17,3.0,1,full-time,1,,2.0,1,0,0,yes
+1244,36,no,travel_rarely,6,3,life sciences,2,F,4,1, laboratory technician ,4,,3038.0,3,No,12,3.0,2,full-time,0,,3.0,1,0,0,yes
+1245,45,no,travel_rarely,6,4,other,4,M,3,3, research director ,1,,,4,Yes,14,3.0,2,full-time,0,,4.0,0,0,0,no
+1246,55,no,non-travel,1,2,,1,M,3,3, sales executive ,4,married,,3,,14,3.0,4,full-time,1,,3.0,1,1,0,yes
+1247,23,no,non-travel,2,1,technical degree,3,M,3,1, sales representative ,1,divorced,2322.0,3,No,13,3.0,3,full-time,1,,3.0,0,0,0,no
+1248,32,no,travel_rarely,1,1,life sciences,4,M,3,1, research scientist ,1,single,,1,No,13,3.0,4,full-time,0,,3.0,1,0,0,yes
+1249,20,yes,non-travel,6,3,life sciences,4,F,2,1, laboratory technician ,4,single,2926.0,1,Yes,18,,2,full-time,0,,3.0,1,1,0,no
+1250,37,no,non-travel,2,2,life sciences,3,M,2,2, healthcare representative ,4,divorced,,5,No,14,3.0,4,part-time,1,17.0,4.0,1,0,0,no
+1251,22,no,non-travel,15,3,,2,F,3,1, laboratory technician ,4,single,,1,No,15,3.0,3,full-time,0,,3.0,0,0,0,no
+1252,34,no,non-travel,24,4,life sciences,24,F,2,2, research scientist ,2,,4505.0,6,,15,3.0,3,part-time,1,,3.0,1,0,0,yes
+1253,36,no,non-travel,3,2,life sciences,1,F,3,1, laboratory technician ,4,divorced,2835.0,5,,22,4.0,1,full-time,1,,3.0,1,0,0,no
+1254,19,yes,travel_rarely,22,1,marketing,4,M,3,1, sales representative ,3,single,,1,Yes,19,3.0,4,full-time,0,0.0,2.0,0,0,0,yes
+1255,41,no,non-travel,9,4,life sciences,3,M,3,1, laboratory technician ,1,,,2,,21,4.0,4,full-time,1,7.0,3.0,5,1,4,yes
+1256,19,no,non-travel,18,1,,2,F,3,1, laboratory technician ,2,single,,1,No,14,,4,full-time,0,1.0,3.0,1,0,0,no
+1257,51,no,non-travel,7,4,,2,M,2,2, manufacturing director ,3,married,,2,No,17,3.0,3,full-time,0,10.0,3.0,1,0,0,yes
+1258,58,no,non-travel,9,3,,2,F,2,1, research scientist ,2,married,,4,Yes,20,4.0,2,full-time,1,9.0,2.0,1,0,0,no
+1259,19,yes,travel_frequently,1,1,,3,F,1,1, sales representative ,1,,,0,No,21,4.0,1,full-time,0,1.0,,0,0,0,yes
+1260,19,yes,travel_rarely,2,3,life sciences,2,M,2,1, laboratory technician ,4,single,,1,,22,4.0,3,full-time,0,1.0,2.0,1,1,0,yes
+1261,35,yes,travel_rarely,23,2,,2,M,2,2, manufacturing director ,3,,,3,Yes,13,3.0,1,full-time,0,8.0,3.0,1,0,1,yes
+1262,38,no,travel_rarely,38,4,,4,M,3,2, manufacturing director ,3,,6553.0,9,,14,3.0,2,part-time,0,14.0,3.0,1,0,0,no
+1263,38,yes,non-travel,29,1,medical,2,M,3,2, healthcare representative ,1,married,6673.0,7,Yes,19,,2,part-time,0,17.0,3.0,1,0,0,no
+1264,41,no,non-travel,6,3,life sciences,4,F,3,3, manager ,4,single,13591.0,3,Yes,18,3.0,3,full-time,0,,3.0,1,0,0,no
+1265,59,no,travel_rarely,3,3,life sciences,3,M,2,1, research scientist ,4,married,2177.0,3,,17,3.0,1,full-time,1,7.0,3.0,1,0,0,yes
+1266,50,no,travel_rarely,1,4,medical,4,F,3,5, manager ,4,divorced,19517.0,3,No,11,3.0,3,full-time,1,,2.0,7,0,6,no
+1267,41,no,travel_rarely,19,2,life sciences,3,M,3,2, research scientist ,1,divorced,,2,,16,3.0,1,full-time,2,17.0,2.0,1,0,0,yes
+1268,45,no,non-travel,1,3,,3,M,4,5, manager ,4,,19202.0,0,,11,3.0,3,full-time,1,25.0,3.0,24,1,7,no
+1269,37,yes,non-travel,10,3,medical,1,M,3,3, manufacturing director ,3,,10048.0,6,No,11,,2,part-time,2,17.0,3.0,1,0,0,yes
+1270,51,no,non-travel,38,3,,3,M,3,1, research scientist ,4,married,2723.0,1,No,11,3.0,2,full-time,0,1.0,2.0,1,0,0,yes
+1271,28,yes,travel_rarely,2,4,life sciences,1,M,3,1, laboratory technician ,3,single,,2,,11,3.0,3,full-time,0,5.0,1.0,0,0,0,no
+1272,29,no,travel_rarely,2,3,medical,1,M,2,2, sales executive ,2,married,6644.0,2,No,19,3.0,2,full-time,2,10.0,,0,0,0,yes
+1273,31,no,travel_rarely,23,3,medical,2,M,2,2, healthcare representative ,4,,,0,No,21,,2,full-time,1,10.0,3.0,9,7,8,yes
+1274,38,no,travel_rarely,7,2,medical,1,F,4,2, sales executive ,1,,5605.0,1,Yes,24,4.0,3,full-time,1,8.0,3.0,8,7,7,no
+1275,44,yes,travel_frequently,12,3,life sciences,12,M,3,1, laboratory technician ,3,,3161.0,3,Yes,22,4.0,4,full-time,1,19.0,1.0,1,0,0,yes
+1276,36,no,non-travel,3,3,technical degree,3,M,3,2, research scientist ,2,single,,4,,12,3.0,4,full-time,0,10.0,3.0,8,7,7,yes
+1277,18,yes,non-travel,3,3,,3,M,3,1, laboratory technician ,3,single,1420.0,1,No,13,3.0,3,full-time,0,0.0,3.0,0,0,0,yes
+1278,36,no,non-travel,18,4,life sciences,3,M,4,1, laboratory technician ,4,married,,4,No,18,3.0,4,full-time,2,4.0,3.0,1,0,0,yes
+1279,18,no,non-travel,10,3,,4,F,2,1, sales representative ,3,,1200.0,1,No,12,3.0,1,full-time,0,0.0,3.0,0,0,0,no
+1280,39,yes,travel_rarely,3,2,,4,F,3,2, sales executive ,3,married,5238.0,4,Yes,18,3.0,1,full-time,0,12.0,2.0,1,0,0,yes
+1281,43,no,travel_rarely,15,3,,15,F,3,3, healthcare representative ,1,married,9985.0,8,No,16,3.0,1,full-time,1,,2.0,1,0,0,yes
+1282,47,no,travel_frequently,4,1,medical,2,M,3,2, sales representative ,3,,,3,No,19,3.0,1,full-time,0,5.0,3.0,0,0,0,no
+1283,42,no,travel_rarely,23,5,,1,F,3,4, research director ,4,single,15992.0,2,No,14,3.0,2,full-time,0,16.0,3.0,1,0,0,no
+1284,32,no,non-travel,2,3,,3,F,3,1, laboratory technician ,2,married,2370.0,1,No,13,,3,full-time,1,8.0,3.0,8,0,7,yes
+1285,48,no,travel_rarely,29,1,medical,1,F,3,3, manager ,3,married,,3,,21,4.0,2,full-time,1,15.0,1.0,0,0,0,yes
+1286,42,no,travel_rarely,2,4,,1,M,2,2, healthcare representative ,4,,6781.0,3,,23,4.0,2,full-time,0,,3.0,1,0,0,no
+1287,36,no,non-travel,1,5,medical,4,F,3,2, sales executive ,4,,6653.0,4,,15,,2,full-time,0,,3.0,1,0,0,yes
+1288,33,yes,travel_rarely,5,3,marketing,4,F,3,1, sales representative ,3,single,2851.0,1,,13,,2,full-time,0,1.0,3.0,1,0,0,no
+1289,46,no,non-travel,7,4,medical,3,F,3,2, manufacturing director ,3,married,5258.0,2,,14,3.0,3,full-time,0,7.0,4.0,1,0,0,yes
+1290,21,yes,travel_rarely,12,3,life sciences,3,F,4,1, sales representative ,2,single,,1,,15,3.0,4,full-time,0,1.0,3.0,1,0,0,no
+1291,30,no,non-travel,2,1,technical degree,3,M,3,1, sales representative ,2,,2476.0,1,,18,3.0,1,full-time,1,,3.0,1,0,0,yes
+1292,30,yes,travel_frequently,4,3,,3,M,3,1, research scientist ,4,single,2285.0,9,Yes,23,4.0,3,full-time,0,3.0,3.0,1,0,0,no
+1293,32,no,travel_rarely,10,4,,3,M,3,2, manufacturing director ,2,single,4197.0,2,,12,3.0,4,full-time,0,18.0,2.0,1,0,1,yes
+1294,40,no,travel_rarely,2,3,,2,F,2,2, laboratory technician ,3,married,3448.0,6,No,22,4.0,2,full-time,1,,3.0,1,0,0,yes
+1295,28,no,travel_rarely,17,2,,3,M,3,2, laboratory technician ,1,,4558.0,1,,12,3.0,4,full-time,1,10.0,,10,1,8,no
+1296,38,no,travel_frequently,2,2,,4,M,3,1, laboratory technician ,4,married,1702.0,1,Yes,23,4.0,3,full-time,1,,3.0,1,0,0,no
+1297,19,yes,non-travel,2,2,technical degree,1,M,2,1, human resources ,4,single,2564.0,1,No,12,3.0,3,full-time,0,1.0,4.0,1,0,0,yes
+1298,57,no,travel_rarely,29,3,,1,M,2,4, manager ,4,divorced,,3,No,12,3.0,3,full-time,1,,2.0,1,0,0,yes
+1299,47,no,travel_rarely,2,2,medical,1,F,3,2, manufacturing director ,4,,5070.0,5,,13,,3,full-time,3,20.0,3.0,5,0,4,yes
+1300,54,no,travel_rarely,8,4,life sciences,3,F,3,2, laboratory technician ,3,single,3780.0,7,,11,3.0,3,part-time,0,,3.0,1,0,0,no
+1301,31,yes,travel_frequently,42,3,,42,M,3,3, healthcare representative ,3,,9824.0,3,No,12,3.0,1,full-time,0,12.0,3.0,1,0,0,yes
+1302,18,yes,travel_frequently,5,3,marketing,2,M,3,1, sales representative ,2,,1878.0,1,Yes,14,3.0,4,full-time,0,,3.0,0,0,0,no
+1303,40,no,non-travel,28,3,other,3,M,1,3, sales executive ,1,,,3,No,15,3.0,3,full-time,1,20.0,3.0,1,0,1,yes
+1304,26,no,non-travel,29,2,,1,M,3,2, sales executive ,3,,,5,,12,3.0,1,full-time,2,8.0,3.0,0,0,0,yes
+1305,26,yes,travel_rarely,24,3,,3,M,1,1, laboratory technician ,4,single,2340.0,1,Yes,18,3.0,2,full-time,0,1.0,1.0,1,0,0,yes
+1306,38,no,non-travel,10,3,,3,F,3,2, healthcare representative ,3,,,3,No,19,3.0,3,part-time,1,18.0,,1,0,0,yes
+1307,24,no,non-travel,17,2,other,4,M,2,1, laboratory technician ,2,married,2127.0,1,No,21,4.0,4,full-time,1,1.0,3.0,1,0,0,yes
+1308,30,yes,travel_frequently,12,4,,2,M,2,1, sales representative ,1,married,2033.0,1,No,18,3.0,3,full-time,1,1.0,4.0,1,0,0,yes
+1309,37,no,travel_rarely,2,3,marketing,4,M,3,2, sales executive ,3,married,9602.0,4,,11,3.0,3,full-time,1,,2.0,3,1,0,no
+1310,20,no,travel_rarely,1,3,life sciences,4,F,2,1, research scientist ,2,,,1,No,13,,4,part-time,0,1.0,4.0,1,0,0,yes
+1311,43,no,non-travel,14,4,other,2,M,2,4, research director ,4,divorced,16627.0,4,,14,3.0,3,full-time,1,21.0,,1,0,0,no
+1312,38,no,non-travel,27,1,life sciences,3,F,3,1, research scientist ,1,,,3,No,17,3.0,4,full-time,0,8.0,2.0,0,0,0,yes
+1313,33,no,non-travel,8,4,marketing,3,M,3,2, sales executive ,3,divorced,,0,,12,3.0,4,part-time,0,6.0,3.0,5,1,2,no
+1314,30,no,non-travel,3,3,,3,F,3,1, research scientist ,3,,2083.0,1,No,20,4.0,3,full-time,1,1.0,,1,0,0,no
+1315,29,no,non-travel,44,2,medical,2,F,3,2, sales executive ,3,,,1,No,14,3.0,1,full-time,1,,2.0,6,1,2,no
+1316,20,yes,non-travel,10,1,medical,4,M,3,1, research scientist ,3,single,1009.0,1,,11,3.0,4,full-time,0,,3.0,1,1,1,yes
+1317,35,no,non-travel,20,3,,20,M,2,1, laboratory technician ,3,married,,1,No,18,3.0,3,full-time,2,1.0,3.0,1,0,0,no
+1318,37,no,non-travel,10,2,life sciences,4,M,4,1, research scientist ,4,single,,3,No,17,3.0,1,full-time,0,,,1,0,0,yes
+1319,38,no,non-travel,1,3,,3,F,3,3, manufacturing director ,3,single,7861.0,4,Yes,14,,4,full-time,0,10.0,,1,0,0,yes
+1320,29,no,non-travel,10,3,,3,M,3,1, sales representative ,3,single,2642.0,1,No,11,3.0,3,full-time,0,1.0,,1,0,0,no
+1321,35,no,non-travel,2,4,,4,F,3,2, healthcare representative ,1,divorced,,2,No,11,3.0,1,full-time,1,16.0,4.0,1,0,0,yes
+1322,38,no,travel_rarely,2,5,medical,4,M,3,1, research scientist ,3,married,,6,Yes,13,3.0,2,part-time,1,,1.0,1,0,1,yes
+1323,34,no,travel_rarely,8,5,life sciences,2,F,3,2, manufacturing director ,1,,5121.0,3,No,14,3.0,3,full-time,1,,,0,0,0,yes
+1324,23,yes,non-travel,6,3,life sciences,3,M,4,1, laboratory technician ,1,,,1,Yes,21,4.0,3,full-time,2,1.0,3.0,0,0,0,no
+1325,24,no,non-travel,9,3,life sciences,3,M,2,1, laboratory technician ,2,divorced,2694.0,1,No,11,3.0,3,full-time,3,,3.0,1,0,0,no
+1326,29,yes,travel_rarely,1,2,life sciences,2,F,2,1, laboratory technician ,1,married,,1,,11,3.0,4,full-time,1,1.0,3.0,1,0,0,yes
+1327,40,no,travel_frequently,16,4,medical,1,M,2,2, laboratory technician ,3,,5094.0,6,No,14,3.0,4,full-time,0,10.0,3.0,1,0,0,yes
+1328,30,no,travel_rarely,2,3,,3,F,2,2, manufacturing director ,4,single,,5,,24,4.0,2,full-time,0,12.0,2.0,0,0,0,yes
+1329,45,no,non-travel,2,3,,2,F,2,1, research scientist ,3,,2274.0,1,No,14,3.0,4,full-time,0,1.0,3.0,1,0,0,yes
+1330,27,no,non-travel,3,3,medical,4,M,3,1, research scientist ,4,married,,1,,11,3.0,3,part-time,3,0.0,2.0,0,0,0,yes
+1331,37,no,non-travel,16,4,marketing,4,M,2,2, sales executive ,3,,,4,,19,,4,part-time,2,9.0,3.0,1,0,0,yes
+1332,32,no,non-travel,1,3,life sciences,4,M,3,1, laboratory technician ,4,divorced,2314.0,0,No,12,,2,full-time,1,4.0,3.0,3,0,2,yes
+1333,53,no,travel_rarely,8,3,marketing,1,M,3,4, sales executive ,4,married,,5,,14,3.0,3,part-time,1,28.0,3.0,2,2,2,yes
+1334,37,no,non-travel,19,2,,19,M,3,3, sales executive ,2,single,,1,Yes,13,3.0,4,full-time,0,,3.0,10,0,9,no
+1335,32,yes,travel_rarely,25,4,,1,M,3,1, laboratory technician ,4,,,1,,24,4.0,3,full-time,0,1.0,1.0,1,0,1,yes
+1336,58,yes,travel_frequently,2,1,,4,M,2,1, laboratory technician ,4,divorced,2380.0,9,,14,3.0,4,full-time,1,3.0,2.0,1,0,0,yes
+1337,43,no,travel_rarely,8,3,,1,F,3,2, manufacturing director ,2,divorced,,4,No,21,4.0,3,full-time,1,4.0,4.0,1,0,0,no
+1338,21,yes,travel_rarely,18,1,other,4,F,3,1, research scientist ,4,single,,1,No,19,,1,full-time,0,,2.0,1,0,0,no
+1339,34,no,non-travel,48,3,life sciences,48,M,3,1, laboratory technician ,2,,2008.0,1,No,14,3.0,2,part-time,2,1.0,3.0,1,1,0,yes
+1340,58,no,non-travel,5,3,,3,F,2,3, healthcare representative ,2,divorced,10552.0,2,,13,,4,full-time,1,24.0,3.0,6,0,4,no
+1341,48,no,non-travel,20,4,medical,4,M,3,1, research scientist ,3,married,2259.0,4,,17,3.0,1,part-time,2,13.0,2.0,0,0,0,no
+1342,32,no,non-travel,1,3,life sciences,3,F,2,1, laboratory technician ,2,married,,6,No,20,,3,full-time,0,5.0,3.0,3,0,2,yes
+1343,25,yes,non-travel,19,2,marketing,3,M,2,1, sales representative ,2,married,2413.0,1,Yes,18,,3,part-time,3,,3.0,1,0,0,no
+1344,40,no,non-travel,10,4,marketing,1,M,2,3, sales executive ,2,divorced,,2,No,12,3.0,2,part-time,1,11.0,2.0,1,0,0,yes
+1345,19,yes,non-travel,21,3,other,4,M,2,1, sales representative ,2,single,2121.0,1,Yes,13,3.0,2,part-time,0,1.0,4.0,1,0,0,no
+1346,20,yes,travel_rarely,4,3,technical degree,1,M,3,1, laboratory technician ,1,single,,1,,19,3.0,2,part-time,0,1.0,3.0,1,0,0,no
+1347,33,no,travel_rarely,1,3,,2,F,2,2, healthcare representative ,4,,,0,,14,3.0,1,full-time,0,6.0,3.0,5,1,4,yes
+1348,58,yes,travel_rarely,2,3,,4,M,3,1, research scientist ,3,single,2479.0,4,No,24,4.0,1,part-time,0,7.0,3.0,1,0,0,no
+1349,40,yes,non-travel,24,3,,2,F,4,4, sales executive ,2,single,13194.0,4,,16,3.0,4,full-time,0,22.0,2.0,1,0,0,yes
+1350,29,yes,travel_rarely,10,3,,4,F,2,1, research scientist ,1,single,,6,Yes,20,4.0,3,full-time,0,3.0,3.0,0,0,0,yes
+1351,47,no,travel_rarely,18,2,life sciences,4,F,3,2, sales executive ,4,single,4163.0,1,Yes,17,3.0,3,full-time,0,9.0,3.0,9,0,7,no
+1352,18,no,non-travel,5,2,,2,M,3,1, research scientist ,4,,,1,No,15,3.0,4,full-time,0,,3.0,0,0,0,yes
+1353,20,yes,non-travel,16,3,medical,4,F,2,1, research scientist ,1,,2600.0,1,Yes,15,3.0,1,part-time,0,1.0,3.0,1,0,0,no
+1354,42,no,non-travel,5,2,,4,M,3,5, manager ,3,,18303.0,6,No,13,3.0,2,full-time,0,21.0,4.0,1,0,0,yes
+1355,50,no,travel_rarely,9,3,,1,M,3,1, laboratory technician ,4,married,2380.0,4,No,18,,2,full-time,0,8.0,3.0,1,0,0,yes
+1356,37,yes,travel_rarely,11,2,medical,1,F,1,2, healthcare representative ,2,,4777.0,5,No,15,3.0,1,full-time,0,15.0,1.0,1,0,0,yes
+1357,38,no,non-travel,3,4,life sciences,2,M,3,2, sales executive ,4,,,8,Yes,12,3.0,3,part-time,0,19.0,3.0,1,0,0,no
+1358,36,yes,non-travel,15,3,,1,M,3,2, laboratory technician ,3,divorced,,7,,14,3.0,2,full-time,1,9.0,2.0,1,0,0,yes
+1359,28,no,travel_rarely,10,1,medical,4,M,3,1, sales representative ,2,married,1052.0,1,No,22,4.0,2,full-time,0,,3.0,1,0,0,yes
+1360,43,no,non-travel,25,3,,3,M,2,3, sales executive ,4,,,5,No,13,3.0,3,full-time,1,18.0,3.0,1,0,0,yes
+1361,21,yes,travel_rarely,10,3,,3,F,2,1, laboratory technician ,1,single,,1,No,13,,1,full-time,0,1.0,2.0,1,1,0,yes
+1362,51,yes,travel_rarely,4,4,,1,M,3,1, research scientist ,3,married,2461.0,9,,12,,3,full-time,3,18.0,4.0,10,2,7,no
+1363,37,no,non-travel,10,4,,4,F,2,2, sales executive ,4,divorced,,2,Yes,14,,3,full-time,3,8.0,3.0,1,0,0,no
+1364,28,yes,non-travel,1,3,medical,1,M,2,1, laboratory technician ,2,divorced,2596.0,1,No,15,,1,part-time,2,,3.0,1,0,0,no
+1365,50,yes,non-travel,1,4,,4,M,3,2, sales executive ,3,single,4728.0,3,Yes,14,3.0,4,part-time,0,5.0,3.0,0,0,0,yes
+1366,34,no,non-travel,3,4,,3,M,2,1, research scientist ,4,,,3,No,17,3.0,4,full-time,3,6.0,3.0,0,0,0,yes
+1367,38,no,travel_rarely,2,2,marketing,4,M,3,3, sales executive ,2,single,7351.0,7,No,16,3.0,3,full-time,0,,3.0,1,0,0,yes
+1368,42,no,non-travel,29,3,,2,M,1,2, laboratory technician ,4,,,4,,19,3.0,1,full-time,0,16.0,3.0,1,0,0,no
+1369,18,yes,non-travel,8,1,,3,M,3,1, laboratory technician ,3,single,,1,No,12,3.0,4,full-time,0,,3.0,0,0,0,yes
+1370,41,no,non-travel,12,4,,2,M,3,1, laboratory technician ,4,,4766.0,3,Yes,11,3.0,1,part-time,1,6.0,,1,0,0,no
+1371,35,no,travel_rarely,1,4,medical,4,M,2,1, laboratory technician ,3,,2258.0,6,No,12,3.0,2,full-time,1,,3.0,8,1,7,yes
+1372,32,no,non-travel,2,1,,3,F,3,1, sales representative ,1,,2827.0,1,,12,3.0,3,part-time,3,1.0,3.0,1,0,0,yes
+1373,22,yes,non-travel,3,4,life sciences,3,M,2,1, research scientist ,4,married,2853.0,0,Yes,11,3.0,2,full-time,1,1.0,3.0,0,0,0,yes
+1374,44,no,non-travel,26,3,,26,M,1,1, research scientist ,3,single,2290.0,2,No,13,,4,full-time,0,6.0,3.0,0,0,0,yes
+1375,41,yes,non-travel,5,2,life sciences,1,M,2,1, research scientist ,1,,2107.0,6,No,17,3.0,1,full-time,1,5.0,1.0,1,0,0,yes
+1376,40,no,travel_frequently,2,4,,2,M,3,2, sales executive ,2,,,5,No,12,3.0,4,full-time,3,,3.0,0,0,0,no
+1377,24,yes,non-travel,17,2,life sciences,4,F,3,1, laboratory technician ,2,,2210.0,1,,13,3.0,1,part-time,1,1.0,1.0,1,0,0,yes
+1378,42,no,travel_frequently,26,5,medical,1,F,3,3, research director ,1,married,13191.0,3,Yes,17,3.0,3,part-time,0,,3.0,1,0,0,no
+1379,49,no,non-travel,4,2,medical,1,M,2,5, manager ,3,married,,2,,13,,3,part-time,1,23.0,4.0,1,0,0,yes
+1380,48,no,travel_rarely,2,2,technical degree,4,M,4,1, laboratory technician ,2,single,,5,,11,3.0,3,full-time,0,7.0,2.0,1,0,0,yes
+1381,29,no,travel_rarely,7,3,,3,M,3,2, healthcare representative ,4,,,1,,11,3.0,2,part-time,2,6.0,3.0,6,1,0,yes
+1382,48,no,non-travel,1,3,life sciences,4,M,2,5, research director ,4,single,18265.0,6,No,12,3.0,3,full-time,0,,4.0,1,0,0,yes
+1383,34,no,non-travel,20,3,technical degree,3,F,4,1, research scientist ,3,,,0,No,17,3.0,4,full-time,0,2.0,2.0,1,0,0,yes
+1384,19,no,non-travel,25,3,life sciences,2,F,4,1, research scientist ,4,single,,1,,12,3.0,4,full-time,0,1.0,3.0,1,0,1,yes
+1385,23,no,non-travel,1,2,,4,M,3,1, research scientist ,3,,,1,No,22,4.0,4,full-time,1,1.0,3.0,1,0,1,no
+1386,25,yes,travel_frequently,32,1,,3,M,1,1, sales representative ,4,single,1118.0,1,Yes,14,,4,full-time,0,1.0,3.0,1,1,0,yes
+1387,42,no,non-travel,34,4,medical,2,F,4,2, research scientist ,2,married,2372.0,6,Yes,16,3.0,4,full-time,0,18.0,3.0,1,0,0,no
+1388,51,no,travel_frequently,6,2,medical,2,F,2,1, laboratory technician ,3,single,2838.0,0,,14,3.0,2,full-time,0,8.0,2.0,7,7,7,no
+1389,45,no,travel_frequently,25,3,medical,2,F,3,5, manager ,2,,18061.0,3,,22,4.0,3,part-time,0,22.0,3.0,0,0,0,no
+1390,27,no,non-travel,11,3,medical,3,F,4,1, sales representative ,4,married,,8,,14,,2,full-time,1,5.0,3.0,1,0,0,yes
+1391,18,no,non-travel,1,3,,4,F,3,1, laboratory technician ,4,single,1611.0,1,,15,3.0,3,full-time,0,0.0,4.0,0,0,0,no
+1392,31,yes,travel_frequently,2,3,,3,F,2,1, sales representative ,4,single,,7,No,14,3.0,3,full-time,0,3.0,4.0,1,0,0,yes
+1393,31,yes,travel_frequently,1,4,life sciences,2,F,1,1, sales representative ,3,single,,1,,12,,2,full-time,0,,3.0,1,0,0,no
+1394,31,yes,travel_rarely,8,3,life sciences,1,F,2,1, research scientist ,2,,,1,,12,3.0,3,full-time,0,,4.0,1,0,0,no
+1395,27,no,travel_rarely,11,1,life sciences,2,M,3,1, laboratory technician ,1,married,,0,,14,3.0,2,part-time,0,6.0,4.0,5,1,4,no
+1396,39,yes,non-travel,2,3,,1,F,2,1, laboratory technician ,1,single,,2,Yes,23,4.0,2,full-time,0,11.0,4.0,1,0,0,yes
+1397,44,no,travel_frequently,1,5,marketing,1,F,3,2, sales executive ,3,married,4768.0,7,,12,,3,full-time,1,11.0,2.0,1,0,0,no
+1398,30,no,non-travel,25,3,,25,M,3,1, research scientist ,3,,1274.0,1,,13,3.0,2,part-time,2,1.0,2.0,1,0,0,no
+1399,35,no,travel_rarely,26,1,life sciences,4,M,3,1, sales representative ,3,,2404.0,1,No,13,,1,full-time,1,1.0,3.0,1,0,0,yes
+1400,24,yes,travel_frequently,9,3,,2,M,3,1, laboratory technician ,1,,,2,,11,3.0,3,full-time,0,,2.0,0,0,0,no
+1401,24,no,non-travel,13,2,,4,F,3,1, sales representative ,2,married,2033.0,1,,13,3.0,3,part-time,1,1.0,,1,0,0,yes
+1402,28,yes,non-travel,2,2,medical,3,M,2,1, laboratory technician ,1,single,2561.0,7,No,11,,3,full-time,0,8.0,2.0,0,0,0,yes
+1403,28,no,travel_rarely,1,3,life sciences,1,M,2,1, research scientist ,3,,1563.0,1,,14,3.0,4,full-time,1,1.0,1.0,1,0,0,no
+1404,33,no,non-travel,8,5,,4,M,3,2, healthcare representative ,3,,6388.0,2,,17,3.0,1,full-time,0,14.0,3.0,0,0,0,yes
+1405,39,no,travel_rarely,6,3,,2,F,3,3, manufacturing director ,2,single,8376.0,4,,18,,4,full-time,0,9.0,3.0,2,2,2,no
+1406,42,no,non-travel,2,3,medical,3,M,2,1, laboratory technician ,2,married,4841.0,4,,14,,2,full-time,1,,,1,0,0,yes
+1407,29,no,travel_rarely,9,3,,3,M,4,1, research scientist ,3,married,,6,No,18,3.0,1,full-time,2,,2.0,1,0,0,no
+1408,35,no,travel_rarely,1,3,,4,M,2,1, laboratory technician ,1,,,1,No,19,3.0,2,full-time,0,,3.0,3,1,2,no
+1409,35,yes,travel_rarely,14,3,,14,F,3,1, laboratory technician ,1,,2074.0,1,,12,3.0,4,full-time,1,1.0,3.0,1,0,0,yes
+1410,34,no,non-travel,13,4,medical,13,M,3,1, research scientist ,4,single,2972.0,1,,13,3.0,3,full-time,0,,,1,0,0,no
+1411,26,no,travel_rarely,3,3,,1,F,3,1, research scientist ,4,,,1,,21,4.0,1,full-time,0,1.0,3.0,1,0,0,yes
+1412,36,no,travel_rarely,1,4,life sciences,2,F,3,2, sales executive ,3,single,6815.0,6,No,13,3.0,1,full-time,0,,3.0,1,0,0,yes
+1413,50,no,non-travel,24,3,marketing,24,M,3,5, manager ,3,married,,4,Yes,16,,3,part-time,1,,3.0,1,0,0,no
+1414,42,no,travel_rarely,9,2,,4,M,2,5, manager ,4,,,8,No,22,4.0,4,full-time,0,24.0,3.0,1,0,1,no
+1415,35,no,non-travel,7,2,life sciences,3,M,2,1, laboratory technician ,4,,2690.0,1,No,18,3.0,4,full-time,1,,2.0,1,0,1,no
+1416,46,no,travel_rarely,1,4,life sciences,4,M,4,4, manager ,1,,17567.0,1,,15,3.0,2,part-time,0,27.0,1.0,26,0,12,no
+1417,18,yes,travel_frequently,3,2,medical,2,F,3,1, sales representative ,4,single,1569.0,1,Yes,12,3.0,3,part-time,0,0.0,4.0,0,0,0,yes
+1418,29,no,non-travel,5,3,,1,M,2,2, sales executive ,2,divorced,4187.0,1,Yes,13,,2,full-time,1,10.0,2.0,10,0,9,yes
+1419,31,no,non-travel,5,4,life sciences,1,F,3,2, sales executive ,4,,,1,No,11,3.0,1,full-time,2,10.0,,10,0,2,yes
+1420,41,no,travel_rarely,23,2,,4,M,3,3, sales executive ,3,single,,3,,16,3.0,4,full-time,0,21.0,3.0,2,0,2,yes
+1421,38,no,travel_rarely,4,2,,4,F,3,1, laboratory technician ,3,,3306.0,7,,19,3.0,4,full-time,1,7.0,,0,0,0,yes
+1422,32,yes,travel_rarely,2,4,life sciences,4,M,3,1, laboratory technician ,2,single,1393.0,1,No,12,3.0,1,full-time,0,1.0,3.0,1,0,0,yes
+1423,60,no,non-travel,1,4,,3,M,1,3, healthcare representative ,4,divorced,10883.0,3,No,20,4.0,3,full-time,1,19.0,4.0,1,0,0,no
+1424,24,yes,non-travel,22,1,,4,M,1,1, human resources ,3,married,,1,No,11,,3,full-time,1,1.0,3.0,1,0,0,yes
+1425,40,no,travel_rarely,8,2,life sciences,2,F,3,2, manufacturing director ,1,,,2,Yes,16,3.0,2,part-time,1,18.0,3.0,1,0,0,yes
+1426,30,no,travel_rarely,21,1,,2,M,3,1, research scientist ,4,married,2862.0,1,No,12,3.0,2,part-time,1,10.0,2.0,10,0,8,yes
+1427,47,no,non-travel,2,4,marketing,3,M,3,2, sales executive ,2,,,7,No,11,3.0,4,full-time,1,4.0,1.0,1,0,0,yes
+1428,32,yes,travel_rarely,1,2,,1,M,1,2, sales executive ,2,single,6735.0,6,,15,3.0,2,part-time,0,10.0,3.0,0,0,0,no
+1429,45,no,travel_rarely,41,3,life sciences,41,F,1,3, human resources ,3,married,9756.0,4,,21,4.0,3,full-time,2,9.0,4.0,5,0,3,yes
+1430,34,no,non-travel,2,4,,4,M,4,1, research scientist ,4,married,,0,Yes,14,3.0,1,part-time,3,6.0,3.0,5,1,2,no
+1431,33,yes,non-travel,16,3,,1,F,3,3, sales executive ,1,,,2,Yes,20,4.0,3,part-time,0,,2.0,0,0,0,yes
+1432,31,yes,travel_rarely,16,4,,1,M,3,3, sales executive ,3,married,,2,,13,3.0,1,full-time,3,,3.0,1,0,0,yes
+1433,29,no,travel_rarely,4,3,technical degree,4,F,2,1, research scientist ,1,divorced,,1,,13,3.0,3,full-time,1,,3.0,1,0,0,yes
+1434,30,no,non-travel,16,3,,3,M,4,2, healthcare representative ,3,married,5294.0,3,No,16,3.0,3,full-time,1,10.0,3.0,7,1,7,no
+1435,38,no,travel_rarely,18,3,medical,2,M,1,2, healthcare representative ,4,married,,3,,16,3.0,3,full-time,1,,3.0,1,1,0,yes
+1436,43,yes,non-travel,17,3,technical degree,3,M,2,1, research scientist ,3,,2437.0,9,Yes,16,3.0,4,full-time,1,6.0,3.0,1,0,0,no
+1437,55,no,travel_rarely,44,3,,3,M,2,5, research director ,1,married,,8,No,12,3.0,2,full-time,3,34.0,3.0,1,0,0,no
+1438,21,yes,non-travel,7,1,marketing,2,M,3,1, sales representative ,2,single,,1,,13,3.0,2,full-time,0,,3.0,1,1,0,yes
+1439,22,yes,travel_rarely,45,1,medical,3,F,3,1, laboratory technician ,1,,,1,Yes,17,3.0,3,full-time,0,1.0,3.0,1,0,0,yes
+1440,37,no,travel_rarely,8,2,other,3,M,3,2, human resources ,2,divorced,4071.0,2,No,13,3.0,3,full-time,0,19.0,2.0,10,4,7,yes
+1441,42,no,travel_rarely,13,3,,2,M,4,2, healthcare representative ,1,married,,5,No,18,,3,full-time,2,10.0,2.0,0,0,0,no
+1442,18,no,non-travel,14,3,,2,F,3,1, research scientist ,3,single,,1,,16,3.0,3,part-time,0,0.0,1.0,0,0,0,yes
+1443,31,yes,travel_rarely,18,5,human resources,4,M,4,1, human resources ,1,married,2956.0,0,No,17,3.0,3,full-time,0,2.0,3.0,1,0,0,yes
+1444,36,no,travel_rarely,2,4,,4,F,3,2, research scientist ,2,,,4,Yes,22,4.0,4,full-time,1,,3.0,1,0,0,yes
+1445,32,no,travel_frequently,10,4,marketing,4,M,3,2, sales executive ,4,,4648.0,8,,13,3.0,3,full-time,0,,4.0,0,0,0,yes
+1446,29,no,non-travel,29,1,life sciences,4,M,1,2, healthcare representative ,3,divorced,,8,No,17,,4,full-time,2,11.0,,7,1,6,no
+1447,42,no,travel_rarely,8,3,,4,M,3,1, laboratory technician ,3,,,4,No,13,,4,full-time,0,,3.0,0,0,0,yes
+1448,29,no,travel_rarely,6,1,,4,M,2,1, human resources ,2,married,2804.0,1,No,11,3.0,4,part-time,0,,3.0,1,0,0,yes
+1449,29,yes,non-travel,24,2,,4,M,2,1, research scientist ,4,,2439.0,1,Yes,24,,2,part-time,0,1.0,2.0,1,1,0,no
+1450,28,no,travel_rarely,3,3,medical,2,F,3,1, sales representative ,2,,2856.0,1,No,19,3.0,4,full-time,1,1.0,3.0,1,0,0,yes
+1451,30,yes,non-travel,9,3,,2,M,3,1, sales representative ,4,,,1,,13,3.0,3,part-time,0,,2.0,1,0,0,no
+1452,22,yes,travel_rarely,7,1,life sciences,4,M,3,1, research scientist ,2,single,,1,,23,4.0,1,part-time,0,1.0,3.0,1,0,0,yes
+1453,26,no,non-travel,1,2,life sciences,2,F,2,1, research scientist ,3,,2933.0,1,Yes,13,3.0,3,full-time,1,1.0,2.0,1,1,0,no
+1454,44,no,travel_rarely,1,4,,2,M,4,2, healthcare representative ,1,,,2,,15,3.0,4,full-time,1,10.0,3.0,2,2,2,yes
+1455,29,yes,travel_frequently,24,3,technical degree,3,M,4,1, sales representative ,1,single,1091.0,1,No,17,3.0,4,full-time,0,1.0,,1,0,0,yes
+1456,28,yes,travel_rarely,13,2,marketing,4,F,3,2, sales executive ,3,,,3,Yes,11,3.0,4,full-time,0,6.0,3.0,2,2,2,yes
+1457,56,no,travel_rarely,11,5,,4,F,2,2, sales executive ,1,married,,4,,16,3.0,3,full-time,1,,3.0,0,0,0,yes
+1458,39,no,travel_rarely,9,2,,1,M,3,2, manufacturing director ,1,married,5151.0,1,No,25,4.0,4,part-time,1,10.0,3.0,10,7,9,yes
+1459,58,no,non-travel,21,3,,4,F,3,4, manager ,4,,,4,Yes,13,3.0,3,full-time,1,,2.0,1,0,0,yes
+1460,42,no,travel_rarely,12,4,marketing,2,M,3,2, sales executive ,4,divorced,,3,,12,,3,full-time,2,14.0,3.0,0,0,0,no
+1461,27,yes,non-travel,22,3,,1,F,2,1, human resources ,2,married,2863.0,1,No,12,3.0,1,full-time,0,,3.0,1,0,0,no
+1462,38,no,travel_rarely,1,3,,1,M,2,1, sales representative ,1,single,2858.0,4,,14,3.0,1,full-time,0,20.0,2.0,1,0,0,yes
+1463,32,no,non-travel,5,4,life sciences,4,M,2,2, manufacturing director ,4,,,8,No,24,4.0,2,full-time,0,,3.0,1,0,0,yes
+1464,31,no,non-travel,2,1,medical,4,F,1,1, laboratory technician ,4,,1129.0,1,,11,3.0,3,full-time,3,,3.0,1,0,0,yes
+1465,25,no,travel_rarely,2,3,,3,F,3,1, human resources ,2,,,4,No,14,3.0,3,part-time,0,6.0,3.0,2,1,2,no
+1466,40,no,non-travel,44,4,,1,M,3,1, laboratory technician ,4,married,,8,No,19,3.0,3,full-time,2,8.0,2.0,1,0,0,yes
+1467,39,no,non-travel,9,3,,4,M,3,5, manager ,4,,19431.0,2,,13,3.0,3,full-time,0,,2.0,6,1,3,no
+1468,23,yes,non-travel,9,3,,4,M,3,1, sales representative ,1,married,,1,No,19,3.0,1,full-time,1,,,1,1,0,no
+1469,35,no,travel_rarely,26,4,life sciences,3,F,3,3, human resources ,4,single,,1,Yes,16,3.0,3,full-time,0,,,9,1,7,no
+1470,34,no,travel_rarely,7,2,technical degree,2,M,3,1, sales representative ,3,,2308.0,0,Yes,25,4.0,2,full-time,1,12.0,3.0,11,5,7,yes
+1471,28,no,non-travel,16,3,medical,3,M,3,1, research scientist ,3,single,2144.0,1,No,14,3.0,3,full-time,0,5.0,2.0,5,1,4,no
+1472,29,no,non-travel,1,3,life sciences,1,M,3,2, healthcare representative ,1,married,5373.0,0,No,12,3.0,1,full-time,1,6.0,2.0,5,0,2,no
+1473,58,yes,travel_rarely,23,4,medical,4,F,3,3, healthcare representative ,4,married,,1,,12,3.0,4,full-time,1,40.0,2.0,40,15,6,yes
+1474,38,no,non-travel,3,3,life sciences,1,M,3,3, sales executive ,3,divorced,,0,,12,3.0,3,full-time,2,,2.0,16,5,13,yes
+1475,29,no,travel_frequently,1,1,,2,F,3,3, sales executive ,4,married,,1,,14,3.0,4,full-time,1,11.0,3.0,11,4,1,yes
+1476,55,no,travel_rarely,1,3,medical,4,M,3,5, manager ,1,single,19045.0,0,,14,3.0,3,full-time,0,37.0,3.0,36,4,13,yes
+1477,41,no,non-travel,2,4,,4,M,3,4, manager ,2,,16015.0,1,,19,3.0,2,full-time,0,,3.0,22,0,4,yes
+1478,39,no,travel_rarely,1,3,,3,M,4,3, healthcare representative ,4,,9613.0,0,No,17,,1,part-time,3,19.0,2.0,18,3,7,yes
+1479,38,no,non-travel,15,2,life sciences,3,M,2,3, research director ,4,,11510.0,0,,14,3.0,2,full-time,1,,3.0,11,2,9,yes
+1480,43,no,non-travel,12,3,,1,M,2,4, research director ,2,,,1,No,11,3.0,3,part-time,1,,,25,3,9,yes
+1481,31,no,non-travel,7,2,,2,F,3,2, manufacturing director ,1,married,4306.0,1,No,12,3.0,2,part-time,1,13.0,1.0,13,3,12,yes
+1482,50,no,travel_rarely,29,4,life sciences,2,M,2,4, manager ,3,married,17046.0,0,No,15,3.0,2,full-time,1,28.0,3.0,27,15,7,yes
+1483,33,no,non-travel,8,1,life sciences,2,F,2,1, sales representative ,4,,,0,,19,3.0,4,full-time,0,,2.0,2,2,2,no
+1484,26,yes,non-travel,2,3,life sciences,1,M,3,1, research scientist ,1,married,2042.0,6,,14,3.0,2,full-time,1,6.0,3.0,3,1,2,yes
+1485,38,no,travel_frequently,3,4,,3,M,3,1, research scientist ,3,,2821.0,3,No,16,3.0,1,full-time,1,8.0,3.0,2,2,2,no
+1486,46,no,non-travel,1,4,medical,4,M,3,5, research director ,4,,,9,No,17,3.0,4,part-time,2,23.0,3.0,2,2,2,yes
+1487,21,no,non-travel,25,1,,4,F,2,1, research scientist ,2,single,2070.0,1,Yes,11,3.0,3,part-time,0,2.0,4.0,2,2,2,yes
+1488,31,no,travel_frequently,20,3,,3,M,4,1, sales representative ,4,married,2791.0,0,No,12,,1,full-time,1,3.0,3.0,2,2,2,no
+1489,35,no,non-travel,11,2,marketing,4,M,3,2, sales executive ,4,divorced,,1,,11,3.0,4,full-time,1,5.0,3.0,5,0,2,yes
+1490,34,no,non-travel,2,2,,4,M,3,2, manufacturing director ,3,single,,2,No,11,3.0,4,part-time,0,,,3,0,2,yes
+1491,33,yes,non-travel,9,4,,1,F,3,2, sales executive ,1,single,8224.0,0,,17,3.0,1,full-time,0,6.0,3.0,5,0,3,yes
+1492,31,yes,non-travel,15,3,medical,3,M,3,1, laboratory technician ,3,,2610.0,1,No,12,3.0,3,full-time,1,,2.0,2,2,2,no
+1493,37,no,travel_rarely,25,2,,3,F,2,2, healthcare representative ,4,,5731.0,7,No,13,3.0,3,full-time,2,9.0,3.0,6,1,3,no
+1494,27,no,travel_rarely,6,3,,4,M,2,1, research scientist ,3,married,2539.0,1,No,13,,3,full-time,1,4.0,3.0,4,2,2,no
+1495,35,no,travel_frequently,4,4,other,4,M,2,1, laboratory technician ,4,married,2376.0,1,,13,3.0,2,full-time,1,2.0,4.0,2,2,2,yes
+1496,56,no,non-travel,4,4,,4,F,3,5, manager ,1,divorced,,4,No,13,3.0,4,full-time,1,28.0,3.0,5,4,2,no
+1497,45,no,non-travel,7,3,medical,1,F,3,1, research scientist ,3,,,4,Yes,19,3.0,3,full-time,1,,,3,0,2,yes
+1498,43,no,travel_rarely,2,3,life sciences,2,M,3,1, human resources ,4,,3539.0,0,No,13,3.0,2,part-time,0,,3.0,9,1,8,yes
+1499,31,no,travel_rarely,29,4,marketing,1,F,2,2, sales executive ,4,,5468.0,1,,14,3.0,1,full-time,2,,3.0,12,5,7,yes
+1500,35,yes,non-travel,27,3,,3,M,3,2, sales executive ,4,,5813.0,1,,18,3.0,4,part-time,0,,3.0,10,7,7,yes
+1501,35,no,non-travel,2,2,medical,2,M,3,2, manufacturing director ,4,divorced,,2,No,14,3.0,3,full-time,1,15.0,3.0,7,1,7,no
+1502,30,no,non-travel,47,3,medical,47,F,3,3, manufacturing director ,3,single,9667.0,9,No,14,3.0,2,full-time,0,9.0,3.0,7,0,2,no
+1503,46,yes,travel_rarely,21,2,medical,4,F,3,2, healthcare representative ,2,married,,4,No,22,4.0,4,full-time,1,13.0,4.0,9,3,7,no
+1504,45,no,non-travel,48,4,,48,F,3,2, sales executive ,3,married,5154.0,4,,22,4.0,2,full-time,2,10.0,4.0,8,5,7,yes
+1505,43,no,travel_frequently,2,4,life sciences,1,M,3,2, sales executive ,4,married,5675.0,1,,20,4.0,3,full-time,1,7.0,3.0,7,7,7,no
+1506,46,yes,non-travel,10,3,life sciences,3,F,3,3, sales executive ,2,,7314.0,5,,21,4.0,3,part-time,3,14.0,3.0,8,0,7,no
+1507,40,no,travel_rarely,1,4,,1,M,3,4, manager ,1,,,2,,11,3.0,1,full-time,1,22.0,,19,11,16,yes
+1508,27,no,travel_rarely,2,2,,1,F,4,2, sales executive ,3,single,,0,No,14,3.0,2,full-time,0,9.0,2.0,8,0,7,yes
+1509,42,no,non-travel,6,3,medical,3,M,3,3, research director ,1,married,,9,No,13,3.0,2,part-time,1,18.0,4.0,13,5,7,no
+1510,26,no,travel_frequently,6,3,other,3,M,4,1, laboratory technician ,4,married,,0,No,18,3.0,1,full-time,1,8.0,3.0,7,7,7,yes
+1511,28,no,travel_frequently,1,2,life sciences,3,M,2,2, sales executive ,4,married,,1,,12,3.0,3,full-time,1,7.0,3.0,7,0,7,yes
+1512,31,no,travel_rarely,5,4,,3,M,3,1, research scientist ,4,married,,0,,12,3.0,3,full-time,1,,3.0,5,0,3,yes
+1513,31,no,travel_rarely,2,3,human resources,1,M,2,2, human resources ,1,,6410.0,3,No,12,3.0,4,full-time,0,,3.0,2,1,0,yes
+1514,31,no,non-travel,2,4,,3,M,3,1, research scientist ,4,,,0,,18,3.0,2,full-time,1,3.0,1.0,2,2,2,yes
+1515,52,yes,non-travel,8,4,medical,3,M,2,2, research scientist ,2,,4941.0,2,No,15,,1,part-time,0,11.0,2.0,8,7,7,no
+1516,28,yes,non-travel,2,4,medical,1,M,1,1, research scientist ,4,married,,5,Yes,13,3.0,4,full-time,0,,2.0,3,2,2,yes
+1517,47,no,travel_rarely,5,5,,4,M,3,5, research director ,3,married,,4,,11,3.0,2,part-time,1,21.0,3.0,3,1,1,yes
+1518,29,no,non-travel,9,5,other,2,M,2,1, laboratory technician ,4,,3983.0,0,No,17,3.0,3,part-time,0,4.0,,3,2,2,no
+1519,37,no,non-travel,5,2,medical,4,M,3,2, manufacturing director ,4,,6347.0,7,No,16,3.0,3,full-time,2,8.0,2.0,6,0,4,no
+1520,23,no,non-travel,22,1,,3,M,3,1, research scientist ,4,,2904.0,1,,12,3.0,3,full-time,2,,2.0,4,0,2,no
+1521,42,no,travel_rarely,2,1,,3,M,3,1, human resources ,3,divorced,2696.0,0,Yes,11,3.0,3,full-time,1,4.0,3.0,3,1,0,yes
+1522,30,no,non-travel,28,2,,4,F,3,2, sales executive ,3,,,7,,12,3.0,2,full-time,1,4.0,4.0,2,2,2,yes
+1523,21,yes,non-travel,1,1,,1,F,2,1, sales representative ,2,single,2174.0,1,,11,3.0,3,full-time,0,3.0,3.0,3,1,2,no
+1524,57,no,travel_rarely,1,4,medical,4,M,3,2, healthcare representative ,3,,6755.0,2,No,11,3.0,3,full-time,0,,3.0,3,1,2,no
+1525,21,no,non-travel,9,2,,1,M,3,1, sales representative ,4,single,,1,,24,4.0,3,full-time,0,3.0,2.0,3,2,2,yes
+1526,31,no,travel_rarely,9,4,life sciences,3,M,2,1, research scientist ,2,,2657.0,0,,16,3.0,4,full-time,0,3.0,3.0,2,2,2,no
+1527,29,no,non-travel,23,3,,4,M,3,1, research scientist ,4,,,9,No,16,,4,full-time,0,6.0,3.0,3,1,2,yes
+1528,27,no,travel_rarely,1,2,,4,M,3,1, laboratory technician ,2,,,1,No,11,3.0,2,part-time,1,5.0,3.0,5,0,4,yes
+1529,49,no,travel_rarely,7,3,other,2,M,2,3, healthcare representative ,3,single,10965.0,8,No,24,4.0,3,full-time,0,,3.0,5,0,0,no
+1530,36,no,travel_rarely,2,3,,4,F,3,1, research scientist ,3,married,2543.0,4,No,13,3.0,2,full-time,1,,3.0,2,2,2,yes
+1531,34,yes,non-travel,37,3,marketing,1,M,4,2, sales executive ,4,,5304.0,8,Yes,13,3.0,2,full-time,0,,2.0,5,0,4,yes
+1532,24,no,non-travel,32,4,marketing,4,F,3,2, sales executive ,3,divorced,,1,Yes,12,3.0,4,full-time,1,,4.0,5,0,3,yes
+1533,42,no,non-travel,1,4,,2,F,3,1, laboratory technician ,1,,,3,No,16,3.0,2,part-time,1,8.0,3.0,5,1,2,yes
+1534,54,no,non-travel,5,2,medical,1,M,3,5, research director ,1,married,19406.0,4,,11,3.0,3,part-time,1,24.0,2.0,4,1,2,yes
+1535,34,no,non-travel,4,4,,3,F,3,2, sales executive ,3,married,6538.0,9,No,15,3.0,1,full-time,1,,3.0,3,1,2,yes
+1536,43,no,non-travel,21,3,,4,M,3,1, laboratory technician ,4,,2258.0,7,,20,4.0,1,part-time,1,,3.0,3,1,2,yes
+1537,43,no,travel_rarely,8,4,other,3,F,3,2, healthcare representative ,3,,,4,Yes,14,3.0,4,full-time,0,,3.0,5,0,2,yes
+1538,31,no,travel_rarely,1,2,,4,M,2,1, laboratory technician ,1,married,2218.0,1,No,12,3.0,3,part-time,1,4.0,,4,3,2,yes
+1539,25,yes,travel_rarely,3,3,medical,1,M,3,1, laboratory technician ,1,married,,5,No,13,3.0,3,part-time,1,6.0,,2,0,2,yes
+1540,45,no,non-travel,10,2,life sciences,1,M,3,1, research scientist ,4,married,2654.0,3,No,21,,4,full-time,2,8.0,2.0,2,0,2,yes
+1541,45,no,travel_rarely,33,2,medical,3,M,3,4, healthcare representative ,4,married,,0,Yes,14,3.0,2,full-time,0,21.0,3.0,20,4,10,yes
+1542,47,yes,non-travel,29,4,life sciences,1,M,3,3, manager ,2,married,,1,,12,3.0,4,full-time,1,,2.0,10,9,9,no
+1543,35,no,non-travel,38,3,life sciences,2,F,4,3, manager ,2,divorced,,7,,18,,2,full-time,1,10.0,2.0,7,6,2,yes
+1544,29,no,travel_frequently,2,2,,2,M,3,2, sales executive ,4,single,,1,,18,3.0,1,full-time,0,,,10,0,9,yes
+1545,55,no,travel_rarely,17,2,technical degree,17,M,3,2, laboratory technician ,4,married,,3,,19,,4,full-time,1,12.0,3.0,10,0,8,yes
+1546,26,yes,travel_rarely,4,4,,4,M,2,2, sales executive ,4,single,5828.0,1,,12,3.0,2,full-time,0,,,8,7,4,yes
+1547,31,no,travel_rarely,7,3,technical degree,2,M,4,2, sales executive ,4,,,4,,11,3.0,2,full-time,1,10.0,2.0,8,7,7,no
+1548,43,no,travel_frequently,10,4,life sciences,3,F,3,1, laboratory technician ,4,,2455.0,0,No,19,3.0,1,full-time,0,,3.0,8,1,7,no
+1549,31,no,travel_rarely,7,3,marketing,4,M,3,2, sales executive ,4,,,4,,12,3.0,4,full-time,3,13.0,3.0,7,1,7,yes
+1550,32,no,non-travel,2,4,medical,1,F,4,2, research scientist ,4,single,5055.0,7,,16,3.0,3,part-time,0,,2.0,7,0,7,no
+1551,33,no,non-travel,10,3,,2,M,2,2, sales executive ,4,,4682.0,3,No,14,3.0,3,full-time,0,,2.0,7,0,1,yes
+1552,43,no,travel_frequently,30,4,life sciences,3,F,2,2, laboratory technician ,3,divorced,5257.0,1,No,11,,2,part-time,1,9.0,4.0,9,0,0,no
+1553,29,yes,travel_rarely,8,4,,2,M,1,1, laboratory technician ,1,,2119.0,1,,11,3.0,4,full-time,0,7.0,2.0,7,0,7,yes
+1554,27,no,non-travel,12,4,,2,F,3,2, sales executive ,2,,,1,No,18,3.0,1,full-time,1,8.0,3.0,8,0,7,yes
+1555,29,no,travel_rarely,10,1,,4,F,2,2, sales executive ,2,divorced,,1,Yes,14,3.0,1,full-time,2,7.0,3.0,7,1,7,yes
+1556,37,no,non-travel,6,3,medical,3,M,4,2, research scientist ,1,divorced,5974.0,4,,13,3.0,1,part-time,2,13.0,3.0,7,6,7,yes
+1557,26,no,travel_rarely,1,3,,3,M,3,2, sales executive ,3,,,1,,17,3.0,2,part-time,1,,3.0,8,7,7,no
+1558,40,no,travel_rarely,10,4,life sciences,4,F,4,1, laboratory technician ,3,married,,3,Yes,13,3.0,3,full-time,1,,3.0,7,1,7,yes
+1559,41,yes,non-travel,4,3,,1,M,3,2, sales executive ,2,,,1,No,18,3.0,3,full-time,0,8.0,3.0,8,7,7,yes
+1560,51,no,travel_rarely,31,2,,31,F,3,2, sales executive ,4,,,4,No,11,3.0,3,full-time,1,18.0,2.0,7,0,7,no
+1561,37,no,non-travel,14,3,,4,F,3,1, laboratory technician ,1,,3034.0,1,No,12,3.0,3,full-time,1,,2.0,18,12,17,no
+1562,56,no,non-travel,6,3,life sciences,3,F,4,4, sales executive ,1,married,13212.0,9,No,11,3.0,4,part-time,3,36.0,2.0,7,7,7,yes
+1563,41,no,travel_rarely,1,3,marketing,2,M,4,3, sales executive ,1,married,8392.0,1,,16,3.0,3,part-time,1,10.0,3.0,10,0,7,yes
+1564,46,no,non-travel,18,3,medical,3,F,3,2, manufacturing director ,3,,,2,No,14,3.0,3,full-time,1,19.0,2.0,10,0,8,no
+1565,30,no,non-travel,2,3,,3,F,3,1, laboratory technician ,4,single,,0,,14,3.0,3,part-time,0,12.0,2.0,11,6,7,yes
+1566,35,no,travel_rarely,16,3,life sciences,4,M,3,3, healthcare representative ,3,,,4,Yes,12,3.0,3,full-time,0,10.0,3.0,8,0,0,yes
+1567,48,no,travel_rarely,2,5,,2,F,3,2, sales executive ,4,married,4051.0,2,No,14,3.0,1,full-time,1,14.0,3.0,9,6,7,yes
+1568,45,no,travel_rarely,2,3,other,4,M,3,2, sales executive ,2,,4805.0,0,No,19,3.0,2,full-time,1,,4.0,8,3,7,no
+1569,26,yes,travel_frequently,17,4,life sciences,2,F,3,1, human resources ,3,,2741.0,0,Yes,11,3.0,2,part-time,1,8.0,,7,1,0,yes
+1570,41,no,non-travel,2,4,other,1,F,2,2, healthcare representative ,3,single,,2,Yes,17,3.0,1,part-time,0,10.0,3.0,8,0,7,yes
+1571,34,no,non-travel,21,4,,4,M,4,2, sales executive ,4,single,5337.0,1,,12,3.0,4,part-time,0,10.0,3.0,10,5,7,no
+1572,31,no,travel_rarely,29,4,medical,1,M,4,2, sales executive ,4,divorced,,4,No,22,4.0,4,full-time,2,13.0,4.0,7,5,7,yes
+1573,43,no,travel_frequently,9,5,,4,M,3,2, laboratory technician ,3,divorced,,3,,13,3.0,2,full-time,1,10.0,3.0,8,4,7,yes
+1574,53,no,non-travel,1,1,,4,F,3,2, sales executive ,1,single,,7,,20,4.0,4,full-time,0,18.0,4.0,14,8,10,no
+1575,37,no,travel_rarely,3,3,other,3,M,3,3, manufacturing director ,3,married,9434.0,1,No,15,,3,part-time,1,,3.0,10,7,8,yes
+1576,54,no,non-travel,24,4,,3,M,3,3, human resources ,2,,,2,,15,,3,part-time,1,16.0,4.0,9,7,1,no
+1577,38,no,travel_rarely,7,4,marketing,4,F,2,2, sales executive ,4,,,0,No,20,,1,full-time,0,,3.0,7,0,5,yes
+1578,29,no,non-travel,1,4,life sciences,2,M,1,1, research scientist ,4,divorced,,1,,18,3.0,4,full-time,1,10.0,3.0,10,2,8,yes
+1579,34,no,non-travel,9,3,medical,4,F,2,3, healthcare representative ,2,,,1,,14,3.0,2,full-time,0,9.0,4.0,8,7,7,yes
+1580,39,no,non-travel,2,4,technical degree,4,F,2,2, healthcare representative ,3,single,,1,No,11,3.0,1,full-time,0,20.0,3.0,20,11,10,no
+1581,32,no,non-travel,10,3,marketing,4,M,3,2, sales executive ,4,,5396.0,1,,12,3.0,4,full-time,0,10.0,2.0,10,0,8,yes
+1582,38,no,travel_rarely,1,4,life sciences,2,F,4,2, healthcare representative ,4,,,0,,13,3.0,3,full-time,0,10.0,,9,1,8,no
+1583,27,no,travel_rarely,1,2,life sciences,3,F,3,3, manufacturing director ,1,married,,1,,11,3.0,4,full-time,0,9.0,3.0,9,0,7,no
+1584,32,no,travel_rarely,3,2,life sciences,3,F,3,3, research director ,4,single,11159.0,3,,15,3.0,4,full-time,0,10.0,3.0,7,7,7,no
+1585,47,no,non-travel,14,4,marketing,4,M,3,2, sales executive ,1,single,4960.0,2,,12,3.0,4,full-time,0,20.0,3.0,7,1,7,no
+1586,27,no,travel_frequently,10,2,,4,M,3,3, manufacturing director ,1,,8793.0,1,No,21,4.0,3,full-time,2,9.0,2.0,9,1,7,yes
+1587,41,no,non-travel,1,3,,4,M,2,5, manager ,3,,19189.0,1,No,12,,2,part-time,1,22.0,3.0,22,2,10,no
+1588,28,yes,non-travel,1,2,,1,F,1,1, research scientist ,2,,2216.0,7,Yes,13,3.0,4,part-time,0,10.0,3.0,7,3,7,yes
+1589,36,no,non-travel,8,3,,1,F,4,3, research director ,1,married,11713.0,9,,14,3.0,1,part-time,1,10.0,3.0,8,0,5,no
+1590,30,no,non-travel,35,5,marketing,35,M,3,2, sales executive ,4,divorced,5304.0,7,No,23,,4,part-time,1,10.0,2.0,8,7,7,no
+1591,56,no,travel_rarely,9,3,,3,M,3,4, healthcare representative ,4,married,11103.0,7,No,11,3.0,3,full-time,0,30.0,2.0,10,1,1,yes
+1592,45,no,travel_rarely,2,2,,2,M,1,2, sales representative ,3,single,6632.0,0,No,13,3.0,1,full-time,0,9.0,3.0,8,3,1,yes
+1593,36,no,non-travel,8,4,,1,M,2,3, sales executive ,1,single,7587.0,1,,15,3.0,2,part-time,0,10.0,3.0,10,0,9,yes
+1594,29,no,non-travel,27,3,medical,2,F,3,2, healthcare representative ,3,married,4335.0,4,No,12,3.0,1,full-time,1,11.0,2.0,8,1,1,yes
+1595,38,no,non-travel,2,4,life sciences,1,F,4,2, manufacturing director ,1,single,5980.0,6,,12,3.0,4,full-time,0,17.0,3.0,15,4,12,no
+1596,40,no,non-travel,2,2,medical,3,F,4,2, healthcare representative ,2,,4244.0,1,No,24,4.0,4,full-time,1,8.0,3.0,8,3,7,yes
+1597,42,no,travel_frequently,8,3,,2,M,3,5, manager ,4,,,1,No,13,3.0,2,full-time,1,24.0,2.0,24,14,9,yes
+1598,36,no,travel_rarely,1,3,other,3,F,3,2, manufacturing director ,2,,5228.0,0,,15,3.0,1,full-time,1,,3.0,9,0,5,yes
+1599,29,no,travel_rarely,23,2,,3,M,4,1, research scientist ,3,married,2700.0,1,,24,4.0,3,full-time,1,10.0,3.0,10,0,7,no
+1600,55,yes,non-travel,2,1,medical,3,M,3,2, sales executive ,4,single,,4,,16,3.0,3,part-time,0,,2.0,9,7,3,yes
+1601,28,no,non-travel,43,4,,43,F,3,2, sales executive ,2,,,1,,20,4.0,1,full-time,0,8.0,3.0,8,7,5,no
+1602,26,yes,non-travel,5,2,medical,3,F,2,1, research scientist ,3,married,2366.0,1,,14,3.0,1,full-time,1,8.0,3.0,8,1,7,yes
+1603,44,no,non-travel,9,2,,2,M,3,1, research scientist ,1,,,1,Yes,13,3.0,4,part-time,0,8.0,3.0,8,7,1,no
+1604,41,yes,non-travel,2,4,life sciences,2,F,1,1, laboratory technician ,4,divorced,,4,Yes,13,3.0,3,part-time,1,,2.0,7,1,0,yes
+1605,31,no,travel_rarely,7,4,,2,M,2,1, sales representative ,3,,2329.0,3,,15,,2,part-time,0,,4.0,7,5,2,yes
+1606,26,no,travel_frequently,1,3,medical,3,M,2,2, sales executive ,1,,4294.0,1,,12,3.0,2,full-time,0,,3.0,7,0,7,yes
+1607,31,no,non-travel,12,3,medical,4,F,3,2, healthcare representative ,4,,,0,,11,3.0,3,full-time,2,10.0,1.0,9,8,5,yes
+1608,32,no,non-travel,3,4,medical,3,F,3,2, manufacturing director ,1,married,6725.0,1,,12,3.0,3,full-time,1,8.0,4.0,8,6,3,yes
+1609,36,yes,travel_rarely,3,1,life sciences,3,M,2,3, sales executive ,4,married,10325.0,1,,11,,1,full-time,1,,3.0,16,3,7,no
+1610,45,no,non-travel,4,2,,3,M,3,2, laboratory technician ,2,,4447.0,1,,12,3.0,2,full-time,0,,2.0,9,0,8,yes
+1611,39,no,travel_rarely,13,5,,13,M,4,3, sales executive ,3,single,,0,No,18,3.0,4,full-time,0,9.0,3.0,8,0,7,yes
+1612,36,no,non-travel,8,4,technical degree,1,M,3,2, sales executive ,4,divorced,,4,No,13,,4,full-time,2,12.0,3.0,7,0,7,yes
+1613,46,no,non-travel,7,2,medical,4,M,3,3, manufacturing director ,3,,10845.0,6,,13,3.0,2,full-time,1,,3.0,8,0,7,no
