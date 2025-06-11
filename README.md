@@ -2,9 +2,9 @@
 
 ---
 ### Contexto
-Somos el Laboratorio de Retención (LR), una empresa especializada en el análisis de datos para la retención del talento humano. Nuestra labor se enfoca en ayudar a organizaciones a comprender, anticipar y prevenir la rotación no deseada de empleados, a través del uso estratégico de datos. Desarrollamos soluciones basadas en analítica avanzada, visualizaciones efectivas y modelos predictivos que permiten identificar factores críticos que influyen en la satisfacción laboral y en la fidelización del talento. 
+Somos el Laboratorio de Retención, una empresa especializada en el análisis de datos para la retención del talento humano. Nuestra labor se enfoca en ayudar a organizaciones a comprender, anticipar y prevenir la rotación no deseada de empleados/as, a través del uso estratégico de datos. Desarrollamos soluciones basadas en analítica avanzada, visualizaciones efectivas y modelos predictivos que permiten identificar factores críticos que influyen en la satisfacción laboral y en la fidelización del talento. 
 
-Nuestra misión principal es RETENER el Talento, identificar que factores influyen para que l@s emplead@s se queden y así ayudar a las personas y equipos porque como dice nuestro lema:
+Nuestra misión principal es RETENER el Talento, identificar que factores influyen para que los y las empleados/as se queden y así ayudar a las personas y equipos, porque como dice nuestro lema:
 
 Cuando las personas se sienten VISTAS, VALORADAS y ESCUCHADAS, se quedan.
 
@@ -12,9 +12,9 @@ Cuando las personas se sienten VISTAS, VALORADAS y ESCUCHADAS, se quedan.
 
 ## 🚀 Resumen del Proyecto
 
-En el competitivo panorama empresarial actual, la **retención de emplead@s** y la **satisfacción laboral** son factores críticos que impactan directamente la productividad, la moral y la rentabilidad de una organización. Este proyecto aborda estas problemáticas, desarrollando un análisis de datos exhaustivo para **ABC Corporation**, una consultora tecnológica fundada en 1980 en California, especializada en soluciones de IA y Machine Learning.
+En el competitivo panorama empresarial actual, la **retención de empleados/as** y la **satisfacción laboral** son factores críticos que impactan directamente la productividad, la moral y la rentabilidad de una organización. Este proyecto aborda estas problemáticas, desarrollando un análisis de datos exhaustivo para **ABC Corporation**, una consultora tecnológica fundada en 1980 en California, especializada en soluciones de IA y Machine Learning.
 
-Nuestro objetivo principal es **identificar los factores clave que influyen en la satisfacción en el trabajo y la retención de emplead@s**, proporcionando a ABC Corporation información valiosa para la toma de decisiones estratégicas.
+Nuestro objetivo principal es proporcionar a ABC Corporation información valiosa para la toma de decisiones estratégicas.
 
 ---
 
@@ -60,7 +60,7 @@ Elaboración de un informe detallado y una presentación interactiva con las con
 
 ## 📊 Conjunto de Datos
 
-El análisis se basa en el archivo `hr_raw_data.csv`, que contiene información relevante sobre los empleados, sobre todas las columnas se han seleccionado aquellas que tienen valor de análisis.
+El análisis se basa en el archivo `hr_raw_data.csv`, que contiene información relevante sobre los/las empleados/as, sobre todas las columnas se han seleccionado aquellas que tienen valor de análisis.
 
 ---
 
