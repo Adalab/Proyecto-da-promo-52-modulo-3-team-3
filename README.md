@@ -75,6 +75,10 @@ El proyecto se desarrollará en **2 Sprints**.
 
 ---
 
+## PRESENTACIÓN:
+
+https://view.genially.com/684a9e6d3ae78dfd7bc57f8f/presentation-laboratorio-de-retencion
+
 ## 🤝 EQUIPO HUMANO
 
 Las participantes del proyecto han sido:
