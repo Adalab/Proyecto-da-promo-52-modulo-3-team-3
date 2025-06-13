@@ -85,7 +85,7 @@ https://view.genially.com/684a9e6d3ae78dfd7bc57f8f/presentation-laboratorio-de-r
 
 Las participantes del proyecto han sido:
 
-Beatriz Barberán
-Gemma Traguany
-Génesis Narea
-Irantzu Urkiola
+* **Beatriz Barberán
+* **Gemma Traguany
+* **Génesis Narea
+* **Irantzu Urkiola
