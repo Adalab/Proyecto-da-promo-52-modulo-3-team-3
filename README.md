@@ -75,7 +75,9 @@ El proyecto se desarrollará en **2 Sprints**.
 
 ---
 
-## PRESENTACIÓN:
+## 🔗 ACCESO A LA PRESENTACIÓN:
+
+La presentación incluye las propuesta para el desarrollo de la retención de ABC Corporation:
 
 https://view.genially.com/684a9e6d3ae78dfd7bc57f8f/presentation-laboratorio-de-retencion
 
